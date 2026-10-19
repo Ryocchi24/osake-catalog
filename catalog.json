@@ -310,25 +310,6 @@
   "origin": "アイルランド"
  },
  {
-  "id": "cat-0035",
-  "name": "シングルモルトウイスキー",
-  "genre": "whisky",
-  "aliases": [
-   "シングルモルト"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0036",
-  "name": "バーボン",
-  "genre": "whisky",
-  "aliases": [
-   "バーボンウイスキー"
-  ],
-  "origin": "アメリカ",
-  "generic": true
- },
- {
   "id": "cat-0037",
   "name": "獺祭",
   "genre": "sake",
@@ -482,223 +463,6 @@
   "origin": "日本・京都"
  },
  {
-  "id": "cat-0058",
-  "name": "純米大吟醸",
-  "genre": "sake",
-  "reading": "じゅんまいだいぎんじょう",
-  "generic": true
- },
- {
-  "id": "cat-0059",
-  "name": "純米吟醸",
-  "genre": "sake",
-  "reading": "じゅんまいぎんじょう",
-  "generic": true
- },
- {
-  "id": "cat-0060",
-  "name": "大吟醸",
-  "genre": "sake",
-  "reading": "だいぎんじょう",
-  "generic": true
- },
- {
-  "id": "cat-0061",
-  "name": "純米酒",
-  "genre": "sake",
-  "reading": "じゅんまいしゅ",
-  "generic": true
- },
- {
-  "id": "cat-0062",
-  "name": "本醸造",
-  "genre": "sake",
-  "reading": "ほんじょうぞう",
-  "generic": true
- },
- {
-  "id": "cat-0063",
-  "name": "にごり酒",
-  "genre": "sake",
-  "reading": "にごりざけ",
-  "generic": true
- },
- {
-  "id": "cat-0064",
-  "name": "スパークリング日本酒",
-  "genre": "sake",
-  "reading": "すぱーくりんぐにほんしゅ",
-  "aliases": [
-   "スパークリング清酒"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0065",
-  "name": "ひやおろし",
-  "genre": "sake",
-  "generic": true
- },
- {
-  "id": "cat-0066",
-  "name": "日本酒",
-  "genre": "sake",
-  "reading": "にほんしゅ",
-  "aliases": [
-   "清酒",
-   "地酒"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0067",
-  "name": "赤ワイン",
-  "genre": "wine",
-  "reading": "あかわいん",
-  "aliases": [
-   "赤",
-   "ハウスワイン 赤"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0068",
-  "name": "白ワイン",
-  "genre": "wine",
-  "reading": "しろわいん",
-  "aliases": [
-   "白",
-   "ハウスワイン 白"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0069",
-  "name": "ロゼワイン",
-  "genre": "wine",
-  "aliases": [
-   "ロゼ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0070",
-  "name": "スパークリングワイン",
-  "genre": "wine",
-  "aliases": [
-   "スパークリング",
-   "泡"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0071",
-  "name": "オレンジワイン",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0072",
-  "name": "シャンパン",
-  "genre": "wine",
-  "aliases": [
-   "シャンパーニュ",
-   "Champagne"
-  ],
-  "origin": "フランス・シャンパーニュ",
-  "generic": true
- },
- {
-  "id": "cat-0073",
-  "name": "カヴァ",
-  "genre": "wine",
-  "aliases": [
-   "カバ",
-   "Cava"
-  ],
-  "origin": "スペイン",
-  "generic": true
- },
- {
-  "id": "cat-0074",
-  "name": "プロセッコ",
-  "genre": "wine",
-  "aliases": [
-   "Prosecco"
-  ],
-  "origin": "イタリア",
-  "generic": true
- },
- {
-  "id": "cat-0075",
-  "name": "カベルネ・ソーヴィニヨン",
-  "genre": "wine",
-  "aliases": [
-   "カベルネソービニヨン",
-   "カベルネ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0076",
-  "name": "メルロー",
-  "genre": "wine",
-  "aliases": [
-   "メルロ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0077",
-  "name": "ピノ・ノワール",
-  "genre": "wine",
-  "aliases": [
-   "ピノノワール"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0078",
-  "name": "シラー",
-  "genre": "wine",
-  "aliases": [
-   "シラーズ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0079",
-  "name": "シャルドネ",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0080",
-  "name": "ソーヴィニヨン・ブラン",
-  "genre": "wine",
-  "aliases": [
-   "ソービニヨンブラン"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0081",
-  "name": "リースリング",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0082",
-  "name": "甲州",
-  "genre": "wine",
-  "reading": "こうしゅう",
-  "aliases": [
-   "甲州ワイン"
-  ],
-  "origin": "日本・山梨",
-  "generic": true
- },
- {
   "id": "cat-0083",
   "name": "シャブリ",
   "genre": "wine",
@@ -760,18 +524,6 @@
   "id": "cat-0089",
   "name": "サングリア",
   "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0090",
-  "name": "生ビール",
-  "genre": "beer",
-  "reading": "なまびーる",
-  "aliases": [
-   "生",
-   "ビール",
-   "とりあえず生"
-  ],
   "generic": true
  },
  {
@@ -911,107 +663,6 @@
    "Budweiser"
   ],
   "origin": "アメリカ"
- },
- {
-  "id": "cat-0106",
-  "name": "IPA",
-  "genre": "beer",
-  "aliases": [
-   "インディア・ペールエール"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0107",
-  "name": "ペールエール",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0108",
-  "name": "ヴァイツェン",
-  "genre": "beer",
-  "aliases": [
-   "ヴァイス",
-   "白ビール"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0109",
-  "name": "スタウト",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0110",
-  "name": "ピルスナー",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0111",
-  "name": "クラフトビール",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0112",
-  "name": "黒ビール",
-  "genre": "beer",
-  "reading": "くろびーる",
-  "generic": true
- },
- {
-  "id": "cat-0113",
-  "name": "ハーフ&ハーフ",
-  "genre": "beer",
-  "aliases": [
-   "ハーフアンドハーフ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0114",
-  "name": "芋焼酎",
-  "genre": "shochu",
-  "reading": "いもじょうちゅう",
-  "aliases": [
-   "芋"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0115",
-  "name": "麦焼酎",
-  "genre": "shochu",
-  "reading": "むぎじょうちゅう",
-  "aliases": [
-   "麦"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0116",
-  "name": "米焼酎",
-  "genre": "shochu",
-  "reading": "こめじょうちゅう",
-  "generic": true
- },
- {
-  "id": "cat-0117",
-  "name": "黒糖焼酎",
-  "genre": "shochu",
-  "reading": "こくとうじょうちゅう",
-  "generic": true
- },
- {
-  "id": "cat-0118",
-  "name": "泡盛",
-  "genre": "shochu",
-  "reading": "あわもり",
-  "origin": "日本・沖縄",
-  "generic": true
  },
  {
   "id": "cat-0119",
@@ -1454,16 +1105,6 @@
   ]
  },
  {
-  "id": "cat-0184",
-  "name": "酎ハイ",
-  "genre": "sour",
-  "reading": "ちゅうはい",
-  "aliases": [
-   "チューハイ"
-  ],
-  "generic": true
- },
- {
   "id": "cat-0185",
   "name": "氷結",
   "genre": "sour",
@@ -1573,21 +1214,6 @@
   "origin": "日本"
  },
  {
-  "id": "cat-0197",
-  "name": "クラフトジン",
-  "genre": "gin",
-  "generic": true
- },
- {
-  "id": "cat-0198",
-  "name": "ドライジン",
-  "genre": "gin",
-  "aliases": [
-   "ジン"
-  ],
-  "generic": true
- },
- {
   "id": "cat-0199",
   "name": "バカルディ",
   "genre": "rum",
@@ -1621,18 +1247,6 @@
    "Zacapa"
   ],
   "origin": "グアテマラ"
- },
- {
-  "id": "cat-0203",
-  "name": "ホワイトラム",
-  "genre": "rum",
-  "generic": true
- },
- {
-  "id": "cat-0204",
-  "name": "ダークラム",
-  "genre": "rum",
-  "generic": true
  },
  {
   "id": "cat-0205",
@@ -1670,35 +1284,6 @@
   "origin": "ポーランド"
  },
  {
-  "id": "cat-0209",
-  "name": "ウォッカ",
-  "genre": "vodka",
-  "aliases": [
-   "ウオッカ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0210",
-  "name": "テキーラ",
-  "genre": "tequila",
-  "aliases": [
-   "Tequila"
-  ],
-  "origin": "メキシコ",
-  "generic": true
- },
- {
-  "id": "cat-0211",
-  "name": "メスカル",
-  "genre": "tequila",
-  "aliases": [
-   "Mezcal"
-  ],
-  "origin": "メキシコ",
-  "generic": true
- },
- {
   "id": "cat-0212",
   "name": "ホセ・クエルボ",
   "genre": "tequila",
@@ -1727,16 +1312,6 @@
   "origin": "メキシコ"
  },
  {
-  "id": "cat-0215",
-  "name": "コニャック",
-  "genre": "brandy",
-  "aliases": [
-   "Cognac"
-  ],
-  "origin": "フランス・コニャック",
-  "generic": true
- },
- {
   "id": "cat-0216",
   "name": "ヘネシー",
   "genre": "brandy",
@@ -1753,27 +1328,6 @@
    "Remy Martin"
   ],
   "origin": "フランス・コニャック"
- },
- {
-  "id": "cat-0218",
-  "name": "カルヴァドス",
-  "genre": "brandy",
-  "aliases": [
-   "カルバドス",
-   "Calvados"
-  ],
-  "origin": "フランス・ノルマンディー",
-  "generic": true
- },
- {
-  "id": "cat-0219",
-  "name": "グラッパ",
-  "genre": "brandy",
-  "aliases": [
-   "Grappa"
-  ],
-  "origin": "イタリア",
-  "generic": true
  },
  {
   "id": "cat-0220",
@@ -1840,31 +1394,6 @@
   "origin": "ドイツ"
  },
  {
-  "id": "cat-0227",
-  "name": "アマレット",
-  "genre": "liqueur",
-  "aliases": [
-   "Amaretto"
-  ],
-  "origin": "イタリア"
- },
- {
-  "id": "cat-0228",
-  "name": "リモンチェッロ",
-  "genre": "liqueur",
-  "aliases": [
-   "Limoncello"
-  ],
-  "origin": "イタリア"
- },
- {
-  "id": "cat-0229",
-  "name": "梅酒",
-  "genre": "umeshu",
-  "reading": "うめしゅ",
-  "generic": true
- },
- {
   "id": "cat-0230",
   "name": "チョーヤ 梅酒",
   "genre": "umeshu",
@@ -1875,66 +1404,16 @@
   "origin": "日本"
  },
  {
-  "id": "cat-0231",
-  "name": "ゆず酒",
-  "genre": "umeshu",
-  "reading": "ゆずしゅ",
-  "generic": true
- },
- {
   "id": "cat-0232",
   "name": "杏露酒",
   "genre": "umeshu",
   "reading": "しんるちゅう"
  },
  {
-  "id": "cat-0233",
-  "name": "紹興酒",
-  "genre": "other",
-  "reading": "しょうこうしゅ",
-  "origin": "中国",
-  "generic": true
- },
- {
-  "id": "cat-0234",
-  "name": "マッコリ",
-  "genre": "other",
-  "origin": "韓国",
-  "generic": true
- },
- {
   "id": "cat-0235",
   "name": "チャミスル",
   "genre": "other",
   "origin": "韓国"
- },
- {
-  "id": "cat-0236",
-  "name": "ソジュ",
-  "genre": "other",
-  "aliases": [
-   "韓国焼酎"
-  ],
-  "origin": "韓国",
-  "generic": true
- },
- {
-  "id": "cat-0237",
-  "name": "シードル",
-  "genre": "other",
-  "aliases": [
-   "Cidre"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0238",
-  "name": "ミード",
-  "genre": "other",
-  "aliases": [
-   "蜂蜜酒"
-  ],
-  "generic": true
  },
  {
   "id": "cat-0239",
@@ -2164,13 +1643,6 @@
    "ホワイトオーク あかし"
   ],
   "origin": "日本・兵庫"
- },
- {
-  "id": "cat-0265",
-  "name": "ジャパニーズウイスキー",
-  "genre": "whisky",
-  "origin": "日本",
-  "generic": true
  },
  {
   "id": "cat-0266",
@@ -2660,58 +2132,6 @@
    "KAVALAN"
   ],
   "origin": "台湾"
- },
- {
-  "id": "cat-0318",
-  "name": "ブレンデッドウイスキー",
-  "genre": "whisky",
-  "generic": true
- },
- {
-  "id": "cat-0319",
-  "name": "スコッチウイスキー",
-  "genre": "whisky",
-  "aliases": [
-   "スコッチ"
-  ],
-  "origin": "スコットランド",
-  "generic": true
- },
- {
-  "id": "cat-0320",
-  "name": "アイリッシュウイスキー",
-  "genre": "whisky",
-  "origin": "アイルランド",
-  "generic": true
- },
- {
-  "id": "cat-0321",
-  "name": "テネシーウイスキー",
-  "genre": "whisky",
-  "origin": "アメリカ・テネシー",
-  "generic": true
- },
- {
-  "id": "cat-0322",
-  "name": "ライウイスキー",
-  "genre": "whisky",
-  "aliases": [
-   "ライ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0323",
-  "name": "カナディアンウイスキー",
-  "genre": "whisky",
-  "origin": "カナダ",
-  "generic": true
- },
- {
-  "id": "cat-0324",
-  "name": "グレーンウイスキー",
-  "genre": "whisky",
-  "generic": true
  },
  {
   "id": "cat-0325",
@@ -3614,119 +3034,6 @@
   "origin": "日本・長崎"
  },
  {
-  "id": "cat-0451",
-  "name": "吟醸",
-  "genre": "sake",
-  "reading": "ぎんじょう",
-  "generic": true
- },
- {
-  "id": "cat-0452",
-  "name": "特別純米",
-  "genre": "sake",
-  "reading": "とくべつじゅんまい",
-  "generic": true
- },
- {
-  "id": "cat-0453",
-  "name": "特別本醸造",
-  "genre": "sake",
-  "reading": "とくべつほんじょうぞう",
-  "generic": true
- },
- {
-  "id": "cat-0454",
-  "name": "生酒",
-  "genre": "sake",
-  "reading": "なまざけ",
-  "generic": true
- },
- {
-  "id": "cat-0455",
-  "name": "生原酒",
-  "genre": "sake",
-  "reading": "なまげんしゅ",
-  "generic": true
- },
- {
-  "id": "cat-0456",
-  "name": "原酒",
-  "genre": "sake",
-  "reading": "げんしゅ",
-  "generic": true
- },
- {
-  "id": "cat-0457",
-  "name": "古酒",
-  "genre": "sake",
-  "reading": "こしゅ",
-  "aliases": [
-   "熟成酒"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0458",
-  "name": "山廃",
-  "genre": "sake",
-  "reading": "やまはい",
-  "aliases": [
-   "山廃仕込み"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0459",
-  "name": "生酛",
-  "genre": "sake",
-  "reading": "きもと",
-  "aliases": [
-   "生酛造り"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0460",
-  "name": "樽酒",
-  "genre": "sake",
-  "reading": "たるざけ",
-  "generic": true
- },
- {
-  "id": "cat-0461",
-  "name": "熱燗",
-  "genre": "sake",
-  "reading": "あつかん",
-  "aliases": [
-   "燗酒",
-   "お燗"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0462",
-  "name": "冷酒",
-  "genre": "sake",
-  "reading": "れいしゅ",
-  "aliases": [
-   "冷や"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0463",
-  "name": "普通酒",
-  "genre": "sake",
-  "reading": "ふつうしゅ",
-  "generic": true
- },
- {
-  "id": "cat-0464",
-  "name": "どぶろく",
-  "genre": "sake",
-  "generic": true
- },
- {
   "id": "cat-0465",
   "name": "伊佐美",
   "genre": "shochu",
@@ -4007,17 +3314,6 @@
   "origin": "日本・沖縄"
  },
  {
-  "id": "cat-0504",
-  "name": "泡盛古酒",
-  "genre": "shochu",
-  "reading": "あわもりくーす",
-  "aliases": [
-   "古酒(くーす)"
-  ],
-  "origin": "日本・沖縄",
-  "generic": true
- },
- {
   "id": "cat-0505",
   "name": "紅乙女",
   "genre": "shochu",
@@ -4044,52 +3340,6 @@
    "純"
   ],
   "origin": "日本"
- },
- {
-  "id": "cat-0508",
-  "name": "焼酎",
-  "genre": "shochu",
-  "reading": "しょうちゅう",
-  "generic": true
- },
- {
-  "id": "cat-0509",
-  "name": "本格焼酎",
-  "genre": "shochu",
-  "reading": "ほんかくしょうちゅう",
-  "aliases": [
-   "乙類焼酎"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0510",
-  "name": "甲類焼酎",
-  "genre": "shochu",
-  "reading": "こうるいしょうちゅう",
-  "generic": true
- },
- {
-  "id": "cat-0511",
-  "name": "そば焼酎",
-  "genre": "shochu",
-  "reading": "そばじょうちゅう",
-  "generic": true
- },
- {
-  "id": "cat-0512",
-  "name": "栗焼酎",
-  "genre": "shochu",
-  "reading": "くりじょうちゅう",
-  "generic": true
- },
- {
-  "id": "cat-0513",
-  "name": "球磨焼酎",
-  "genre": "shochu",
-  "reading": "くましょうちゅう",
-  "origin": "日本・熊本",
-  "generic": true
  },
  {
   "id": "cat-0514",
@@ -4483,285 +3733,10 @@
   "origin": "スコットランド"
  },
  {
-  "id": "cat-0556",
-  "name": "ラガー",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0557",
-  "name": "エール",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0558",
-  "name": "セゾン",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0559",
-  "name": "ベルジャンホワイト",
-  "genre": "beer",
-  "aliases": [
-   "ホワイトビール"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0560",
-  "name": "ポーター",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0561",
-  "name": "ヘイジーIPA",
-  "genre": "beer",
-  "aliases": [
-   "ヘイジー"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0562",
-  "name": "ケルシュ",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0563",
-  "name": "ボック",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-0564",
-  "name": "地ビール",
-  "genre": "beer",
-  "reading": "じびーる",
-  "generic": true
- },
- {
-  "id": "cat-0565",
-  "name": "発泡酒",
-  "genre": "beer",
-  "reading": "はっぽうしゅ",
-  "generic": true
- },
- {
-  "id": "cat-0566",
-  "name": "新ジャンル",
-  "genre": "beer",
-  "reading": "しんじゃんる",
-  "aliases": [
-   "第三のビール"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0567",
-  "name": "瓶ビール",
-  "genre": "beer",
-  "reading": "びんびーる",
-  "aliases": [
-   "瓶"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0568",
-  "name": "ピノ・グリ",
-  "genre": "wine",
-  "aliases": [
-   "ピノグリ",
-   "ピノ・グリージョ",
-   "ピノグリージョ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0569",
-  "name": "ゲヴュルツトラミネール",
-  "genre": "wine",
-  "aliases": [
-   "ゲヴュルツ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0570",
-  "name": "シュナン・ブラン",
-  "genre": "wine",
-  "aliases": [
-   "シュナンブラン"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0571",
-  "name": "ヴィオニエ",
-  "genre": "wine",
-  "aliases": [
-   "ビオニエ"
-  ],
-  "generic": true
- },
- {
   "id": "cat-0572",
   "name": "ミュスカデ",
   "genre": "wine",
   "generic": true
- },
- {
-  "id": "cat-0573",
-  "name": "グルナッシュ",
-  "genre": "wine",
-  "aliases": [
-   "ガルナッチャ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0574",
-  "name": "テンプラニーリョ",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0575",
-  "name": "サンジョヴェーゼ",
-  "genre": "wine",
-  "aliases": [
-   "サンジョベーゼ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0576",
-  "name": "ネッビオーロ",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0577",
-  "name": "マルベック",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0578",
-  "name": "ジンファンデル",
-  "genre": "wine",
-  "aliases": [
-   "プリミティーヴォ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0579",
-  "name": "カルメネール",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0580",
-  "name": "ピノタージュ",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0581",
-  "name": "マスカット・ベーリーA",
-  "genre": "wine",
-  "aliases": [
-   "ベーリーA",
-   "マスカットベーリーA"
-  ],
-  "origin": "日本",
-  "generic": true
- },
- {
-  "id": "cat-0582",
-  "name": "カベルネ・フラン",
-  "genre": "wine",
-  "aliases": [
-   "カベルネフラン"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0583",
-  "name": "モンテプルチアーノ",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0584",
-  "name": "バルベーラ",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0585",
-  "name": "アルバリーニョ",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0586",
-  "name": "グリューナー・ヴェルトリーナー",
-  "genre": "wine",
-  "aliases": [
-   "グリューナー"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0587",
-  "name": "ボルドー",
-  "genre": "wine",
-  "aliases": [
-   "ボルドーワイン"
-  ],
-  "origin": "フランス・ボルドー"
- },
- {
-  "id": "cat-0588",
-  "name": "ブルゴーニュ",
-  "genre": "wine",
-  "aliases": [
-   "ブルゴーニュワイン"
-  ],
-  "origin": "フランス・ブルゴーニュ"
- },
- {
-  "id": "cat-0589",
-  "name": "コート・デュ・ローヌ",
-  "genre": "wine",
-  "aliases": [
-   "ローヌ"
-  ],
-  "origin": "フランス・ローヌ"
- },
- {
-  "id": "cat-0590",
-  "name": "ロワール",
-  "genre": "wine",
-  "aliases": [
-   "ロワールワイン"
-  ],
-  "origin": "フランス・ロワール"
- },
- {
-  "id": "cat-0591",
-  "name": "アルザス",
-  "genre": "wine",
-  "aliases": [
-   "アルザスワイン"
-  ],
-  "origin": "フランス・アルザス"
  },
  {
   "id": "cat-0592",
@@ -4827,89 +3802,10 @@
   "origin": "スペイン・リオハ"
  },
  {
-  "id": "cat-0601",
-  "name": "シェリー",
-  "genre": "wine",
-  "aliases": [
-   "ヘレス",
-   "Sherry"
-  ],
-  "origin": "スペイン"
- },
- {
-  "id": "cat-0602",
-  "name": "ポートワイン",
-  "genre": "wine",
-  "aliases": [
-   "ポルト",
-   "ポート"
-  ],
-  "origin": "ポルトガル"
- },
- {
-  "id": "cat-0603",
-  "name": "マデイラ",
-  "genre": "wine",
-  "aliases": [
-   "マデイラワイン"
-  ],
-  "origin": "ポルトガル"
- },
- {
-  "id": "cat-0604",
-  "name": "貴腐ワイン",
-  "genre": "wine",
-  "reading": "きふわいん",
-  "aliases": [
-   "ソーテルヌ"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0605",
-  "name": "アイスワイン",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-0606",
-  "name": "ナチュラルワイン",
-  "genre": "wine",
-  "aliases": [
-   "自然派ワイン",
-   "ヴァンナチュール"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0607",
-  "name": "スプマンテ",
-  "genre": "wine",
-  "origin": "イタリア",
-  "generic": true
- },
- {
-  "id": "cat-0608",
-  "name": "クレマン",
-  "genre": "wine",
-  "origin": "フランス",
-  "generic": true
- },
- {
   "id": "cat-0609",
   "name": "フランチャコルタ",
   "genre": "wine",
   "origin": "イタリア・ロンバルディア"
- },
- {
-  "id": "cat-0610",
-  "name": "ホットワイン",
-  "genre": "wine",
-  "aliases": [
-   "ヴァン・ショー",
-   "グリューワイン"
-  ],
-  "generic": true
  },
  {
   "id": "cat-0611",
@@ -5452,15 +4348,6 @@
   ]
  },
  {
-  "id": "cat-0684",
-  "name": "ウイスキー水割り",
-  "genre": "cocktail",
-  "reading": "うぃすきーみずわり",
-  "aliases": [
-   "水割り"
-  ]
- },
- {
   "id": "cat-0685",
   "name": "ゆずサワー",
   "genre": "sour",
@@ -5530,16 +4417,6 @@
   "reading": "おとこうめさわー",
   "aliases": [
    "男梅"
-  ],
-  "origin": "日本"
- },
- {
-  "id": "cat-0696",
-  "name": "焼酎ハイボール",
-  "genre": "sour",
-  "reading": "しょうちゅうはいぼーる",
-  "aliases": [
-   "タカラ 焼酎ハイボール"
   ],
   "origin": "日本"
  },
@@ -5628,13 +4505,6 @@
   "origin": "日本・広島"
  },
  {
-  "id": "cat-0707",
-  "name": "ジャパニーズジン",
-  "genre": "gin",
-  "origin": "日本",
-  "generic": true
- },
- {
   "id": "cat-0708",
   "name": "タンカレー No.10",
   "genre": "gin",
@@ -5686,13 +4556,6 @@
    "Plymouth"
   ],
   "origin": "イギリス"
- },
- {
-  "id": "cat-0714",
-  "name": "ロンドンドライジン",
-  "genre": "gin",
-  "origin": "イギリス",
-  "generic": true
  },
  {
   "id": "cat-0715",
@@ -5755,24 +4618,6 @@
    "ザ・クラーケン",
    "Kraken"
   ]
- },
- {
-  "id": "cat-0722",
-  "name": "スパイスドラム",
-  "genre": "rum",
-  "generic": true
- },
- {
-  "id": "cat-0723",
-  "name": "アグリコールラム",
-  "genre": "rum",
-  "generic": true
- },
- {
-  "id": "cat-0724",
-  "name": "ラム",
-  "genre": "rum",
-  "generic": true
  },
  {
   "id": "cat-0725",
@@ -5863,46 +4708,6 @@
   "origin": "メキシコ"
  },
  {
-  "id": "cat-0735",
-  "name": "テキーラ ブランコ",
-  "genre": "tequila",
-  "aliases": [
-   "ブランコ",
-   "シルバー"
-  ],
-  "origin": "メキシコ",
-  "generic": true
- },
- {
-  "id": "cat-0736",
-  "name": "テキーラ レポサド",
-  "genre": "tequila",
-  "aliases": [
-   "レポサド"
-  ],
-  "origin": "メキシコ",
-  "generic": true
- },
- {
-  "id": "cat-0737",
-  "name": "テキーラ アネホ",
-  "genre": "tequila",
-  "aliases": [
-   "アネホ"
-  ],
-  "origin": "メキシコ",
-  "generic": true
- },
- {
-  "id": "cat-0738",
-  "name": "テキーラショット",
-  "genre": "tequila",
-  "aliases": [
-   "ショット"
-  ],
-  "generic": true
- },
- {
   "id": "cat-0739",
   "name": "マーテル",
   "genre": "brandy",
@@ -5930,46 +4735,11 @@
   "origin": "フランス・コニャック"
  },
  {
-  "id": "cat-0742",
-  "name": "アルマニャック",
-  "genre": "brandy",
-  "aliases": [
-   "Armagnac"
-  ],
-  "origin": "フランス・アルマニャック",
-  "generic": true
- },
- {
-  "id": "cat-0743",
-  "name": "ピスコ",
-  "genre": "brandy",
-  "aliases": [
-   "Pisco"
-  ],
-  "origin": "ペルー",
-  "generic": true
- },
- {
-  "id": "cat-0744",
-  "name": "ブランデー",
-  "genre": "brandy",
-  "generic": true
- },
- {
   "id": "cat-0745",
   "name": "ディタ",
   "genre": "liqueur",
   "aliases": [
    "ライチリキュール"
-  ]
- },
- {
-  "id": "cat-0746",
-  "name": "クレーム・ド・カシス",
-  "genre": "liqueur",
-  "aliases": [
-   "カシス",
-   "カシスリキュール"
   ]
  },
  {
@@ -6024,14 +4794,6 @@
   "origin": "フランス"
  },
  {
-  "id": "cat-0753",
-  "name": "アブサン",
-  "genre": "liqueur",
-  "aliases": [
-   "Absinthe"
-  ]
- },
- {
   "id": "cat-0754",
   "name": "ペルノ",
   "genre": "liqueur",
@@ -6049,24 +4811,6 @@
    "パスティス"
   ],
   "origin": "フランス"
- },
- {
-  "id": "cat-0756",
-  "name": "ウーゾ",
-  "genre": "liqueur",
-  "aliases": [
-   "Ouzo"
-  ],
-  "origin": "ギリシャ"
- },
- {
-  "id": "cat-0757",
-  "name": "サンブーカ",
-  "genre": "liqueur",
-  "aliases": [
-   "Sambuca"
-  ],
-  "origin": "イタリア"
  },
  {
   "id": "cat-0758",
@@ -6088,34 +4832,12 @@
   "origin": "日本"
  },
  {
-  "id": "cat-0760",
-  "name": "ブルーキュラソー",
-  "genre": "liqueur",
-  "aliases": [
-   "ブルー・キュラソー"
-  ]
- },
- {
-  "id": "cat-0761",
-  "name": "トリプルセック",
-  "genre": "liqueur",
-  "aliases": [
-   "ホワイトキュラソー"
-  ]
- },
- {
   "id": "cat-0762",
   "name": "フェルネット・ブランカ",
   "genre": "liqueur",
   "aliases": [
    "フェルネット"
   ],
-  "origin": "イタリア"
- },
- {
-  "id": "cat-0763",
-  "name": "アマーロ",
-  "genre": "liqueur",
   "origin": "イタリア"
  },
  {
@@ -6128,23 +4850,6 @@
   "origin": "フランス"
  },
  {
-  "id": "cat-0765",
-  "name": "スイートベルモット",
-  "genre": "liqueur",
-  "aliases": [
-   "スイートヴェルモット",
-   "ベルモット ロッソ"
-  ]
- },
- {
-  "id": "cat-0766",
-  "name": "ドライベルモット",
-  "genre": "liqueur",
-  "aliases": [
-   "ドライヴェルモット"
-  ]
- },
- {
   "id": "cat-0767",
   "name": "サンジェルマン",
   "genre": "liqueur",
@@ -6154,24 +4859,11 @@
   "origin": "フランス"
  },
  {
-  "id": "cat-0768",
-  "name": "桂花陳酒",
-  "genre": "liqueur",
-  "reading": "けいかちんしゅ",
-  "origin": "中国"
- },
- {
   "id": "cat-0769",
   "name": "さらりとした梅酒",
   "genre": "umeshu",
   "reading": "さらりとしたうめしゅ",
   "origin": "日本"
- },
- {
-  "id": "cat-0770",
-  "name": "黒糖梅酒",
-  "genre": "umeshu",
-  "reading": "こくとううめしゅ"
  },
  {
   "id": "cat-0771",
@@ -6184,55 +4876,6 @@
   "name": "あらごしもも",
   "genre": "umeshu",
   "origin": "日本・奈良"
- },
- {
-  "id": "cat-0773",
-  "name": "杏酒",
-  "genre": "umeshu",
-  "reading": "あんずしゅ",
-  "aliases": [
-   "あんず酒"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0774",
-  "name": "梅酒ソーダ",
-  "genre": "umeshu",
-  "reading": "うめしゅそーだ",
-  "aliases": [
-   "梅酒ソーダ割り"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-0775",
-  "name": "梅酒ロック",
-  "genre": "umeshu",
-  "reading": "うめしゅろっく",
-  "generic": true
- },
- {
-  "id": "cat-0776",
-  "name": "老酒",
-  "genre": "other",
-  "reading": "らおちゅう",
-  "aliases": [
-   "ラオチュー"
-  ],
-  "origin": "中国",
-  "generic": true
- },
- {
-  "id": "cat-0777",
-  "name": "白酒",
-  "genre": "other",
-  "reading": "ぱいちゅう",
-  "aliases": [
-   "パイチュウ"
-  ],
-  "origin": "中国",
-  "generic": true
  },
  {
   "id": "cat-0778",
@@ -6260,16 +4903,6 @@
   "genre": "other",
   "reading": "きょうげつ",
   "origin": "韓国"
- },
- {
-  "id": "cat-0781",
-  "name": "ノンアルコール",
-  "genre": "other",
-  "aliases": [
-   "ノンアル",
-   "ノンアルコールビール"
-  ],
-  "generic": true
  },
  {
   "id": "cat-0782",
@@ -6494,16 +5127,6 @@
   "origin": "日本・三重"
  },
  {
-  "id": "cat-0806",
-  "name": "酎ハイ プレーン",
-  "genre": "sour",
-  "reading": "ちゅうはいぷれーん",
-  "aliases": [
-   "プレーンサワー"
-  ],
-  "generic": true
- },
- {
   "id": "cat-0807",
   "name": "はちみつレモンサワー",
   "genre": "sour",
@@ -6667,34 +5290,6 @@
   "id": "cat-0829",
   "name": "バーボンソーダ",
   "genre": "cocktail",
-  "generic": true
- },
- {
-  "id": "cat-0830",
-  "name": "ジャパニーズハイボール",
-  "genre": "cocktail",
-  "generic": true
- },
- {
-  "id": "cat-0831",
-  "name": "梅酒ハイボール",
-  "genre": "cocktail",
-  "generic": true
- },
- {
-  "id": "cat-0832",
-  "name": "ハブ酒",
-  "genre": "other",
-  "reading": "はぶしゅ",
-  "origin": "日本・沖縄"
- },
- {
-  "id": "cat-0833",
-  "name": "ホットウイスキー",
-  "genre": "cocktail",
-  "aliases": [
-   "ホットウィスキー"
-  ],
   "generic": true
  },
  {
@@ -8581,20 +7176,6 @@
   "origin": "日本・栃木"
  },
  {
-  "id": "cat-1085",
-  "name": "日本酒 甘口",
-  "genre": "sake",
-  "reading": "にほんしゅあまくち",
-  "generic": true
- },
- {
-  "id": "cat-1086",
-  "name": "日本酒 辛口",
-  "genre": "sake",
-  "reading": "にほんしゅからくち",
-  "generic": true
- },
- {
   "id": "cat-1087",
   "name": "ワンカップ大関",
   "genre": "sake",
@@ -8934,13 +7515,6 @@
   "genre": "shochu",
   "reading": "こっか",
   "origin": "日本・沖縄"
- },
- {
-  "id": "cat-1134",
-  "name": "ごま焼酎",
-  "genre": "shochu",
-  "reading": "ごまじょうちゅう",
-  "generic": true
  },
  {
   "id": "cat-1135",
@@ -9523,60 +8097,6 @@
   "origin": "韓国"
  },
  {
-  "id": "cat-1203",
-  "name": "ゴールデンエール",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-1204",
-  "name": "アンバーエール",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-1205",
-  "name": "ペールラガー",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-1206",
-  "name": "サワーエール",
-  "genre": "beer",
-  "aliases": [
-   "サワービール"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-1207",
-  "name": "ホワイトIPA",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-1208",
-  "name": "セッションIPA",
-  "genre": "beer",
-  "generic": true
- },
- {
-  "id": "cat-1209",
-  "name": "ダブルIPA",
-  "genre": "beer",
-  "aliases": [
-   "DIPA"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-1210",
-  "name": "フルーツビール",
-  "genre": "beer",
-  "generic": true
- },
- {
   "id": "cat-1211",
   "name": "サンタ・ヘレナ アルパカ",
   "genre": "wine",
@@ -9800,12 +8320,6 @@
   "origin": "イタリア"
  },
  {
-  "id": "cat-1240",
-  "name": "ネロ・ダーヴォラ",
-  "genre": "wine",
-  "origin": "イタリア・シチリア"
- },
- {
   "id": "cat-1241",
   "name": "バルベーラ・ダスティ",
   "genre": "wine",
@@ -9816,12 +8330,6 @@
   "name": "ガヴィ",
   "genre": "wine",
   "origin": "イタリア・ピエモンテ"
- },
- {
-  "id": "cat-1243",
-  "name": "ランブルスコ・ロッソ",
-  "genre": "wine",
-  "origin": "イタリア"
  },
  {
   "id": "cat-1244",
@@ -9864,69 +8372,6 @@
    "トカイワイン"
   ],
   "origin": "ハンガリー"
- },
- {
-  "id": "cat-1250",
-  "name": "モーゼル リースリング",
-  "genre": "wine",
-  "origin": "ドイツ・モーゼル"
- },
- {
-  "id": "cat-1251",
-  "name": "ジョージアワイン",
-  "genre": "wine",
-  "origin": "ジョージア",
-  "generic": true
- },
- {
-  "id": "cat-1252",
-  "name": "マルベック（アルゼンチン）",
-  "genre": "wine",
-  "origin": "アルゼンチン",
-  "generic": true
- },
- {
-  "id": "cat-1253",
-  "name": "ピノタージュ（南アフリカ）",
-  "genre": "wine",
-  "origin": "南アフリカ",
-  "generic": true
- },
- {
-  "id": "cat-1254",
-  "name": "ソーヴィニヨン・ブラン（ニュージーランド）",
-  "genre": "wine",
-  "origin": "ニュージーランド",
-  "generic": true
- },
- {
-  "id": "cat-1255",
-  "name": "シラーズ（オーストラリア）",
-  "genre": "wine",
-  "origin": "オーストラリア",
-  "generic": true
- },
- {
-  "id": "cat-1256",
-  "name": "ジンファンデル（カリフォルニア）",
-  "genre": "wine",
-  "origin": "アメリカ・カリフォルニア",
-  "generic": true
- },
- {
-  "id": "cat-1257",
-  "name": "マスカット・ベーリーA（日本）",
-  "genre": "wine",
-  "origin": "日本",
-  "generic": true
- },
- {
-  "id": "cat-1258",
-  "name": "勝沼ワイン",
-  "genre": "wine",
-  "reading": "かつぬまわいん",
-  "origin": "日本・山梨",
-  "generic": true
  },
  {
   "id": "cat-1259",
@@ -10073,35 +8518,6 @@
   "origin": "イタリア・ピエモンテ"
  },
  {
-  "id": "cat-1276",
-  "name": "ハウスワイン",
-  "genre": "wine",
-  "reading": "はうすわいん",
-  "aliases": [
-   "グラスワイン"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-1277",
-  "name": "デザートワイン",
-  "genre": "wine",
-  "generic": true
- },
- {
-  "id": "cat-1278",
-  "name": "酒精強化ワイン",
-  "genre": "wine",
-  "reading": "しゅせいきょうかわいん",
-  "generic": true
- },
- {
-  "id": "cat-1279",
-  "name": "ヴィン・サント",
-  "genre": "wine",
-  "generic": true
- },
- {
   "id": "cat-1280",
   "name": "季の美 勢",
   "genre": "gin",
@@ -10177,21 +8593,6 @@
    "Citadelle"
   ],
   "origin": "フランス"
- },
- {
-  "id": "cat-1290",
-  "name": "スロージン",
-  "genre": "gin",
-  "generic": true
- },
- {
-  "id": "cat-1291",
-  "name": "オールドトム・ジン",
-  "genre": "gin",
-  "aliases": [
-   "オールドトムジン"
-  ],
-  "generic": true
  },
  {
   "id": "cat-1292",
@@ -10407,24 +8808,6 @@
   "origin": "日本"
  },
  {
-  "id": "cat-1321",
-  "name": "カルヴァドス ペイ・ドージュ",
-  "genre": "brandy",
-  "aliases": [
-   "ペイドージュ"
-  ],
-  "origin": "フランス・ノルマンディー"
- },
- {
-  "id": "cat-1322",
-  "name": "キルシュ",
-  "genre": "brandy",
-  "aliases": [
-   "キルシュヴァッサー"
-  ],
-  "generic": true
- },
- {
   "id": "cat-1323",
   "name": "ディサローノ",
   "genre": "liqueur",
@@ -10499,28 +8882,6 @@
   "origin": "オーストリア"
  },
  {
-  "id": "cat-1332",
-  "name": "抹茶リキュール",
-  "genre": "liqueur",
-  "reading": "まっちゃりきゅーる",
-  "generic": true
- },
- {
-  "id": "cat-1333",
-  "name": "ペパーミントリキュール",
-  "genre": "liqueur",
-  "aliases": [
-   "ミント"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-1334",
-  "name": "コーヒーリキュール",
-  "genre": "liqueur",
-  "generic": true
- },
- {
   "id": "cat-1335",
   "name": "さらりとした梅酒 ソーダ",
   "genre": "umeshu",
@@ -10547,16 +8908,6 @@
   "origin": "日本"
  },
  {
-  "id": "cat-1338",
-  "name": "紀州 南高梅酒",
-  "genre": "umeshu",
-  "reading": "きしゅうなんこううめしゅ",
-  "aliases": [
-   "南高梅酒"
-  ],
-  "origin": "日本・和歌山"
- },
- {
   "id": "cat-1339",
   "name": "山崎蒸溜所貯蔵 焙煎樽仕込梅酒",
   "genre": "umeshu",
@@ -10565,52 +8916,6 @@
    "焙煎樽仕込梅酒"
   ],
   "origin": "日本"
- },
- {
-  "id": "cat-1340",
-  "name": "レモン酒",
-  "genre": "umeshu",
-  "reading": "れもんしゅ",
-  "generic": true
- },
- {
-  "id": "cat-1341",
-  "name": "りんご酒",
-  "genre": "umeshu",
-  "reading": "りんごしゅ",
-  "generic": true
- },
- {
-  "id": "cat-1342",
-  "name": "いちご酒",
-  "genre": "umeshu",
-  "reading": "いちごしゅ",
-  "generic": true
- },
- {
-  "id": "cat-1343",
-  "name": "ライチ酒",
-  "genre": "umeshu",
-  "reading": "らいちしゅ",
-  "generic": true
- },
- {
-  "id": "cat-1344",
-  "name": "みかん酒",
-  "genre": "umeshu",
-  "reading": "みかんしゅ",
-  "generic": true
- },
- {
-  "id": "cat-1345",
-  "name": "マッコリ（生）",
-  "genre": "other",
-  "reading": "まっこりなま",
-  "aliases": [
-   "生マッコリ"
-  ],
-  "origin": "韓国",
-  "generic": true
  },
  {
   "id": "cat-1346",
@@ -10656,56 +8961,6 @@
   "genre": "other",
   "reading": "まおたい",
   "origin": "中国"
- },
- {
-  "id": "cat-1351",
-  "name": "甘酒",
-  "genre": "other",
-  "reading": "あまざけ",
-  "aliases": [
-   "あま酒"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-1352",
-  "name": "シードル（日本）",
-  "genre": "other",
-  "aliases": [
-   "ニッカ シードル"
-  ],
-  "origin": "日本"
- },
- {
-  "id": "cat-1353",
-  "name": "ノンアルコールカクテル",
-  "genre": "other",
-  "reading": "のんあるこーるかくてる",
-  "aliases": [
-   "モクテル"
-  ],
-  "generic": true
- },
- {
-  "id": "cat-1354",
-  "name": "ノンアルコールワイン",
-  "genre": "other",
-  "reading": "のんあるこーるわいん",
-  "generic": true
- },
- {
-  "id": "cat-1355",
-  "name": "ノンアルコール日本酒",
-  "genre": "other",
-  "reading": "のんあるこーるにほんしゅ",
-  "generic": true
- },
- {
-  "id": "cat-1356",
-  "name": "ノンアルコールレモンサワー",
-  "genre": "other",
-  "reading": "のんあるこーるれもんさわー",
-  "generic": true
  },
  {
   "id": "cat-1357",
