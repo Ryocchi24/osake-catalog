@@ -770,7 +770,7 @@
  {
   "id": "cat-0132",
   "name": "ハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "aliases": [
    "ウイスキーハイボール",
    "ウイスキーソーダ"
@@ -779,7 +779,7 @@
  {
   "id": "cat-0133",
   "name": "角ハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "かくはいぼーる",
   "aliases": [
    "角ハイ"
@@ -1093,7 +1093,7 @@
  {
   "id": "cat-0182",
   "name": "コークハイ",
-  "genre": "sour"
+  "genre": "whisky"
  },
  {
   "id": "cat-0183",
@@ -4231,7 +4231,7 @@
  {
   "id": "cat-0667",
   "name": "ジンジャーハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "aliases": [
    "ジンジャーハイ"
   ]
@@ -4457,7 +4457,7 @@
  {
   "id": "cat-0701",
   "name": "トリスハイボール",
-  "genre": "sour",
+  "genre": "whisky",
   "aliases": [
    "トリハイ"
   ],
@@ -5159,7 +5159,7 @@
  {
   "id": "cat-0811",
   "name": "サントリー 角ハイボール缶",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "さんとりーかくはいぼーるかん",
   "aliases": [
    "角ハイボール缶",
@@ -5170,14 +5170,14 @@
  {
   "id": "cat-0812",
   "name": "サントリー 角ハイボール 濃いめ",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "さんとりーかくはいぼーるこいめ",
   "origin": "日本"
  },
  {
   "id": "cat-0813",
   "name": "サントリー トリスハイボール缶",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "さんとりーとりすはいぼーるかん",
   "aliases": [
    "トリハイ缶"
@@ -5187,14 +5187,14 @@
  {
   "id": "cat-0814",
   "name": "ジムビーム ハイボール缶",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "じむびーむはいぼーるかん",
   "origin": "日本"
  },
  {
   "id": "cat-0815",
   "name": "サントリー 白州ハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "さんとりーはくしゅうはいぼーる",
   "aliases": [
    "白州ハイボール"
@@ -5204,21 +5204,21 @@
  {
   "id": "cat-0816",
   "name": "知多ハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "ちたはいぼーる",
   "origin": "日本"
  },
  {
   "id": "cat-0817",
   "name": "ブラックニッカ ハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "reading": "ぶらっくにっかはいぼーる",
   "origin": "日本"
  },
  {
   "id": "cat-0818",
   "name": "ジャックハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "aliases": [
    "ジャックダニエル ハイボール"
   ]
@@ -5226,7 +5226,7 @@
  {
   "id": "cat-0819",
   "name": "デュワーズ ハイボール",
-  "genre": "cocktail",
+  "genre": "whisky",
   "aliases": [
    "デュワーズハイボール"
   ]
@@ -5234,7 +5234,7 @@
  {
   "id": "cat-0820",
   "name": "カルピスハイ",
-  "genre": "cocktail",
+  "genre": "sour",
   "generic": true
  },
  {
