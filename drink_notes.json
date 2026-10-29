@@ -6,21 +6,27 @@
     "山崎 ノンエイジ"
    ],
    "about": "大阪・島本町にある、日本で最初の本格的なモルトウイスキー蒸溜所の名を持つシングルモルトです。いろいろな樽の原酒を合わせた、華やかで甘い香りが特徴です。",
-   "howto": "ハイボールでも香りが残ります。まずは少量をストレートで。"
+   "howto": "ハイボールでも香りが残ります。まずは少量をストレートで。",
+   "about_en": "A single malt named after the distillery in Shimamoto, Osaka, Japan's first full-scale malt whisky distillery. Blending whiskies from many types of cask, it has a bright, sweet aroma.",
+   "howto_en": "Its aroma holds up even in a highball. Start with a small pour, neat."
   },
   {
    "keys": [
     "山崎 12年"
    ],
    "about": "日本のシングルモルトを代表する一本です。熟した果実やバニラのような甘い香りに、ミズナラ樽ならではのお香のような余韻が重なります。",
-   "howto": "ストレートか、氷を1つだけ入れたロックで香りの変化を楽しんで。"
+   "howto": "ストレートか、氷を1つだけ入れたロックで香りの変化を楽しんで。",
+   "about_en": "A defining Japanese single malt. Sweet aromas of ripe fruit and vanilla are layered with an incense-like finish from Mizunara oak casks.",
+   "howto_en": "Neat, or on the rocks with a single ice cube, to follow how the aroma changes."
   },
   {
    "keys": [
     "山崎 18年"
    ],
    "about": "長く寝かせた原酒にシェリー樽の原酒も合わせた、山崎の上位の一本です。ドライフルーツやチョコレートを思わせる、濃く深い甘さがあります。",
-   "howto": "ストレートで、少しずつ時間をかけて。"
+   "howto": "ストレートで、少しずつ時間をかけて。",
+   "about_en": "A top-tier Yamazaki that blends long-aged whisky with whisky from sherry casks. It has a deep, rich sweetness reminiscent of dried fruit and chocolate.",
+   "howto_en": "Neat, sipped slowly over time."
   },
   {
    "keys": [
@@ -28,7 +34,9 @@
     "白州 ノンエイジ"
    ],
    "about": "山梨・南アルプスの森の中にある白州蒸溜所のシングルモルトです。若葉のような爽やかな香りと、ほのかなスモーキーさがあります。",
-   "howto": "ハイボールにミントの葉を添えると、森の香りが引き立ちます。"
+   "howto": "ハイボールにミントの葉を添えると、森の香りが引き立ちます。",
+   "about_en": "A single malt from the Hakushu distillery, set in a forest in the Southern Alps of Yamanashi. It has a fresh aroma like young leaves and a hint of smoke.",
+   "howto_en": "Add a mint leaf to a highball to bring out the forest aroma."
   },
   {
    "keys": [
@@ -36,7 +44,9 @@
     "白州 18年"
    ],
    "about": "白州蒸溜所の長期熟成のシングルモルトです。森を思わせる爽やかさに、熟成による甘さと深みが加わっています。",
-   "howto": "ストレートか、少し加水して香りを開かせて。"
+   "howto": "ストレートか、少し加水して香りを開かせて。",
+   "about_en": "Long-aged single malts from the Hakushu distillery. The forest-like freshness gains sweetness and depth from maturation.",
+   "howto_en": "Neat, or with a little water to open up the aroma."
   },
   {
    "keys": [
@@ -46,21 +56,27 @@
     "響 BLENDER'S CHOICE"
    ],
    "about": "サントリーのブレンデッドウイスキーの最高峰ブランドです。山崎・白州のモルトと知多のグレーンなどを重ね合わせた、華やかでまろやかな味わいです。",
-   "howto": "ストレートやロックで、バランスのよさを味わって。"
+   "howto": "ストレートやロックで、バランスのよさを味わって。",
+   "about_en": "Suntory's premier blended whisky brand. Layering malts from Yamazaki and Hakushu with Chita grain whisky and more, it is bright and mellow.",
+   "howto_en": "Neat or on the rocks, to appreciate its fine balance."
   },
   {
    "keys": [
     "知多"
    ],
    "about": "愛知・知多蒸溜所で造られる、サントリーのシングルグレーンウイスキーです。軽やかでほのかに甘く、くせが少ないのが特徴です。",
-   "howto": "ソーダで割ったハイボールがよく合います。食事と一緒に。"
+   "howto": "ソーダで割ったハイボールがよく合います。食事と一緒に。",
+   "about_en": "Suntory's single grain whisky, made at the Chita distillery in Aichi. It is light, gently sweet and easygoing.",
+   "howto_en": "Goes well as a highball with soda. Enjoy it with a meal."
   },
   {
    "keys": [
     "角瓶"
    ],
    "about": "1937年に生まれた、亀の甲羅のような模様のボトルでおなじみのウイスキーです。甘い香りとドライな後味で、角ハイボールの定番です。",
-   "howto": "氷をたっぷり入れ、ソーダで割ってレモンを添えて。"
+   "howto": "氷をたっぷり入れ、ソーダで割ってレモンを添えて。",
+   "about_en": "A whisky born in 1937, known for its bottle with a tortoise-shell pattern. With a sweet aroma and dry finish, it is the classic choice for the Kaku Highball.",
+   "howto_en": "Fill the glass with ice, top with soda and add a slice of lemon."
   },
   {
    "keys": [
@@ -68,7 +84,9 @@
     "余市 10年"
    ],
    "about": "ニッカの北海道・余市蒸溜所のシングルモルトです。石炭の直火で蒸溜する昔ながらの造りで、力強いコクとスモーキーさがあります。",
-   "howto": "ストレートか、少し水を加えて。"
+   "howto": "ストレートか、少し水を加えて。",
+   "about_en": "A single malt from Nikka's Yoichi distillery in Hokkaido. Distilled the old way over direct coal fires, it has bold richness and smokiness.",
+   "howto_en": "Neat, or with a splash of water."
   },
   {
    "keys": [
@@ -76,7 +94,9 @@
     "宮城峡 10年"
    ],
    "about": "ニッカの宮城・仙台にある宮城峡蒸溜所のシングルモルトです。余市とは対照的に、華やかでやわらかなフルーティさが特徴です。",
-   "howto": "ストレートやロック、水割りでも香りが楽しめます。"
+   "howto": "ストレートやロック、水割りでも香りが楽しめます。",
+   "about_en": "A single malt from Nikka's Miyagikyo distillery in Sendai, Miyagi. In contrast to Yoichi, it is bright, soft and fruity.",
+   "howto_en": "Its aroma shines neat, on the rocks or mizuwari."
   },
   {
    "keys": [
@@ -84,14 +104,18 @@
     "竹鶴 17年"
    ],
    "about": "ニッカの創業者・竹鶴政孝の名を冠したウイスキーです。余市と宮城峡のモルトを合わせ、力強さと華やかさを両立させています。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "A whisky bearing the name of Nikka's founder, Masataka Taketsuru. Combining Yoichi and Miyagikyo malts, it balances power and elegance.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
     "ニッカ フロム・ザ・バレル"
    ],
    "about": "小さな四角いボトルに入った、度数51度の濃厚なブレンデッドウイスキーです。ブレンドしたあと、もう一度樽で寝かせて味をなじませています。",
-   "howto": "まずはストレートで少し。ロックや加水で表情が変わります。"
+   "howto": "まずはストレートで少し。ロックや加水で表情が変わります。",
+   "about_en": "A rich, 51 percent blended whisky in a small square bottle. After blending, it is rested in casks again so the flavors marry.",
+   "howto_en": "Start with a little, neat. On the rocks or with water, it shows another side."
   },
   {
    "keys": [
@@ -99,14 +123,18 @@
     "ニッカ カフェモルト"
    ],
    "about": "カフェ式連続式蒸溜機（カフェスチル）という古い型の蒸溜機で造られるウイスキーです。原料の甘さと香ばしさがしっかり残るのが特徴です。",
-   "howto": "ソーダ割りやロックで、甘い香りを楽しんで。"
+   "howto": "ソーダ割りやロックで、甘い香りを楽しんで。",
+   "about_en": "Whiskies made in an old-style Coffey continuous still. The sweetness and toasty notes of the grain come through clearly.",
+   "howto_en": "With soda or on the rocks, to enjoy the sweet aroma."
   },
   {
    "keys": [
     "スーパーニッカ"
    ],
    "about": "ニッカのブレンデッドウイスキーです。創業者・竹鶴政孝が、亡くなった妻リタへの思いを込めて造ったといわれています。",
-   "howto": "水割りやロックで、まろやかさを楽しんで。"
+   "howto": "水割りやロックで、まろやかさを楽しんで。",
+   "about_en": "A Nikka blended whisky. Founder Masataka Taketsuru is said to have created it in memory of his late wife, Rita.",
+   "howto_en": "Mizuwari or on the rocks, to enjoy its mellowness."
   },
   {
    "keys": [
@@ -115,14 +143,18 @@
     "ブラックニッカ リッチブレンド"
    ],
    "about": "「ヒゲのおじさん」のラベルでおなじみ、ニッカのブレンデッドウイスキーです。手ごろな価格で、日常的に飲めるシリーズです。",
-   "howto": "ハイボールや水割りで。"
+   "howto": "ハイボールや水割りで。",
+   "about_en": "Nikka's blended whisky, familiar from the bearded gentleman on the label. An affordable series for everyday drinking.",
+   "howto_en": "As a highball or mizuwari."
   },
   {
    "keys": [
     "ブラックニッカ クリア"
    ],
    "about": "ピート（泥炭）を使わない麦芽で造った、くせの少ないブラックニッカです。軽やかで飲みやすい味わいです。",
-   "howto": "ハイボールにすると食事にも合わせやすいです。"
+   "howto": "ハイボールにすると食事にも合わせやすいです。",
+   "about_en": "A Black Nikka made from unpeated malt, so it is smooth and easygoing. Light and easy to drink.",
+   "howto_en": "As a highball, it pairs easily with meals."
   },
   {
    "keys": [
@@ -130,14 +162,18 @@
     "トリス エクストラ"
    ],
    "about": "サントリーの手ごろなウイスキーで、トリスハイボールの名でおなじみです。軽やかで甘い香りが特徴です。",
-   "howto": "ソーダで割って、レモンを添えて。"
+   "howto": "ソーダで割って、レモンを添えて。",
+   "about_en": "An affordable Suntory whisky, well known through the Torys Highball. It has a light, sweet aroma.",
+   "howto_en": "Top with soda and add a slice of lemon."
   },
   {
    "keys": [
     "サントリーオールド"
    ],
    "about": "黒く丸いボトルから「ダルマ」の愛称で親しまれてきたウイスキーです。1950年の発売以来、まろやかで甘い味わいで長く愛されています。",
-   "howto": "水割りやお湯割りで、食事と一緒に。"
+   "howto": "水割りやお湯割りで、食事と一緒に。",
+   "about_en": "A whisky long nicknamed Daruma for its round black bottle. Since its launch in 1950, its mellow, sweet taste has been loved for decades.",
+   "howto_en": "Mizuwari or oyuwari, with a meal."
   },
   {
    "keys": [
@@ -145,21 +181,27 @@
     "サントリー ローヤル 12年"
    ],
    "about": "サントリーの創業者・鳥井信治郎が最後に手がけたといわれるブレンデッドウイスキーです。華やかで上品な甘さがあります。",
-   "howto": "ロックや水割りで。"
+   "howto": "ロックや水割りで。",
+   "about_en": "A blended whisky said to be the last created by Suntory's founder, Shinjiro Torii. It has a bright, elegant sweetness.",
+   "howto_en": "On the rocks or mizuwari."
   },
   {
    "keys": [
     "碧 Ao"
    ],
    "about": "日本・スコットランド・アイルランド・アメリカ・カナダの、世界5大ウイスキーの原酒を合わせたブレンデッドウイスキーです。五角形のボトルが目印です。",
-   "howto": "ハイボールで、それぞれの個性の重なりを楽しんで。"
+   "howto": "ハイボールで、それぞれの個性の重なりを楽しんで。",
+   "about_en": "A blended whisky combining whiskies from the world's five great whisky nations: Japan, Scotland, Ireland, the United States and Canada. Look for the pentagonal bottle.",
+   "howto_en": "As a highball, to enjoy how the different characters layer together."
   },
   {
    "keys": [
     "サントリー 季（TOKI）"
    ],
    "about": "白州のモルトと知多のグレーンなどを合わせた、軽やかなブレンデッドウイスキーです。爽やかでほのかに甘い味わいです。",
-   "howto": "ハイボールにぴったりです。"
+   "howto": "ハイボールにぴったりです。",
+   "about_en": "A light blended whisky combining Hakushu malt with Chita grain whisky and more. It is fresh and gently sweet.",
+   "howto_en": "Perfect for a highball."
   },
   {
    "keys": [
@@ -167,14 +209,18 @@
     "キリン 富士 シングルブレンデッド"
    ],
    "about": "静岡・御殿場の富士御殿場蒸溜所で造られるウイスキーです。富士山麓の水と冷涼な気候のもとで、澄んだ味わいに仕上げています。",
-   "howto": "ストレートやロックで、繊細な香りを。"
+   "howto": "ストレートやロックで、繊細な香りを。",
+   "about_en": "A whisky made at the Fuji Gotemba distillery in Gotemba, Shizuoka. Using water from the foot of Mount Fuji and a cool climate, it is crafted to taste clear and pure.",
+   "howto_en": "Neat or on the rocks, for its delicate aroma."
   },
   {
    "keys": [
     "キリン 陸"
    ],
    "about": "キリンの富士御殿場蒸溜所のウイスキーです。甘く華やかな香りで、ソーダで割っても味がぼやけないように造られています。",
-   "howto": "ハイボールで。"
+   "howto": "ハイボールで。",
+   "about_en": "A whisky from Kirin's Fuji Gotemba distillery. It has a sweet, bright aroma and is made so its flavor stays clear even with soda.",
+   "howto_en": "As a highball."
   },
   {
    "keys": [
@@ -182,28 +228,36 @@
     "イチローズモルト 秩父"
    ],
    "about": "埼玉・秩父の秩父蒸溜所が手がけるウイスキーです。小さな蒸溜所ながら、世界の品評会で高い評価を受けています。",
-   "howto": "ストレートで、少しずつ香りを楽しんで。"
+   "howto": "ストレートで、少しずつ香りを楽しんで。",
+   "about_en": "Whiskies from the Chichibu distillery in Chichibu, Saitama. Though a small distillery, it is highly regarded at international competitions.",
+   "howto_en": "Neat, enjoying the aroma a little at a time."
   },
   {
    "keys": [
     "イチローズモルト ホワイトラベル"
    ],
    "about": "秩父蒸溜所が、世界の各地のウイスキーを合わせて造るブレンデッドウイスキーです。軽やかで、果実のような香りがあります。",
-   "howto": "ハイボールにすると華やかさが引き立ちます。"
+   "howto": "ハイボールにすると華やかさが引き立ちます。",
+   "about_en": "A blended whisky from the Chichibu distillery, combining whiskies from around the world. It is light, with a fruity aroma.",
+   "howto_en": "As a highball, its brightness really comes through."
   },
   {
    "keys": [
     "イチローズモルト ミズナラウッドリザーブ"
    ],
    "about": "日本のミズナラ材の樽で仕上げた、秩父蒸溜所のウイスキーです。お香や白檀を思わせる独特の香りがあります。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "A Chichibu distillery whisky finished in casks of Japanese Mizunara oak. It has a distinctive aroma reminiscent of incense and sandalwood.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
     "イチローズモルト ワインウッドリザーブ"
    ],
    "about": "ワインの樽で仕上げた、秩父蒸溜所のウイスキーです。赤い果実のような甘酸っぱい香りが特徴です。",
-   "howto": "ストレートやロックで。"
+   "howto": "ストレートやロックで。",
+   "about_en": "A Chichibu distillery whisky finished in wine casks. It is known for a sweet-tart aroma of red fruit.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
@@ -211,28 +265,36 @@
     "厚岸 ブレンデッドウイスキー"
    ],
    "about": "北海道・厚岸町の厚岸蒸溜所のウイスキーです。スコットランドのアイラ島のような、潮の香りとスモーキーさを目指して造られています。",
-   "howto": "ストレートか、少し加水して。"
+   "howto": "ストレートか、少し加水して。",
+   "about_en": "Whiskies from the Akkeshi distillery in Akkeshi, Hokkaido. They are made in pursuit of the sea-salt aroma and smokiness of Scotland's Islay.",
+   "howto_en": "Neat, or with a splash of water."
   },
   {
    "keys": [
     "嘉之助"
    ],
    "about": "鹿児島の海辺にある嘉之助蒸溜所のウイスキーです。焼酎蔵が始めた蒸溜所で、焼酎を寝かせた樽を使った原酒もあります。",
-   "howto": "ストレートやハイボールで。"
+   "howto": "ストレートやハイボールで。",
+   "about_en": "A whisky from the Kanosuke distillery on the coast of Kagoshima. Founded by a shochu maker, it also uses whisky aged in casks that once held shochu.",
+   "howto_en": "Neat or as a highball."
   },
   {
    "keys": [
     "静岡 ガイアフロー"
    ],
    "about": "静岡市の山あいにある静岡蒸溜所のウイスキーです。薪の直火で蒸溜する設備を持つ、珍しい蒸溜所です。",
-   "howto": "ストレートで、原酒の個性を。"
+   "howto": "ストレートで、原酒の個性を。",
+   "about_en": "A whisky from the Shizuoka distillery, in the mountains of Shizuoka City. It is a rare distillery with a still heated directly by a wood fire.",
+   "howto_en": "Neat, to taste the character of the spirit."
   },
   {
    "keys": [
     "三郎丸"
    ],
    "about": "富山の三郎丸蒸留所のウイスキーです。地元の鋳物の技術で造った蒸溜器を使い、スモーキーな原酒を得意としています。",
-   "howto": "ストレートやハイボールで。"
+   "howto": "ストレートやハイボールで。",
+   "about_en": "A whisky from the Saburomaru distillery in Toyama. Its stills are cast using local metal-casting craft, and it excels at smoky whisky.",
+   "howto_en": "Neat or as a highball."
   },
   {
    "keys": [
@@ -240,14 +302,18 @@
     "信州マルス 駒ヶ岳"
    ],
    "about": "長野・中央アルプスのふもとにある、本坊酒造のマルス信州蒸溜所のシングルモルトです。冷涼な気候で、ゆっくりと熟成させています。",
-   "howto": "ストレートか、少し加水して。"
+   "howto": "ストレートか、少し加水して。",
+   "about_en": "A single malt from Hombo Shuzo's Mars Shinshu distillery, at the foot of the Central Alps in Nagano. It matures slowly in the cool climate.",
+   "howto_en": "Neat, or with a splash of water."
   },
   {
    "keys": [
     "マルス 津貫"
    ],
    "about": "鹿児島・南さつま市の、本坊酒造のマルス津貫蒸溜所のウイスキーです。暖かい気候で熟成が進みやすく、厚みのある味わいです。",
-   "howto": "ロックやハイボールで。"
+   "howto": "ロックやハイボールで。",
+   "about_en": "A whisky from Hombo Shuzo's Mars Tsunuki distillery in Minamisatsuma, Kagoshima. The warm climate speeds maturation, giving it a full-bodied taste.",
+   "howto_en": "On the rocks or as a highball."
   },
   {
    "keys": [
@@ -255,35 +321,45 @@
     "マルス 岩井トラディション"
    ],
    "about": "本坊酒造のブレンデッドウイスキーです。ニッカの竹鶴政孝をスコットランドに送り出した、岩井喜一郎の名にちなんでいます。",
-   "howto": "ハイボールや水割りで、気軽に。"
+   "howto": "ハイボールや水割りで、気軽に。",
+   "about_en": "A blended whisky from Hombo Shuzo. It is named after Kiichiro Iwai, who sent Nikka's Masataka Taketsuru to Scotland.",
+   "howto_en": "Casually, as a highball or mizuwari."
   },
   {
    "keys": [
     "あかし"
    ],
    "about": "兵庫・明石の江井ヶ嶋酒造が造るウイスキーです。日本酒の蔵が古くからウイスキーを手がけてきた、歴史のある銘柄です。",
-   "howto": "ハイボールで。"
+   "howto": "ハイボールで。",
+   "about_en": "A whisky from Eigashima Shuzo in Akashi, Hyogo. A sake brewery that has made whisky for a long time, it is a brand with real history.",
+   "howto_en": "As a highball."
   },
   {
    "keys": [
     "ラフロイグ 10年"
    ],
    "about": "スコットランド・アイラ島のシングルモルトです。薬のような独特のスモーキーさが特徴で、好きな人と苦手な人がはっきり分かれる個性派です。",
-   "howto": "ストレートか、少し加水して。ハイボールでもスモーキーさが際立ちます。"
+   "howto": "ストレートか、少し加水して。ハイボールでもスモーキーさが際立ちます。",
+   "about_en": "A single malt from Islay, Scotland. Its distinctive medicinal smokiness makes it a true character that people either love or don't.",
+   "howto_en": "Neat or with a splash of water. In a highball, the smokiness stands out."
   },
   {
    "keys": [
     "ラフロイグ クォーターカスク"
    ],
    "about": "通常より小さな樽で仕上げた、ラフロイグのシングルモルトです。樽の甘さが加わり、スモーキーさがまろやかになっています。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "A Laphroaig single malt finished in casks smaller than usual. The added cask sweetness softens the smokiness.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
     "アードベッグ 10年"
    ],
    "about": "アイラ島のシングルモルトです。強烈なスモーキーさの中に、レモンのような爽やかさと甘さがあります。",
-   "howto": "ストレートか、ハイボールで。"
+   "howto": "ストレートか、ハイボールで。",
+   "about_en": "An Islay single malt. Within its intense smokiness are lemon-like freshness and sweetness.",
+   "howto_en": "Neat or as a highball."
   },
   {
    "keys": [
@@ -291,7 +367,9 @@
     "アードベッグ コリーヴレッカン"
    ],
    "about": "アードベッグの中でも濃厚なタイプのシングルモルトです。強いスモーキーさに、樽由来の深い甘さやスパイスが重なります。",
-   "howto": "少しずつストレートで。加水で表情が変わります。"
+   "howto": "少しずつストレートで。加水で表情が変わります。",
+   "about_en": "Richer expressions of Ardbeg single malt. Deep cask sweetness and spice are layered over powerful smoke.",
+   "howto_en": "Sip neat, a little at a time. Water changes its character."
   },
   {
    "keys": [
@@ -299,7 +377,9 @@
     "ボウモア 18年"
    ],
    "about": "アイラ島で最も古い蒸溜所のひとつ、ボウモアのシングルモルトです。スモーキーさと、はちみつや柑橘のような甘さのバランスがよく取れています。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "Single malts from Bowmore, one of Islay's oldest distilleries. Smokiness and honey- and citrus-like sweetness are well balanced.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
@@ -307,14 +387,18 @@
     "ラガヴーリン 8年"
    ],
    "about": "アイラ島のシングルモルトです。重厚なスモーキーさと、長い熟成による深い甘みがあります。",
-   "howto": "ストレートで、ゆっくりと。"
+   "howto": "ストレートで、ゆっくりと。",
+   "about_en": "An Islay single malt. It has heavy smokiness and the deep sweetness of long maturation.",
+   "howto_en": "Neat, slowly."
   },
   {
    "keys": [
     "カリラ 12年"
    ],
    "about": "アイラ島最大級の蒸溜所のシングルモルトです。アイラらしいスモーキーさを持ちながら、軽やかで繊細な味わいです。",
-   "howto": "ハイボールにも向いています。"
+   "howto": "ハイボールにも向いています。",
+   "about_en": "A single malt from one of Islay's largest distilleries. It has classic Islay smokiness yet is light and delicate.",
+   "howto_en": "Also well suited to a highball."
   },
   {
    "keys": [
@@ -323,7 +407,9 @@
     "ザ・マッカラン 18年"
    ],
    "about": "スコットランド・スペイサイドのシングルモルトです。シェリー酒の樽へのこだわりで知られ、ドライフルーツのような濃く甘い香りがあります。",
-   "howto": "ストレートで、香りの変化を楽しんで。"
+   "howto": "ストレートで、香りの変化を楽しんで。",
+   "about_en": "Single malts from Speyside, Scotland. Known for their dedication to sherry casks, they have a rich, sweet aroma like dried fruit.",
+   "howto_en": "Neat, to enjoy how the aroma evolves."
   },
   {
    "keys": [
@@ -332,7 +418,9 @@
     "グレンフィディック 18年"
    ],
    "about": "三角形のボトルでおなじみ、スペイサイドのシングルモルトです。シングルモルトを世界に広めた先駆けで、洋梨のようなフルーティさがあります。",
-   "howto": "ストレートでもハイボールでも。"
+   "howto": "ストレートでもハイボールでも。",
+   "about_en": "A Speyside single malt known for its triangular bottle. A pioneer in bringing single malt to the world, it has pear-like fruitiness.",
+   "howto_en": "Neat or as a highball."
   },
   {
    "keys": [
@@ -341,7 +429,9 @@
     "グレンリベット ファウンダーズリザーブ"
    ],
    "about": "スペイサイドのシングルモルトです。1824年に政府の免許を受けた最初の蒸溜所として知られ、花や果物のような華やかな香りがあります。",
-   "howto": "ストレートか、ハイボールで。"
+   "howto": "ストレートか、ハイボールで。",
+   "about_en": "Speyside single malts. The Glenlivet is known as the first distillery licensed by the government, in 1824, and has a bright, floral and fruity aroma.",
+   "howto_en": "Neat or as a highball."
   },
   {
    "keys": [
@@ -349,14 +439,18 @@
     "グレンモーレンジィ 18年"
    ],
    "about": "スコットランド・ハイランドのシングルモルトです。首の長い背の高い蒸溜器で造られ、柑橘や花のような軽やかな香りがあります。",
-   "howto": "ストレートか、少し加水して。"
+   "howto": "ストレートか、少し加水して。",
+   "about_en": "Single malts from the Highlands of Scotland. Made in tall, long-necked stills, they have light citrus and floral aromas.",
+   "howto_en": "Neat, or with a splash of water."
   },
   {
    "keys": [
     "グレンモーレンジィ ラサンタ"
    ],
    "about": "シェリー樽で仕上げたグレンモーレンジィです。本来の華やかさに、レーズンやチョコレートのような甘さが加わります。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "A Glenmorangie finished in sherry casks. Its natural brightness gains a raisin- and chocolate-like sweetness.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
@@ -365,7 +459,9 @@
     "タリスカー ストーム"
    ],
    "about": "スコットランドのスカイ島のシングルモルトです。潮の香りと、黒こしょうのようなスパイシーさが特徴です。",
-   "howto": "ハイボールに黒こしょうをひと振りする飲み方が有名です。"
+   "howto": "ハイボールに黒こしょうをひと振りする飲み方が有名です。",
+   "about_en": "Single malts from the Isle of Skye, Scotland. They are known for a sea-salt aroma and black-pepper spice.",
+   "howto_en": "A famous serve is a highball with a pinch of black pepper."
   },
   {
    "keys": [
@@ -373,14 +469,18 @@
     "ジョニーウォーカー ダブルブラック"
    ],
    "about": "世界中で飲まれているスコッチのブレンデッドウイスキーです。12年以上熟成させた原酒を使い、スモーキーさと甘さのバランスがよい一本です。",
-   "howto": "ハイボールやロックで。"
+   "howto": "ハイボールやロックで。",
+   "about_en": "A blended Scotch enjoyed all over the world. Made with whiskies aged 12 years or more, it balances smokiness and sweetness well.",
+   "howto_en": "As a highball or on the rocks."
   },
   {
    "keys": [
     "ジョニーウォーカー レッドラベル"
    ],
    "about": "ジョニーウォーカーの定番で、世界で最もよく飲まれているスコッチのひとつです。スパイシーで力強い味わいです。",
-   "howto": "ハイボールで。"
+   "howto": "ハイボールで。",
+   "about_en": "Johnnie Walker's standard, and one of the most widely drunk Scotches in the world. It is spicy and bold.",
+   "howto_en": "As a highball."
   },
   {
    "keys": [
@@ -388,7 +488,9 @@
     "ジョニーウォーカー ゴールドラベル"
    ],
    "about": "ジョニーウォーカーの上位のブレンデッドウイスキーです。希少な原酒を合わせた、なめらかで奥行きのある味わいです。",
-   "howto": "ストレートで、ゆっくりと。"
+   "howto": "ストレートで、ゆっくりと。",
+   "about_en": "Premium Johnnie Walker blended whiskies. Combining rare whiskies, they are smooth and deep.",
+   "howto_en": "Neat, slowly."
   },
   {
    "keys": [
@@ -396,7 +498,9 @@
     "シーバスリーガル 18年"
    ],
    "about": "スペイサイドの原酒を中心にしたスコッチのブレンデッドウイスキーです。はちみつのようなまろやかな甘さがあります。",
-   "howto": "ロックや水割りで。"
+   "howto": "ロックや水割りで。",
+   "about_en": "A blended Scotch built around Speyside whiskies. It has a mellow, honey-like sweetness.",
+   "howto_en": "On the rocks or mizuwari."
   },
   {
    "keys": [
@@ -404,7 +508,9 @@
     "デュワーズ 12年"
    ],
    "about": "スコッチのブレンデッドウイスキーです。ブレンドしたあとにもう一度樽で寝かせる造りで、なめらかに仕上げています。",
-   "howto": "ハイボールとの相性のよさで知られています。"
+   "howto": "ハイボールとの相性のよさで知られています。",
+   "about_en": "A blended Scotch. After blending it is rested in casks again, giving it a smooth finish.",
+   "howto_en": "Known for how well it works in a highball."
   },
   {
    "keys": [
@@ -412,63 +518,81 @@
     "バランタイン 17年"
    ],
    "about": "世界で人気のあるスコッチのブレンデッドウイスキーです。多くの原酒を合わせた、バランスのよい軽やかな味わいです。",
-   "howto": "ハイボールや水割りで。"
+   "howto": "ハイボールや水割りで。",
+   "about_en": "A popular blended Scotch around the world. Combining many whiskies, it is light and well balanced.",
+   "howto_en": "As a highball or mizuwari."
   },
   {
    "keys": [
     "ロイヤルサルート 21年"
    ],
    "about": "21年以上熟成させた原酒だけを使う、スコッチのブレンデッドウイスキーです。陶器のボトルに入った、贈り物にも選ばれる一本です。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "A blended Scotch made only from whiskies aged 21 years or more. Presented in a ceramic flagon, it is often chosen as a gift.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
     "オールドパー"
    ],
    "about": "四角いボトルを斜めに立てられることで知られる、スコッチのブレンデッドウイスキーです。日本でも古くから親しまれています。",
-   "howto": "水割りやロックで。"
+   "howto": "水割りやロックで。",
+   "about_en": "A blended Scotch famous for its square bottle that can stand tilted on its edge. It has long been popular in Japan.",
+   "howto_en": "Mizuwari or on the rocks."
   },
   {
    "keys": [
     "モンキーショルダー"
    ],
    "about": "スペイサイドの複数のモルトを合わせたブレンデッドモルトです。なめらかで甘く、カクテルに使われることも多い一本です。",
-   "howto": "ハイボールやカクテルで。"
+   "howto": "ハイボールやカクテルで。",
+   "about_en": "A blended malt combining several Speyside malts. Smooth and sweet, it is often used in cocktails.",
+   "howto_en": "As a highball or in cocktails."
   },
   {
    "keys": [
     "ハイランドパーク 12年"
    ],
    "about": "スコットランドのオークニー諸島のシングルモルトです。ヘザー（ヒース）を含むピートを使い、はちみつのような甘いスモーキーさがあります。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "A single malt from the Orkney Islands, Scotland. Using peat that contains heather, it has a sweet, honeyed smokiness.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
     "スプリングバンク 10年"
    ],
    "about": "スコットランド・キャンベルタウンのシングルモルトです。麦芽づくりから瓶詰めまでを蒸溜所の中で行う、昔ながらの造りで知られます。",
-   "howto": "ストレートで、複雑な香りを。"
+   "howto": "ストレートで、複雑な香りを。",
+   "about_en": "A single malt from Campbeltown, Scotland. It is known for doing everything in-house the traditional way, from malting to bottling.",
+   "howto_en": "Neat, for its complex aroma."
   },
   {
    "keys": [
     "オーヘントッシャン"
    ],
    "about": "スコットランド・ローランドのシングルモルトです。3回蒸溜する珍しい造りで、軽やかでなめらかな味わいです。",
-   "howto": "ハイボールにも向いています。"
+   "howto": "ハイボールにも向いています。",
+   "about_en": "A single malt from the Lowlands of Scotland. Its unusual triple distillation makes it light and smooth.",
+   "howto_en": "Also well suited to a highball."
   },
   {
    "keys": [
     "ザ・バルヴェニー 12年 ダブルウッド"
    ],
    "about": "スペイサイドのシングルモルトです。バーボン樽で熟成させたあと、シェリー樽で仕上げた、はちみつのような甘さがあります。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "A Speyside single malt. Aged in bourbon casks and finished in sherry casks, it has a honey-like sweetness.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
     "グレンドロナック 12年"
    ],
    "about": "スコットランド・ハイランドのシングルモルトです。シェリー樽での熟成にこだわった、濃厚で甘い味わいです。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "A single malt from the Highlands of Scotland. Devoted to sherry cask maturation, it is rich and sweet.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
@@ -476,14 +600,18 @@
     "グレンファークラス 105"
    ],
    "about": "家族経営で知られるスペイサイドの蒸溜所のシングルモルトです。シェリー樽を使った、濃厚で力強い味わいです。",
-   "howto": "105は度数が高いので、少し加水しても。"
+   "howto": "105は度数が高いので、少し加水しても。",
+   "about_en": "Single malts from a Speyside distillery known for being family-owned. Using sherry casks, they are rich and powerful.",
+   "howto_en": "The 105 is high in strength, so a splash of water works well."
   },
   {
    "keys": [
     "ブルックラディ ザ・クラシック・ラディ"
    ],
    "about": "アイラ島の蒸溜所のシングルモルトですが、スモーキーさのない軽やかな味わいです。青いボトルが目印です。",
-   "howto": "ストレートやハイボールで。"
+   "howto": "ストレートやハイボールで。",
+   "about_en": "A single malt from an Islay distillery, yet light with no smokiness. Look for the blue bottle.",
+   "howto_en": "Neat or as a highball."
   },
   {
    "keys": [
@@ -491,28 +619,36 @@
     "オクトモア"
    ],
    "about": "アイラ島のブルックラディ蒸溜所が造る、スモーキーなシングルモルトです。オクトモアは、世界でも最高レベルのピートの強さで知られています。",
-   "howto": "少量をストレートで。"
+   "howto": "少量をストレートで。",
+   "about_en": "Smoky single malts from Islay's Bruichladdich distillery. Octomore is known for some of the heaviest peating in the world.",
+   "howto_en": "A small pour, neat."
   },
   {
    "keys": [
     "ブナハーブン 12年"
    ],
    "about": "アイラ島のシングルモルトですが、ピートをほとんど使わない穏やかな味わいです。ナッツや果物のような香りがあります。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "An Islay single malt, yet gentle, made with very little peat. It has nutty and fruity aromas.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
     "キルホーマン"
    ],
    "about": "2005年に生まれた、アイラ島の農場の中にある蒸溜所のシングルモルトです。麦の栽培から手がけています。",
-   "howto": "ストレートかハイボールで。"
+   "howto": "ストレートかハイボールで。",
+   "about_en": "A single malt from a distillery on a farm on Islay, founded in 2005. It even grows its own barley.",
+   "howto_en": "Neat or as a highball."
   },
   {
    "keys": [
     "ジャック ダニエル"
    ],
    "about": "アメリカ・テネシー州のウイスキーです。サトウカエデの炭でろ過してからたる詰めする造りで、まろやかでバニラのような甘い香りがあります。",
-   "howto": "コーラで割ったジャックコークが定番です。"
+   "howto": "コーラで割ったジャックコークが定番です。",
+   "about_en": "A whiskey from Tennessee, USA. Filtered through sugar maple charcoal before going into the barrel, it is mellow with a sweet, vanilla-like aroma.",
+   "howto_en": "Mixed with cola as a Jack and Coke is the classic."
   },
   {
    "keys": [
@@ -520,21 +656,27 @@
     "ジャックダニエル シングルバレル"
    ],
    "about": "ジャック ダニエルの上位の銘柄です。ジェントルマン ジャックは炭のろ過を2回行い、よりなめらかに仕上げています。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "Premium expressions of Jack Daniel's. Gentleman Jack is charcoal-filtered twice for an even smoother finish.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
     "メーカーズマーク"
    ],
    "about": "赤い封ろうのボトルでおなじみのケンタッキーのバーボンです。原料に冬小麦を使い、やわらかくふくよかな甘さがあります。",
-   "howto": "ロックやハイボールで。"
+   "howto": "ロックやハイボールで。",
+   "about_en": "A Kentucky bourbon known for its red wax seal. Made with winter wheat, it has a soft, round sweetness.",
+   "howto_en": "On the rocks or as a highball."
   },
   {
    "keys": [
     "メーカーズマーク 46"
    ],
    "about": "メーカーズマークを、樽の中に焼いたフレンチオークの板を入れてさらに熟成させたものです。スパイスや焼き菓子のような香りが増しています。",
-   "howto": "ロックで。"
+   "howto": "ロックで。",
+   "about_en": "Maker's Mark further aged with seared French oak staves placed inside the barrel. It has more spice and baked-goods aromas.",
+   "howto_en": "On the rocks."
   },
   {
    "keys": [
@@ -543,63 +685,81 @@
     "ワイルドターキー レアブリード"
    ],
    "about": "七面鳥のラベルでおなじみのケンタッキーのバーボンです。度数が高めで、力強く濃い味わいです。",
-   "howto": "ロックか、ソーダで割って。"
+   "howto": "ロックか、ソーダで割って。",
+   "about_en": "A Kentucky bourbon known for the turkey on its label. Higher in strength, it is bold and rich.",
+   "howto_en": "On the rocks, or with soda."
   },
   {
    "keys": [
     "ジムビーム"
    ],
    "about": "世界でよく飲まれているケンタッキーのバーボンです。軽やかで甘い香りがあり、気軽に飲めます。",
-   "howto": "ハイボールで。"
+   "howto": "ハイボールで。",
+   "about_en": "A Kentucky bourbon enjoyed around the world. It has a light, sweet aroma and is easy to enjoy casually.",
+   "howto_en": "As a highball."
   },
   {
    "keys": [
     "フォアローゼズ"
    ],
    "about": "4つのバラのラベルのケンタッキーのバーボンです。複数の原料配合と酵母の組み合わせから造る原酒を合わせ、華やかでフルーティです。",
-   "howto": "ロックやハイボールで。"
+   "howto": "ロックやハイボールで。",
+   "about_en": "A Kentucky bourbon with four roses on the label. It combines whiskies made from several mash bills and yeast strains, making it bright and fruity.",
+   "howto_en": "On the rocks or as a highball."
   },
   {
    "keys": [
     "ブッカーズ"
    ],
    "about": "ジムビームの6代目マスターディスティラー、ブッカー・ノウの名を持つバーボンです。樽から出したままの高い度数で瓶詰めしています。",
-   "howto": "少し加水して香りを開かせて。"
+   "howto": "少し加水して香りを開かせて。",
+   "about_en": "A bourbon bearing the name of Booker Noe, Jim Beam's sixth-generation master distiller. It is bottled straight from the barrel at high strength.",
+   "howto_en": "Add a little water to open up the aroma."
   },
   {
    "keys": [
     "ノブクリーク"
    ],
    "about": "少量ずつ造られる、力強いケンタッキーのバーボンです。しっかりした樽の香りと甘さがあります。",
-   "howto": "ロックで。"
+   "howto": "ロックで。",
+   "about_en": "A bold Kentucky bourbon made in small batches. It has firm oak aromas and sweetness.",
+   "howto_en": "On the rocks."
   },
   {
    "keys": [
     "ブラントン"
    ],
    "about": "樽ひとつごとに瓶詰めする、シングルバレルのバーボンです。キャップに乗った競走馬の飾りが目印です。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "A single barrel bourbon, bottled one barrel at a time. Look for the racehorse figure on the stopper.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
     "ウッドフォードリザーブ"
    ],
    "about": "ケンタッキーのバーボンです。なめらかで、バニラやスパイスの香りが豊かです。",
-   "howto": "ロックやオールド・ファッションドで。"
+   "howto": "ロックやオールド・ファッションドで。",
+   "about_en": "A Kentucky bourbon. It is smooth, with rich vanilla and spice aromas.",
+   "howto_en": "On the rocks or in an Old Fashioned."
   },
   {
    "keys": [
     "バッファロートレース"
    ],
    "about": "ケンタッキーの歴史ある蒸溜所のバーボンです。甘くまろやかで、バランスのよい味わいです。",
-   "howto": "ロックやハイボールで。"
+   "howto": "ロックやハイボールで。",
+   "about_en": "A bourbon from a historic Kentucky distillery. Sweet and mellow, it is well balanced.",
+   "howto_en": "On the rocks or as a highball."
   },
   {
    "keys": [
     "I.W.ハーパー"
    ],
    "about": "軽やかでなめらかなバーボンです。日本ではハイボールでおなじみです。",
-   "howto": "ハイボールで。"
+   "howto": "ハイボールで。",
+   "about_en": "A light, smooth bourbon. In Japan it is well known as a highball.",
+   "howto_en": "As a highball."
   },
   {
    "keys": [
@@ -607,28 +767,36 @@
     "ジェムソン ブラックバレル"
    ],
    "about": "アイルランドのウイスキーです。3回蒸溜による、なめらかで軽やかな味わいが特徴です。",
-   "howto": "ハイボールやジンジャーエール割りで。"
+   "howto": "ハイボールやジンジャーエール割りで。",
+   "about_en": "An Irish whiskey. Triple distillation gives it a smooth, light taste.",
+   "howto_en": "As a highball or with ginger ale."
   },
   {
    "keys": [
     "ブッシュミルズ"
    ],
    "about": "北アイルランドのウイスキーです。1608年に蒸溜の許可を得たといわれる、歴史の長い蒸溜所です。",
-   "howto": "ハイボールやアイリッシュ・コーヒーで。"
+   "howto": "ハイボールやアイリッシュ・コーヒーで。",
+   "about_en": "A whiskey from Northern Ireland. The historic distillery is said to have received its license to distill in 1608.",
+   "howto_en": "As a highball or in an Irish coffee."
   },
   {
    "keys": [
     "タラモアデュー"
    ],
    "about": "アイルランドのブレンデッドウイスキーです。3回蒸溜した原酒による、軽やかでなめらかな味わいです。",
-   "howto": "ハイボールで。"
+   "howto": "ハイボールで。",
+   "about_en": "A blended Irish whiskey. Made with triple-distilled whiskey, it is light and smooth.",
+   "howto_en": "As a highball."
   },
   {
    "keys": [
     "レッドブレスト 12年"
    ],
    "about": "アイルランドの伝統的な「シングルポットスチル」という造りのウイスキーです。スパイシーで、果物のような豊かな味わいです。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "An Irish whiskey made in the traditional single pot still style. It is spicy and richly fruity.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
@@ -636,14 +804,18 @@
     "カナディアンクラブ 12年"
    ],
    "about": "カナダのウイスキーです。軽やかでまろやかな味わいで、カクテルにもよく使われます。",
-   "howto": "ハイボールやジンジャーエール割りで。"
+   "howto": "ハイボールやジンジャーエール割りで。",
+   "about_en": "A Canadian whisky. Light and mellow, it is also often used in cocktails.",
+   "howto_en": "As a highball or with ginger ale."
   },
   {
    "keys": [
     "クラウンローヤル"
    ],
    "about": "紫の布袋に入ったボトルでおなじみの、カナダのウイスキーです。なめらかで甘い味わいです。",
-   "howto": "ロックやハイボールで。"
+   "howto": "ロックやハイボールで。",
+   "about_en": "A Canadian whisky known for its bottle in a purple cloth bag. It is smooth and sweet.",
+   "howto_en": "On the rocks or as a highball."
   },
   {
    "keys": [
@@ -651,7 +823,9 @@
     "カバラン ソリスト"
    ],
    "about": "台湾・宜蘭の蒸溜所のシングルモルトです。暑い気候で熟成が早く進み、トロピカルフルーツのような濃い味わいになります。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "A single malt from a distillery in Yilan, Taiwan. The hot climate speeds maturation, giving it a rich, tropical-fruit character.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
@@ -659,49 +833,63 @@
     "獺祭 純米大吟醸45"
    ],
    "about": "山口・岩国の旭酒造が造る、純米大吟醸だけを手がける銘柄です。酒米・山田錦を磨いて造る、華やかな香りと上品な甘さが特徴です。",
-   "howto": "よく冷やして、ワイングラスで香りを楽しんで。"
+   "howto": "よく冷やして、ワイングラスで香りを楽しんで。",
+   "about_en": "A brand from Asahi Shuzo in Iwakuni, Yamaguchi, that makes only Junmai Daiginjo. Made from polished Yamada Nishiki sake rice, it has a bright aroma and an elegant sweetness.",
+   "howto_en": "Serve well chilled in a wine glass to enjoy the aroma."
   },
   {
    "keys": [
     "獺祭 磨き二割三分"
    ],
    "about": "獺祭の最上位の定番品です。山田錦を23%まで磨き上げた、澄んだ甘さと華やかな香りの純米大吟醸です。",
-   "howto": "冷やしてワイングラスで。特別な日の一本に。"
+   "howto": "冷やしてワイングラスで。特別な日の一本に。",
+   "about_en": "Dassai's top regular release. A Junmai Daiginjo from Yamada Nishiki polished to 23 percent, with a clear sweetness and bright aroma.",
+   "howto_en": "Chilled, in a wine glass. A bottle for a special day."
   },
   {
    "keys": [
     "獺祭 磨き三割九分"
    ],
    "about": "山田錦を39%まで磨いた獺祭の純米大吟醸です。華やかさと、しっかりした米のうまみのバランスがよい一本です。",
-   "howto": "冷やしてどうぞ。"
+   "howto": "冷やしてどうぞ。",
+   "about_en": "A Dassai Junmai Daiginjo from Yamada Nishiki polished to 39 percent. It nicely balances brightness with solid rice savoriness.",
+   "howto_en": "Enjoy it chilled."
   },
   {
    "keys": [
     "久保田 千寿"
    ],
    "about": "新潟・長岡の朝日酒造の代表銘柄です。すっきりとした淡麗辛口で、食事の味を邪魔しない吟醸酒です。",
-   "howto": "冷やでもぬる燗でも。和食全般に合わせやすいです。"
+   "howto": "冷やでもぬる燗でも。和食全般に合わせやすいです。",
+   "about_en": "The flagship brand of Asahi Shuzo in Nagaoka, Niigata. A light, dry ginjo sake that never gets in the way of the food.",
+   "howto_en": "Chilled or gently warmed. Pairs easily with all kinds of Japanese food."
   },
   {
    "keys": [
     "久保田 萬寿"
    ],
    "about": "久保田の最上位の純米大吟醸です。やわらかく深みのある味わいで、贈り物にもよく選ばれます。",
-   "howto": "冷やか常温で。"
+   "howto": "冷やか常温で。",
+   "about_en": "The top Junmai Daiginjo from Kubota. Soft and deep in flavor, it is a popular gift.",
+   "howto_en": "Chilled or at room temperature."
   },
   {
    "keys": [
     "久保田 碧寿"
    ],
    "about": "昔ながらの山廃仕込みで造った久保田の純米大吟醸です。まろやかなコクがあり、温めてもおいしい一本です。",
-   "howto": "ぬる燗がおすすめです。"
+   "howto": "ぬる燗がおすすめです。",
+   "about_en": "A Kubota Junmai Daiginjo made by the traditional yamahai method. It has a mellow richness and is delicious warmed, too.",
+   "howto_en": "Gently warmed is recommended."
   },
   {
    "keys": [
     "久保田 百寿"
    ],
    "about": "久保田の本醸造酒です。軽やかですっきりとした、毎日の食事に合わせやすい味わいです。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "Kubota's honjozo sake. Light and clean, it pairs easily with everyday meals.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
@@ -710,7 +898,9 @@
     "八海山 純米大吟醸"
    ],
    "about": "新潟・南魚沼の八海醸造の代表銘柄です。雪国らしい淡麗ですっきりとした味わいで、キレのよさが特徴です。",
-   "howto": "冷やでも燗でも。食事に合わせやすい一本です。"
+   "howto": "冷やでも燗でも。食事に合わせやすい一本です。",
+   "about_en": "The flagship brand of Hakkai Jozo in Minamiuonuma, Niigata. Light and clean as befits snow country, it is known for its crisp finish.",
+   "howto_en": "Chilled or warmed. An easy match for food."
   },
   {
    "keys": [
@@ -719,7 +909,9 @@
     "十四代 龍月"
    ],
    "about": "山形・村山の高木酒造が造る、とても入手しにくい銘柄です。華やかな香りと甘くふくよかなうまみで、「芳醇旨口」の流れを生んだ酒として知られます。",
-   "howto": "冷やして、香りと甘みをゆっくり味わって。"
+   "howto": "冷やして、香りと甘みをゆっくり味わって。",
+   "about_en": "A brand from Takagi Shuzo in Murayama, Yamagata, that is very hard to find. With its bright aroma and sweet, full savoriness, it is known for starting the rich, flavorful style of sake.",
+   "howto_en": "Chilled, savoring the aroma and sweetness slowly."
   },
   {
    "keys": [
@@ -731,7 +923,9 @@
     "新政 No.6 X-type"
    ],
    "about": "秋田市の新政酒造の銘柄です。現在よく使われる「きょうかい6号酵母」が見つかった蔵で、木の桶や生酛造りなど伝統的な製法にこだわっています。",
-   "howto": "冷やして、やわらかな酸味と甘みを。"
+   "howto": "冷やして、やわらかな酸味と甘みを。",
+   "about_en": "A brand from Aramasa Shuzo in Akita City. Kyokai No. 6, a yeast widely used today, was discovered at this brewery, and it remains devoted to traditional methods such as wooden vats and kimoto.",
+   "howto_en": "Chilled, for its soft acidity and sweetness."
   },
   {
    "keys": [
@@ -740,7 +934,9 @@
     "而今 純米吟醸"
    ],
    "about": "三重・名張の木屋正酒造の銘柄です。果物のようなみずみずしい香りと、ジューシーな甘酸っぱさが人気です。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A brand from Kiyasho Shuzo in Nabari, Mie. It is popular for its fresh, fruity aroma and juicy sweet-tartness.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -748,14 +944,18 @@
     "黒龍 いっちょらい"
    ],
    "about": "福井・永平寺町の黒龍酒造の銘柄です。大吟醸を早くから一般に売り出した蔵で、上品ですっきりした味わいです。",
-   "howto": "冷やでどうぞ。"
+   "howto": "冷やでどうぞ。",
+   "about_en": "A brand from Kokuryu Shuzo in Eiheiji, Fukui. One of the first breweries to sell daiginjo to the general public, it is elegant and clean.",
+   "howto_en": "Enjoy it chilled."
   },
   {
    "keys": [
     "黒龍 しずく"
    ],
    "about": "黒龍の大吟醸です。もろみを袋に入れて吊るし、自然に落ちる「しずく」だけを集めた、繊細で上品な味わいです。",
-   "howto": "冷やしてワイングラスで。"
+   "howto": "冷やしてワイングラスで。",
+   "about_en": "Kokuryu's daiginjo. Made by hanging the moromi in bags and collecting only the drops that fall naturally, it is delicate and refined.",
+   "howto_en": "Chilled, in a wine glass."
   },
   {
    "keys": [
@@ -763,7 +963,9 @@
     "田酒 特別純米"
    ],
    "about": "青森の西田酒造店の銘柄です。名前のとおり、米と米麹だけで造る純米酒にこだわり、米のうまみがしっかり感じられます。",
-   "howto": "冷やか、ぬる燗で。"
+   "howto": "冷やか、ぬる燗で。",
+   "about_en": "A brand from Nishida Shuzo in Aomori. True to its name, it is devoted to junmai sake made only from rice and rice koji, and the rice savoriness comes through clearly.",
+   "howto_en": "Chilled or gently warmed."
   },
   {
    "keys": [
@@ -771,7 +973,9 @@
     "飛露喜 特別純米"
    ],
    "about": "福島・会津坂下の廣木酒造本店の銘柄です。ろ過をしない生原酒で知られるようになった、みずみずしく濃いうまみの酒です。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Hiroki Shuzo Honten in Aizubange, Fukushima. It became known for its unfiltered nama genshu, fresh and deeply savory.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -779,7 +983,9 @@
     "醸し人九平次 純米大吟醸 山田錦"
    ],
    "about": "愛知・名古屋の萬乗醸造の銘柄です。ワインのような酸味と香りを持ち、フランスのレストランでも扱われています。",
-   "howto": "ワイングラスで、少し冷やして。"
+   "howto": "ワイングラスで、少し冷やして。",
+   "about_en": "A brand from Banjo Jozo in Nagoya, Aichi. With wine-like acidity and aroma, it is served at restaurants in France.",
+   "howto_en": "In a wine glass, slightly chilled."
   },
   {
    "keys": [
@@ -787,7 +993,9 @@
     "鍋島 特別純米"
    ],
    "about": "佐賀・鹿島の富久千代酒造の銘柄です。2011年に世界的なワイン品評会の日本酒部門で最高賞を受け、全国に知られるようになりました。",
-   "howto": "冷やして、フルーティな香りを。"
+   "howto": "冷やして、フルーティな香りを。",
+   "about_en": "A brand from Fukuchiyo Shuzo in Kashima, Saga. It became known nationwide after winning the top prize in the sake category of a major international wine competition in 2011.",
+   "howto_en": "Chilled, for its fruity aroma."
   },
   {
    "keys": [
@@ -796,7 +1004,9 @@
     "作 玄乃智"
    ],
    "about": "三重・鈴鹿の清水清三郎商店の銘柄です。2016年の伊勢志摩サミットで乾杯酒に選ばれました。華やかで澄んだ味わいです。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Shimizu Seizaburo Shoten in Suzuka, Mie. It was chosen as the toast sake at the 2016 Ise-Shima Summit. Bright and clear in taste.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -804,14 +1014,18 @@
     "出羽桜 桜花吟醸"
    ],
    "about": "山形・天童の出羽桜酒造の銘柄です。「桜花吟醸酒」は、それまで特別なものだった吟醸酒を一般に広めたといわれる一本です。",
-   "howto": "冷やして、華やかな香りを。"
+   "howto": "冷やして、華やかな香りを。",
+   "about_en": "A brand from Dewazakura Shuzo in Tendo, Yamagata. Its Oka Ginjo is said to have brought ginjo sake, once reserved for special occasions, to everyone.",
+   "howto_en": "Chilled, for its bright aroma."
   },
   {
    "keys": [
     "越乃寒梅"
    ],
    "about": "新潟の石本酒造の銘柄です。すっきりとした淡麗辛口の代表で、かつては「幻の酒」と呼ばれるほどの人気を集めました。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Ishimoto Shuzo in Niigata. A benchmark of light, dry sake, it was once so popular it was called a phantom sake.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
@@ -819,7 +1033,9 @@
     "南部美人 特別純米"
    ],
    "about": "岩手・二戸の南部美人の銘柄です。果物のような香りとなめらかな甘みがあり、海外でも評価されています。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Nanbu Bijin in Ninohe, Iwate. With a fruity aroma and smooth sweetness, it is well regarded overseas too.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -827,7 +1043,9 @@
     "花陽浴 純米吟醸"
    ],
    "about": "埼玉・羽生の南陽醸造の銘柄です。ろ過をしない生原酒が中心で、メロンのような華やかな香りと甘さが特徴です。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A brand from Nanyo Jozo in Hanyu, Saitama. Mostly unfiltered nama genshu, it is known for a bright, melon-like aroma and sweetness.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -835,7 +1053,9 @@
     "風の森 秋津穂"
    ],
    "about": "奈良・御所の油長酒造の銘柄です。搾ったままの生酒で、ほんのりとした発泡感とみずみずしい味わいがあります。",
-   "howto": "冷やして、開けたての発泡感を。"
+   "howto": "冷やして、開けたての発泡感を。",
+   "about_en": "A brand from Yucho Shuzo in Gose, Nara. A nama sake bottled straight from the press, it has a light natural fizz and a fresh taste.",
+   "howto_en": "Chilled, to enjoy the fizz right after opening."
   },
   {
    "keys": [
@@ -843,56 +1063,72 @@
     "寫樂 純米吟醸"
    ],
    "about": "福島・会津若松の宮泉銘醸の銘柄です。華やかな香りと、甘みと酸味のバランスがよい味わいです。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Miyaizumi Meijo in Aizuwakamatsu, Fukushima. It has a bright aroma and a good balance of sweetness and acidity.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "菊正宗"
    ],
    "about": "兵庫・灘の菊正宗酒造の銘柄です。昔ながらの生酛造りによる、キレのある辛口が特徴です。",
-   "howto": "燗にするとうまみが広がります。"
+   "howto": "燗にするとうまみが広がります。",
+   "about_en": "A brand from Kiku-Masamune Shuzo in Nada, Hyogo. Made the traditional kimoto way, it is known for its crisp dryness.",
+   "howto_en": "Warming it brings out the savoriness."
   },
   {
    "keys": [
     "白鶴"
    ],
    "about": "兵庫・灘の白鶴酒造の銘柄です。日本でも有数の生産量を持つ蔵で、手ごろで飲みやすいお酒を多く造っています。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Hakutsuru Shuzo in Nada, Hyogo. One of Japan's largest producers, it makes many affordable, easy-drinking sakes.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
     "月桂冠"
    ],
    "about": "京都・伏見の月桂冠の銘柄です。江戸時代から続く大手の蔵で、なじみのある味わいです。",
-   "howto": "燗でも冷やでも。"
+   "howto": "燗でも冷やでも。",
+   "about_en": "A brand from Gekkeikan in Fushimi, Kyoto. A major brewery dating back to the Edo period, with a familiar, approachable taste.",
+   "howto_en": "Warmed or chilled."
   },
   {
    "keys": [
     "上善如水"
    ],
    "about": "新潟の白瀧酒造の銘柄です。「水のごとし」という名前のとおり、やわらかく軽やかで飲みやすい味わいです。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Shirataki Shuzo in Niigata. True to its name, meaning like water, it is soft, light and easy to drink.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "〆張鶴"
    ],
    "about": "新潟・村上の宮尾酒造の銘柄です。新潟らしいすっきりした味わいの中に、やわらかなうまみがあります。",
-   "howto": "冷やかぬる燗で。"
+   "howto": "冷やかぬる燗で。",
+   "about_en": "A brand from Miyao Shuzo in Murakami, Niigata. Within its clean Niigata style lies a soft savoriness.",
+   "howto_en": "Chilled or gently warmed."
   },
   {
    "keys": [
     "雪中梅"
    ],
    "about": "新潟・上越の丸山酒造場の銘柄です。新潟では珍しい、やさしい甘口の味わいで知られます。",
-   "howto": "冷やかぬる燗で。"
+   "howto": "冷やかぬる燗で。",
+   "about_en": "A brand from Maruyama Shuzojo in Joetsu, Niigata. It is known for a gentle sweetness, unusual for Niigata.",
+   "howto_en": "Chilled or gently warmed."
   },
   {
    "keys": [
     "菊水"
    ],
    "about": "新潟・新発田の菊水酒造の銘柄です。搾りたての生原酒を缶に詰めた「ふなぐち」でも知られています。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Kikusui Shuzo in Shibata, Niigata. It is also known for Funaguchi, fresh nama genshu packed in a can.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -900,49 +1136,63 @@
     "天狗舞 山廃仕込純米"
    ],
    "about": "石川・白山の車多酒造の銘柄です。山廃仕込みによる、濃いうまみとしっかりした酸味が特徴です。",
-   "howto": "ぬる燗がおすすめです。"
+   "howto": "ぬる燗がおすすめです。",
+   "about_en": "A brand from Shata Shuzo in Hakusan, Ishikawa. Made by the yamahai method, it is known for deep savoriness and firm acidity.",
+   "howto_en": "Gently warmed is recommended."
   },
   {
    "keys": [
     "菊姫"
    ],
    "about": "石川・白山の菊姫の銘柄です。山廃仕込みなどによる、濃くどっしりとした味わいで知られます。",
-   "howto": "燗にして。"
+   "howto": "燗にして。",
+   "about_en": "A brand from Kikuhime in Hakusan, Ishikawa. Made with methods such as yamahai, it is known for a rich, weighty taste.",
+   "howto_en": "Warmed."
   },
   {
    "keys": [
     "梵"
    ],
    "about": "福井・鯖江の加藤吉平商店の銘柄です。熟成させた上品な味わいで、国の大切な席でも使われてきました。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Kato Kichibee Shoten in Sabae, Fukui. With its aged, refined flavor, it has been served at important state occasions.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "九頭龍"
    ],
    "about": "黒龍酒造の、燗で飲むことを考えて造られた銘柄です。温めることで、やわらかなうまみが広がります。",
-   "howto": "ぬる燗から熱燗で。"
+   "howto": "ぬる燗から熱燗で。",
+   "about_en": "A Kokuryu Shuzo brand made with warm serving in mind. Warming spreads its soft savoriness.",
+   "howto_en": "From gently warm to hot."
   },
   {
    "keys": [
     "磯自慢"
    ],
    "about": "静岡・焼津の磯自慢酒造の銘柄です。静岡らしい、澄んだ香りとすっきりした味わいです。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Isojiman Shuzo in Yaizu, Shizuoka. It has the clear aroma and clean taste typical of Shizuoka.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "真澄"
    ],
    "about": "長野・諏訪の宮坂醸造の銘柄です。今も使われる「きょうかい7号酵母」が見つかった蔵として知られます。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Miyasaka Jozo in Suwa, Nagano. It is known as the brewery where Kyokai No. 7 yeast, still in use today, was discovered.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
     "七賢"
    ],
    "about": "山梨・北杜の山梨銘醸の銘柄です。南アルプスの水を使った、やわらかな味わいです。スパークリング日本酒も造っています。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Yamanashi Meijo in Hokuto, Yamanashi. Made with Southern Alps water, it is soft in flavor. The brewery also makes sparkling sake.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -950,7 +1200,9 @@
     "澤乃井 大辛口"
    ],
    "about": "東京・青梅の小澤酒造の銘柄です。多摩川上流の水を使った、すっきりとした辛口が多い蔵です。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Ozawa Shuzo in Ome, Tokyo. Using water from the upper Tama River, the brewery makes mostly clean, dry sake.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
@@ -958,7 +1210,9 @@
     "仙禽 オーガニックナチュール"
    ],
    "about": "栃木・さくら市のせんきんの銘柄です。甘みと酸味がはっきりした味わいで、生酛や木桶を使った造りにも取り組んでいます。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Senkin in Sakura, Tochigi. It has a clear-cut sweetness and acidity, and the brewery also works with kimoto and wooden vats.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -966,21 +1220,27 @@
     "鳳凰美田 剱"
    ],
    "about": "栃木・小山の小林酒造の銘柄です。果物のような華やかな香りが特徴です。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A brand from Kobayashi Shuzo in Oyama, Tochigi. It is known for a bright, fruity aroma.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "浦霞"
    ],
    "about": "宮城・塩竈の佐浦の銘柄です。港町で長く愛されてきた、穏やかでやさしい味わいです。",
-   "howto": "冷やか、ぬる燗で。魚介と一緒に。"
+   "howto": "冷やか、ぬる燗で。魚介と一緒に。",
+   "about_en": "A brand from Saura in Shiogama, Miyagi. Long loved in this port town, it is calm and gentle in flavor.",
+   "howto_en": "Chilled or gently warmed, with seafood."
   },
   {
    "keys": [
     "一ノ蔵"
    ],
    "about": "宮城・大崎の一ノ蔵の銘柄です。発泡性の日本酒「すず音」でも知られています。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Ichinokura in Osaki, Miyagi. It is also known for Suzune, a sparkling sake.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
@@ -988,7 +1248,9 @@
     "伯楽星 特別純米"
    ],
    "about": "宮城の新澤醸造店の銘柄です。「究極の食中酒」を目指した、すっきりとした味わいです。",
-   "howto": "冷やして、食事と一緒に。"
+   "howto": "冷やして、食事と一緒に。",
+   "about_en": "A brand from Niizawa Jozoten in Miyagi. Aiming to be the ultimate sake for drinking with food, it is clean and crisp.",
+   "howto_en": "Chilled, with a meal."
   },
   {
    "keys": [
@@ -996,7 +1258,9 @@
     "大七 生酛純米"
    ],
    "about": "福島・二本松の大七酒造の銘柄です。手間のかかる昔ながらの生酛造りを守り続けている蔵です。",
-   "howto": "ぬる燗で、深いうまみを。"
+   "howto": "ぬる燗で、深いうまみを。",
+   "about_en": "A brand from Daishichi Shuzo in Nihonmatsu, Fukushima. The brewery has kept up the labor-intensive traditional kimoto method.",
+   "howto_en": "Gently warmed, for its deep savoriness."
   },
   {
    "keys": [
@@ -1004,21 +1268,27 @@
     "上喜元 純米吟醸"
    ],
    "about": "山形・酒田の酒田酒造の銘柄です。いろいろな酒米を使い分けた、多彩な味わいのお酒を造っています。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Sakata Shuzo in Sakata, Yamagata. Using a variety of sake rices, it makes sakes with a wide range of flavors.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "くどき上手"
    ],
    "about": "山形・鶴岡の亀の井酒造の銘柄です。華やかな香りの吟醸酒を得意としています。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Kamenoi Shuzo in Tsuruoka, Yamagata. It specializes in ginjo sake with a bright aroma.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "雪の茅舎"
    ],
    "about": "秋田・由利本荘の齋彌酒造店の銘柄です。やわらかな香りと、なめらかな味わいが特徴です。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Saiya Shuzoten in Yurihonjo, Akita. It is known for a soft aroma and a smooth taste.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -1026,7 +1296,9 @@
     "一白水成 純米吟醸"
    ],
    "about": "秋田・五城目の福禄寿酒造の銘柄です。透明感のある甘みとすっきりした後味が人気です。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Fukurokuju Shuzo in Gojome, Akita. It is popular for its clear sweetness and clean finish.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -1034,56 +1306,72 @@
     "陸奥八仙 ピンクラベル"
    ],
    "about": "青森・八戸の八戸酒造の銘柄です。果物のような香りと、みずみずしい甘酸っぱさがあります。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Hachinohe Shuzo in Hachinohe, Aomori. It has a fruity aroma and fresh sweet-tartness.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "国稀"
    ],
    "about": "北海道・増毛の国稀酒造の銘柄です。日本最北の酒蔵として知られます。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Kunimare Shuzo in Mashike, Hokkaido. It is known as Japan's northernmost sake brewery.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
     "黄桜"
    ],
    "about": "京都・伏見の黄桜の銘柄です。かっぱのキャラクターでおなじみです。",
-   "howto": "燗でも冷やでも。"
+   "howto": "燗でも冷やでも。",
+   "about_en": "A brand from Kizakura in Fushimi, Kyoto. It is familiar for its kappa character.",
+   "howto_en": "Warmed or chilled."
   },
   {
    "keys": [
     "剣菱"
    ],
    "about": "兵庫・灘の剣菱酒造の銘柄です。古くから続く歴史ある銘柄で、濃くしっかりとした味わいです。",
-   "howto": "燗にするとうまみが広がります。"
+   "howto": "燗にするとうまみが広がります。",
+   "about_en": "A brand from Kenbishi Shuzo in Nada, Hyogo. A historic brand with a long heritage, it is rich and full-bodied.",
+   "howto_en": "Warming it brings out the savoriness."
   },
   {
    "keys": [
     "大関"
    ],
    "about": "兵庫・西宮の大関の銘柄です。カップ酒「ワンカップ大関」を生んだ蔵として知られます。",
-   "howto": "燗でも冷やでも。"
+   "howto": "燗でも冷やでも。",
+   "about_en": "A brand from Ozeki in Nishinomiya, Hyogo. It is known as the brewery that created One Cup Ozeki, sake in a cup.",
+   "howto_en": "Warmed or chilled."
   },
   {
    "keys": [
     "ワンカップ大関"
    ],
    "about": "1964年に生まれた、カップ入りの日本酒の草分けです。手軽にどこでも飲める一本です。",
-   "howto": "そのままでも、温めても。"
+   "howto": "そのままでも、温めても。",
+   "about_en": "Born in 1964, it pioneered sake in a cup. An easy drink to enjoy anywhere.",
+   "howto_en": "As it is, or warmed."
   },
   {
    "keys": [
     "白鹿"
    ],
    "about": "兵庫・西宮の辰馬本家酒造の銘柄です。灘の酒らしい、すっきりとした味わいです。",
-   "howto": "燗でも冷やでも。"
+   "howto": "燗でも冷やでも。",
+   "about_en": "A brand from Tatsuuma-Honke Brewing in Nishinomiya, Hyogo. It has the clean taste typical of Nada sake.",
+   "howto_en": "Warmed or chilled."
   },
   {
    "keys": [
     "玉乃光"
    ],
    "about": "京都・伏見の玉乃光酒造の銘柄です。純米酒が少なかった時代から純米酒を造ってきた蔵です。",
-   "howto": "冷やかぬる燗で。"
+   "howto": "冷やかぬる燗で。",
+   "about_en": "A brand from Tamanohikari Shuzo in Fushimi, Kyoto. The brewery has made junmai sake since the days when junmai was rare.",
+   "howto_en": "Chilled or gently warmed."
   },
   {
    "keys": [
@@ -1091,7 +1379,9 @@
     "紀土 純米"
    ],
    "about": "和歌山・海南の平和酒造の銘柄です。手ごろな価格ながら、澄んだ甘さとすっきりした味わいで人気です。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Heiwa Shuzo in Kainan, Wakayama. Though affordable, it is popular for its clear sweetness and clean taste.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -1099,21 +1389,27 @@
     "七本鎗 純米"
    ],
    "about": "滋賀・長浜の冨田酒造の銘柄です。地元の米を使った、しっかりしたうまみの酒を造っています。",
-   "howto": "燗にしてもおいしい一本です。"
+   "howto": "燗にしてもおいしい一本です。",
+   "about_en": "A brand from Tomita Shuzo in Nagahama, Shiga. Using local rice, it makes sake with solid savoriness.",
+   "howto_en": "Also delicious warmed."
   },
   {
    "keys": [
     "酔鯨"
    ],
    "about": "高知の酔鯨酒造の銘柄です。高知らしい、すっきりとした辛口が特徴です。",
-   "howto": "冷やして、かつおのたたきと一緒に。"
+   "howto": "冷やして、かつおのたたきと一緒に。",
+   "about_en": "A brand from Suigei Shuzo in Kochi. It is known for the clean, dry style typical of Kochi.",
+   "howto_en": "Chilled, with seared bonito tataki."
   },
   {
    "keys": [
     "司牡丹"
    ],
    "about": "高知・佐川の司牡丹酒造の銘柄です。キレのよい辛口の、歴史ある蔵です。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Tsukasabotan Shuzo in Sakawa, Kochi. A historic brewery with a crisp, dry style.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
@@ -1121,42 +1417,54 @@
     "東洋美人 壱番纏"
    ],
    "about": "山口・萩の澄川酒造場の銘柄です。華やかな香りと、透明感のある味わいです。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Sumikawa Shuzojo in Hagi, Yamaguchi. It has a bright aroma and a clear, transparent taste.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "五橋"
    ],
    "about": "山口・岩国の酒井酒造の銘柄です。錦帯橋にちなんだ名前で、やわらかな味わいです。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Sakai Shuzo in Iwakuni, Yamaguchi. Named after the Kintaikyo Bridge, it is soft in flavor.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
     "雨後の月"
    ],
    "about": "広島・呉の相原酒造の銘柄です。やわらかな香りと上品な甘みがあります。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Aihara Shuzo in Kure, Hiroshima. It has a soft aroma and an elegant sweetness.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "賀茂鶴"
    ],
    "about": "広島・東広島の西条にある賀茂鶴酒造の銘柄です。酒どころ西条を代表する蔵のひとつです。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Kamotsuru Shuzo in Saijo, Higashihiroshima, Hiroshima. It is one of the leading breweries of Saijo, a famous sake town.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
     "田中六五"
    ],
    "about": "福岡・糸島の白糸酒造の銘柄です。糸島産の山田錦を65%まで磨いて造る純米酒です。",
-   "howto": "冷やか、ぬる燗で。"
+   "howto": "冷やか、ぬる燗で。",
+   "about_en": "A brand from Shiraito Shuzo in Itoshima, Fukuoka. A junmai sake made from Itoshima-grown Yamada Nishiki polished to 65 percent.",
+   "howto_en": "Chilled or gently warmed."
   },
   {
    "keys": [
     "東一"
    ],
    "about": "佐賀・嬉野の五町田酒造の銘柄です。自分たちで山田錦の栽培にも取り組む蔵です。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Gochoda Shuzo in Ureshino, Saga. The brewery also grows its own Yamada Nishiki rice.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
@@ -1164,49 +1472,63 @@
     "庭のうぐいす 特別純米"
    ],
    "about": "福岡・久留米の山口酒造場の銘柄です。うぐいすのラベルでおなじみの、やさしい味わいです。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Yamaguchi Shuzojo in Kurume, Fukuoka. Familiar for its bush warbler label, it is gentle in flavor.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "ちえびじん"
    ],
    "about": "大分・杵築の中野酒造の銘柄です。果物のような香りと、やわらかな甘みがあります。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Nakano Shuzo in Kitsuki, Oita. It has a fruity aroma and a soft sweetness.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "三千盛"
    ],
    "about": "岐阜・多治見の三千盛の銘柄です。とても辛口で、すっきりとした味わいで知られます。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A brand from Michisakari in Tajimi, Gifu. It is known for being very dry and clean.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
     "みむろ杉"
    ],
    "about": "奈良・桜井の今西酒造の銘柄です。大神神社のお膝元にある蔵で、みずみずしい味わいです。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Imanishi Shuzo in Sakurai, Nara. Located near Omiwa Shrine, it is fresh in flavor.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "春鹿"
    ],
    "about": "奈良市の今西清兵衛商店の銘柄です。すっきりとした辛口が知られています。",
-   "howto": "冷やして。"
+   "howto": "冷やして。",
+   "about_en": "A brand from Imanishi Seibee Shoten in Nara City. It is known for its clean, dry style.",
+   "howto_en": "Chilled."
   },
   {
    "keys": [
     "松竹梅 白壁蔵"
    ],
    "about": "宝酒造が兵庫・灘の蔵で造る日本酒のシリーズです。生酛造りなど、本格的な造りの酒をそろえています。",
-   "howto": "冷やでも燗でも。"
+   "howto": "冷やでも燗でも。",
+   "about_en": "A sake series that Takara Shuzo brews in Nada, Hyogo. It offers authentic sakes made with methods such as kimoto.",
+   "howto_en": "Chilled or warmed."
   },
   {
    "keys": [
     "澪"
    ],
    "about": "宝酒造のスパークリング日本酒です。アルコールが低めで甘酸っぱく、日本酒が初めての人にも飲みやすい味わいです。",
-   "howto": "よく冷やして、グラスで。"
+   "howto": "よく冷やして、グラスで。",
+   "about_en": "A sparkling sake from Takara Shuzo. Lower in alcohol and sweet-tart, it is easy to drink even for those new to sake.",
+   "howto_en": "Serve well chilled, in a glass."
   },
   {
    "keys": [
@@ -1214,7 +1536,9 @@
     "森伊蔵 芋焼酎"
    ],
    "about": "鹿児島・垂水の森伊蔵酒造の芋焼酎です。かめ壺で仕込む造りで、とても入手しにくい「幻の焼酎」として知られます。",
-   "howto": "お湯割りで、やわらかな甘みを。"
+   "howto": "お湯割りで、やわらかな甘みを。",
+   "about_en": "An imo shochu from Mori Izo Shuzo in Tarumizu, Kagoshima. Fermented in clay pots, it is known as a phantom shochu that is very hard to find.",
+   "howto_en": "Oyuwari, with hot water, for its soft sweetness."
   },
   {
    "keys": [
@@ -1222,7 +1546,9 @@
     "魔王 本格芋焼酎"
    ],
    "about": "鹿児島の白玉醸造の芋焼酎です。芋焼酎らしからぬ、果物のような香りとまろやかさで人気を集めました。",
-   "howto": "ロックで。"
+   "howto": "ロックで。",
+   "about_en": "An imo shochu from Shiratama Jozo in Kagoshima. It won popularity with a fruity aroma and mellowness unusual for sweet potato shochu.",
+   "howto_en": "On the rocks."
   },
   {
    "keys": [
@@ -1230,21 +1556,27 @@
     "村尾 芋焼酎"
    ],
    "about": "鹿児島・薩摩川内の村尾酒造の芋焼酎です。かめ壺で仕込む、濃い甘みのある味わいで、入手しにくい焼酎です。",
-   "howto": "お湯割りかロックで。"
+   "howto": "お湯割りかロックで。",
+   "about_en": "An imo shochu from Murao Shuzo in Satsumasendai, Kagoshima. Fermented in clay pots, it has a deep sweetness and is hard to find.",
+   "howto_en": "Oyuwari or on the rocks."
   },
   {
    "keys": [
     "富乃宝山"
    ],
    "about": "鹿児島の西酒造の芋焼酎です。黄麹を使い、柑橘のような爽やかな香りがあります。",
-   "howto": "ロックか水割りで。"
+   "howto": "ロックか水割りで。",
+   "about_en": "An imo shochu from Nishi Shuzo in Kagoshima. Made with yellow koji, it has a fresh, citrus-like aroma.",
+   "howto_en": "On the rocks or mizuwari."
   },
   {
    "keys": [
     "吉兆宝山"
    ],
    "about": "西酒造の、黒麹を使った芋焼酎です。しっかりしたコクがあります。",
-   "howto": "お湯割りで。"
+   "howto": "お湯割りで。",
+   "about_en": "An imo shochu from Nishi Shuzo, made with black koji. It has a solid richness.",
+   "howto_en": "Oyuwari, with hot water."
   },
   {
    "keys": [
@@ -1253,7 +1585,9 @@
     "佐藤 麦"
    ],
    "about": "鹿児島・霧島の佐藤酒造の焼酎です。黒は黒麹による力強さ、白は白麹によるやわらかさが特徴です。",
-   "howto": "お湯割りかロックで。"
+   "howto": "お湯割りかロックで。",
+   "about_en": "Shochu from Sato Shuzo in Kirishima, Kagoshima. Kuro is bold thanks to black koji; Shiro is soft thanks to white koji.",
+   "howto_en": "Oyuwari or on the rocks."
   },
   {
    "keys": [
@@ -1261,14 +1595,18 @@
     "黒霧島 EX"
    ],
    "about": "宮崎・都城の霧島酒造の芋焼酎です。黒麹による「トロッとキリッと」した味わいで、全国の芋焼酎ブームを支えた一本です。",
-   "howto": "お湯割り、水割り、ロック、どれでも。"
+   "howto": "お湯割り、水割り、ロック、どれでも。",
+   "about_en": "An imo shochu from Kirishima Shuzo in Miyakonojo, Miyazaki. Thick yet crisp thanks to black koji, it helped drive the nationwide imo shochu boom.",
+   "howto_en": "Oyuwari, mizuwari or on the rocks, any way you like."
   },
   {
    "keys": [
     "赤霧島"
    ],
    "about": "紫芋を使った霧島酒造の芋焼酎です。やさしい甘さと、華やかな香りがあります。",
-   "howto": "ロックか水割りで。"
+   "howto": "ロックか水割りで。",
+   "about_en": "A Kirishima Shuzo imo shochu made from purple sweet potatoes. It has a gentle sweetness and a bright aroma.",
+   "howto_en": "On the rocks or mizuwari."
   },
   {
    "keys": [
@@ -1276,7 +1614,9 @@
     "茜霧島"
    ],
    "about": "霧島酒造の芋焼酎です。白霧島はやさしい口当たり、茜霧島はオレンジ色の芋を使った華やかな香りが特徴です。",
-   "howto": "ロックや水割りで。"
+   "howto": "ロックや水割りで。",
+   "about_en": "Imo shochu from Kirishima Shuzo. Shiro Kirishima is gentle on the palate, while Akane Kirishima, made from orange sweet potatoes, has a bright aroma.",
+   "howto_en": "On the rocks or mizuwari."
   },
   {
    "keys": [
@@ -1284,7 +1624,9 @@
     "中々 麦焼酎"
    ],
    "about": "宮崎の黒木本店の麦焼酎です。麦の香ばしさとやさしい甘みがあります。",
-   "howto": "お湯割りか水割りで。"
+   "howto": "お湯割りか水割りで。",
+   "about_en": "A mugi shochu from Kuroki Honten in Miyazaki. It has a toasty barley aroma and a gentle sweetness.",
+   "howto_en": "Oyuwari or mizuwari."
   },
   {
    "keys": [
@@ -1292,7 +1634,9 @@
     "百年の孤独 麦焼酎"
    ],
    "about": "宮崎の黒木本店の麦焼酎です。樽で熟成させた琥珀色の焼酎で、ウイスキーのような香りがあります。名前は小説の題名からとられています。",
-   "howto": "ロックかストレートで。"
+   "howto": "ロックかストレートで。",
+   "about_en": "A mugi shochu from Kuroki Honten in Miyazaki. Aged in barrels to an amber color, it has a whisky-like aroma. Its name comes from the title of a novel.",
+   "howto_en": "On the rocks or neat."
   },
   {
    "keys": [
@@ -1301,21 +1645,27 @@
     "いいちこ スペシャル"
    ],
    "about": "大分の三和酒類の麦焼酎です。「下町のナポレオン」のキャッチコピーで知られ、すっきりとした味わいです。",
-   "howto": "水割り、お湯割り、ソーダ割りで。"
+   "howto": "水割り、お湯割り、ソーダ割りで。",
+   "about_en": "A mugi shochu from Sanwa Shurui in Oita. Known for its catchphrase calling it the Napoleon of the downtown, it has a clean taste.",
+   "howto_en": "Mizuwari, oyuwari or with soda."
   },
   {
    "keys": [
     "二階堂"
    ],
    "about": "大分・日出の二階堂酒造の麦焼酎です。大分の麦焼酎を代表する銘柄のひとつで、香ばしくすっきりしています。",
-   "howto": "水割りかお湯割りで。"
+   "howto": "水割りかお湯割りで。",
+   "about_en": "A mugi shochu from Nikaido Shuzo in Hiji, Oita. One of Oita's signature barley shochu brands, it is toasty and clean.",
+   "howto_en": "Mizuwari or oyuwari."
   },
   {
    "keys": [
     "吉四六"
    ],
    "about": "大分の二階堂酒造の麦焼酎です。壺の形の容器でも知られています。",
-   "howto": "お湯割りで。"
+   "howto": "お湯割りで。",
+   "about_en": "A mugi shochu from Nikaido Shuzo in Oita. It is also known for its pot-shaped bottle.",
+   "howto_en": "Oyuwari, with hot water."
   },
   {
    "keys": [
@@ -1323,21 +1673,27 @@
     "兼八 麦焼酎"
    ],
    "about": "大分・宇佐の四ツ谷酒造の麦焼酎です。はだか麦を使い、麦チョコのような香ばしさがあります。",
-   "howto": "ロックかお湯割りで。"
+   "howto": "ロックかお湯割りで。",
+   "about_en": "A mugi shochu from Yotsuya Shuzo in Usa, Oita. Made from naked barley, it has a toasty note like chocolate-covered malt puffs.",
+   "howto_en": "On the rocks or oyuwari."
   },
   {
    "keys": [
     "神の河"
    ],
    "about": "鹿児島の薩摩酒造の麦焼酎です。樽で寝かせた、琥珀色でまろやかな味わいです。",
-   "howto": "ロックやソーダ割りで。"
+   "howto": "ロックやソーダ割りで。",
+   "about_en": "A mugi shochu from Satsuma Shuzo in Kagoshima. Rested in barrels, it is amber in color and mellow.",
+   "howto_en": "On the rocks or with soda."
   },
   {
    "keys": [
     "鍛高譚"
    ],
    "about": "北海道・白糠町の赤じそを使ったしそ焼酎です。すっきりした、しその爽やかな香りがあります。",
-   "howto": "水割りかソーダ割りで。"
+   "howto": "水割りかソーダ割りで。",
+   "about_en": "A shiso shochu made with red shiso from Shiranuka, Hokkaido. It is clean, with the fresh aroma of shiso.",
+   "howto_en": "Mizuwari or with soda."
   },
   {
    "keys": [
@@ -1345,7 +1701,9 @@
     "伊佐美 芋焼酎"
    ],
    "about": "鹿児島・伊佐の甲斐商店の芋焼酎です。昔ながらの、芋の甘みとコクがしっかりした味わいです。",
-   "howto": "お湯割りで。"
+   "howto": "お湯割りで。",
+   "about_en": "An imo shochu from Kai Shoten in Isa, Kagoshima. It has an old-fashioned taste with firm sweet potato sweetness and richness.",
+   "howto_en": "Oyuwari, with hot water."
   },
   {
    "keys": [
@@ -1353,7 +1711,9 @@
     "赤兎馬 紫"
    ],
    "about": "鹿児島の濵田酒造の芋焼酎です。三国志の名馬の名を持ち、甘くやわらかな味わいです。",
-   "howto": "ロックで。"
+   "howto": "ロックで。",
+   "about_en": "An imo shochu from Hamada Shuzo in Kagoshima. Named after a legendary horse from the Three Kingdoms, it is sweet and soft.",
+   "howto_en": "On the rocks."
   },
   {
    "keys": [
@@ -1361,14 +1721,18 @@
     "一刻者 赤"
    ],
    "about": "宝酒造の芋焼酎です。麹まで芋で造った「芋100%」の焼酎で、芋の香りがすっきりと感じられます。",
-   "howto": "ロックか水割りで。"
+   "howto": "ロックか水割りで。",
+   "about_en": "An imo shochu from Takara Shuzo. Made with sweet potato even for the koji, it is 100 percent sweet potato, and the aroma comes through cleanly.",
+   "howto_en": "On the rocks or mizuwari."
   },
   {
    "keys": [
     "さつま白波"
    ],
    "about": "鹿児島・枕崎の薩摩酒造の芋焼酎です。鹿児島で長く親しまれてきた定番の味わいです。",
-   "howto": "お湯割りで。"
+   "howto": "お湯割りで。",
+   "about_en": "An imo shochu from Satsuma Shuzo in Makurazaki, Kagoshima. A classic taste long loved in Kagoshima.",
+   "howto_en": "Oyuwari, with hot water."
   },
   {
    "keys": [
@@ -1376,21 +1740,27 @@
     "三岳 芋焼酎"
    ],
    "about": "屋久島の三岳酒造の芋焼酎です。屋久島の水で造る、やわらかな味わいです。",
-   "howto": "お湯割りかロックで。"
+   "howto": "お湯割りかロックで。",
+   "about_en": "An imo shochu from Mitake Shuzo on Yakushima. Made with Yakushima water, it is soft in flavor.",
+   "howto_en": "Oyuwari or on the rocks."
   },
   {
    "keys": [
     "天使の誘惑"
    ],
    "about": "西酒造の芋焼酎を、シェリー酒の樽で寝かせたものです。琥珀色で、甘く華やかな香りがあります。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "An imo shochu from Nishi Shuzo, rested in sherry casks. It is amber in color, with a sweet, bright aroma.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
     "甕雫"
    ],
    "about": "宮崎・日南の京屋酒造の芋焼酎です。甕の形をした容器に入っています。",
-   "howto": "お湯割りかロックで。"
+   "howto": "お湯割りかロックで。",
+   "about_en": "An imo shochu from Kyoya Shuzo in Nichinan, Miyazaki. It comes in a vessel shaped like a clay pot.",
+   "howto_en": "Oyuwari or on the rocks."
   },
   {
    "keys": [
@@ -1399,7 +1769,9 @@
     "白岳 米焼酎"
    ],
    "about": "熊本・人吉の高橋酒造の米焼酎（球磨焼酎）です。すっきりとしたやさしい味わいです。",
-   "howto": "水割りやロックで。"
+   "howto": "水割りやロックで。",
+   "about_en": "A kome shochu, or Kuma shochu, from Takahashi Shuzo in Hitoyoshi, Kumamoto. It is clean and gentle.",
+   "howto_en": "Mizuwari or on the rocks."
   },
   {
    "keys": [
@@ -1407,7 +1779,9 @@
     "鳥飼 米焼酎"
    ],
    "about": "熊本・人吉の鳥飼酒造の米焼酎です。吟醸酒のような華やかな香りで知られます。",
-   "howto": "ロックで、香りを楽しんで。"
+   "howto": "ロックで、香りを楽しんで。",
+   "about_en": "A kome shochu from Torikai Shuzo in Hitoyoshi, Kumamoto. It is known for a bright aroma like ginjo sake.",
+   "howto_en": "On the rocks, to enjoy the aroma."
   },
   {
    "keys": [
@@ -1415,14 +1789,18 @@
     "里の曙 黒糖焼酎"
    ],
    "about": "奄美の町田酒造の黒糖焼酎です。黒糖のほのかな甘い香りと、すっきりした後味です。",
-   "howto": "ロックか水割りで。"
+   "howto": "ロックか水割りで。",
+   "about_en": "A kokuto shochu from Machida Shuzo in Amami. It has a gently sweet brown sugar aroma and a clean finish.",
+   "howto_en": "On the rocks or mizuwari."
   },
   {
    "keys": [
     "れんと"
    ],
    "about": "奄美大島開運酒造の黒糖焼酎です。音楽を聞かせながら熟成させる造りで知られ、まろやかな味わいです。",
-   "howto": "ロックかソーダ割りで。"
+   "howto": "ロックかソーダ割りで。",
+   "about_en": "A kokuto shochu from Amami Oshima Kaiun Shuzo. Known for being aged while music is played to it, it is mellow in flavor.",
+   "howto_en": "On the rocks or with soda."
   },
   {
    "keys": [
@@ -1430,7 +1808,9 @@
     "残波 ブラック"
    ],
    "about": "沖縄・読谷の比嘉酒造の泡盛です。フルーティで飲みやすい味わいで、泡盛が初めての人にも人気です。",
-   "howto": "水割りやソーダ割りで。"
+   "howto": "水割りやソーダ割りで。",
+   "about_en": "An awamori from Higa Shuzo in Yomitan, Okinawa. Fruity and easy to drink, it is popular even with first-time awamori drinkers.",
+   "howto_en": "Mizuwari or with soda."
   },
   {
    "keys": [
@@ -1438,42 +1818,54 @@
     "久米島の久米仙"
    ],
    "about": "沖縄の泡盛です。すっきりとした飲みやすい味わいです。",
-   "howto": "水割りやロックで。"
+   "howto": "水割りやロックで。",
+   "about_en": "An awamori from Okinawa. It is clean and easy to drink.",
+   "howto_en": "Mizuwari or on the rocks."
   },
   {
    "keys": [
     "菊之露"
    ],
    "about": "沖縄・宮古島の菊之露酒造の泡盛です。宮古島で長く親しまれている銘柄です。",
-   "howto": "水割りで。"
+   "howto": "水割りで。",
+   "about_en": "An awamori from Kikunotsuyu Shuzo on Miyakojima, Okinawa. A brand long loved on Miyakojima.",
+   "howto_en": "Mizuwari."
   },
   {
    "keys": [
     "瑞泉"
    ],
    "about": "沖縄・首里の瑞泉酒造の泡盛です。古くから泡盛造りが盛んだった首里の伝統を受け継いでいます。",
-   "howto": "水割りかロックで。"
+   "howto": "水割りかロックで。",
+   "about_en": "An awamori from Zuisen Shuzo in Shuri, Okinawa. It carries on the tradition of Shuri, long a center of awamori making.",
+   "howto_en": "Mizuwari or on the rocks."
   },
   {
    "keys": [
     "どなん"
    ],
    "about": "与那国島の泡盛です。60度の「花酒」で知られる、とても強いお酒です。",
-   "howto": "少量ずつ、ストレートで。"
+   "howto": "少量ずつ、ストレートで。",
+   "about_en": "An awamori from Yonaguni Island. Known for its 60 percent hanazake, it is a very strong spirit.",
+   "howto_en": "Neat, a little at a time."
   },
   {
    "keys": [
     "紅乙女"
    ],
    "about": "福岡・久留米の紅乙女酒造のごま焼酎です。ごまの香ばしい香りが特徴です。",
-   "howto": "ロックかお湯割りで。"
+   "howto": "ロックかお湯割りで。",
+   "about_en": "A sesame shochu from Beniotome Shuzo in Kurume, Fukuoka. It is known for the toasty aroma of sesame.",
+   "howto_en": "On the rocks or oyuwari."
   },
   {
    "keys": [
     "キンミヤ焼酎"
    ],
    "about": "三重の宮崎本店の甲類焼酎です。東京の下町の酒場で、ホッピーや酎ハイの定番として親しまれています。",
-   "howto": "ホッピーや炭酸で割って。"
+   "howto": "ホッピーや炭酸で割って。",
+   "about_en": "A korui shochu, a neutral-style shochu, from Miyazaki Honten in Mie. In Tokyo's old downtown bars, it is a staple for Hoppy and chuhai.",
+   "howto_en": "Mix with Hoppy or soda."
   },
   {
    "keys": [
@@ -1481,21 +1873,27 @@
     "宝焼酎"
    ],
    "about": "大容量で手ごろな甲類焼酎です。くせが少なく、いろいろな割り方に使えます。",
-   "howto": "サワーや酎ハイのベースに。"
+   "howto": "サワーや酎ハイのベースに。",
+   "about_en": "An affordable korui shochu in large bottles. Neutral in character, it works in all kinds of mixed drinks.",
+   "howto_en": "As a base for sours and chuhai."
   },
   {
    "keys": [
     "アサヒ スーパードライ"
    ],
    "about": "1987年に発売され、「辛口」ブームを起こしたアサヒのビールです。すっきりとしたキレのある後味が特徴です。",
-   "howto": "よく冷やして、のどごしを楽しんで。"
+   "howto": "よく冷やして、のどごしを楽しんで。",
+   "about_en": "Asahi's beer, launched in 1987, which sparked Japan's dry beer boom. It is known for its clean, crisp finish.",
+   "howto_en": "Serve well chilled and enjoy how smoothly it goes down."
   },
   {
    "keys": [
     "アサヒ スーパードライ 生ジョッキ缶"
    ],
    "about": "缶のふたを全部開けると、お店のジョッキのように泡が立ち上がるスーパードライです。",
-   "howto": "開けたらすぐ、缶のまま飲むのがおすすめです。"
+   "howto": "開けたらすぐ、缶のまま飲むのがおすすめです。",
+   "about_en": "A Super Dry can that, when the whole lid comes off, foams up like a mug of draft beer at a bar.",
+   "howto_en": "Best enjoyed straight from the can, right after opening."
   },
   {
    "keys": [
@@ -1504,7 +1902,9 @@
     "キリン 一番搾り 糖質ゼロ"
    ],
    "about": "1990年に生まれたキリンのビールです。麦汁をろ過するとき最初に流れ出る「一番搾り麦汁」だけを使い、雑味のない麦のうまみが特徴です。",
-   "howto": "よく冷やしたグラスで。"
+   "howto": "よく冷やしたグラスで。",
+   "about_en": "Kirin's beer, born in 1990. Made only from the first-press wort that flows out first when the wort is filtered, it has a clean barley flavor.",
+   "howto_en": "In a well-chilled glass."
   },
   {
    "keys": [
@@ -1512,7 +1912,9 @@
     "サッポロ 生ビール黒ラベル エクストラブリュー"
    ],
    "about": "黒いラベルでおなじみのサッポロの生ビールです。麦のうまみとさわやかな後味のバランスがよく、泡のきめ細かさでも知られます。",
-   "howto": "泡を3割ほどにして注いで。"
+   "howto": "泡を3割ほどにして注いで。",
+   "about_en": "Sapporo's draft beer, familiar for its black label. It balances barley flavor with a refreshing finish and is known for its fine foam.",
+   "howto_en": "Pour so the foam is about 30 percent of the glass."
   },
   {
    "keys": [
@@ -1520,14 +1922,18 @@
     "サントリー ザ・プレミアム・モルツ マスターズドリーム"
    ],
    "about": "サントリーのプレミアムビールです。華やかな香りと深いコクがあります。マスターズドリームはさらに濃いうまみを目指した上位の一本です。",
-   "howto": "少しやわらかめに冷やして、香りを。"
+   "howto": "少しやわらかめに冷やして、香りを。",
+   "about_en": "Suntory's premium beer. It has a bright aroma and deep richness. Master's Dream is a higher-end version aiming for even deeper flavor.",
+   "howto_en": "Chill it lightly, to enjoy the aroma."
   },
   {
    "keys": [
     "ザ・プレミアム・モルツ 香るエール"
    ],
    "about": "エール酵母で造った、ザ・プレミアム・モルツのシリーズです。果物のような華やかな香りが特徴です。",
-   "howto": "グラスに注いで香りを楽しんで。"
+   "howto": "グラスに注いで香りを楽しんで。",
+   "about_en": "A beer in The Premium Malt's series brewed with ale yeast. It is known for a bright, fruity aroma.",
+   "howto_en": "Pour into a glass and enjoy the aroma."
   },
   {
    "keys": [
@@ -1536,7 +1942,9 @@
     "ヱビス ホップの香り"
    ],
    "about": "1890年に生まれた、麦芽100%のビールです。東京の「恵比寿」という地名は、このビールの工場と駅に由来します。コクのある濃いうまみが特徴です。",
-   "howto": "少し冷やしすぎないくらいで、じっくり。"
+   "howto": "少し冷やしすぎないくらいで、じっくり。",
+   "about_en": "An all-malt beer born in 1890. The Ebisu district of Tokyo takes its name from this beer's brewery and station. It is known for a full, deep flavor.",
+   "howto_en": "Not too cold, and take your time."
   },
   {
    "keys": [
@@ -1544,14 +1952,18 @@
     "キリン クラシックラガー"
    ],
    "about": "1888年に発売された、日本で長く飲まれているビールです。しっかりとした苦みとコクがあります。クラシックラガーは昔の味わいを再現したものです。",
-   "howto": "よく冷やして、食事と一緒に。"
+   "howto": "よく冷やして、食事と一緒に。",
+   "about_en": "A beer launched in 1888, long enjoyed in Japan. It has firm bitterness and richness. Classic Lager recreates the taste of the old days.",
+   "howto_en": "Serve well chilled, with a meal."
   },
   {
    "keys": [
     "サッポロ ラガービール"
    ],
    "about": "「赤星」の愛称で親しまれる、現存する日本で最も古いビールのブランドです。昔ながらの、しっかりとしたうまみと苦みがあります。",
-   "howto": "瓶ビールで、居酒屋の雰囲気と一緒に。"
+   "howto": "瓶ビールで、居酒屋の雰囲気と一緒に。",
+   "about_en": "Nicknamed Akaboshi, or red star, it is the oldest beer brand still in existence in Japan. It has old-fashioned, solid flavor and bitterness.",
+   "howto_en": "From the bottle, with the atmosphere of an izakaya."
   },
   {
    "keys": [
@@ -1559,21 +1971,27 @@
     "オリオン ドラフト"
    ],
    "about": "沖縄のオリオンビールの代表銘柄です。暑い気候に合う、軽やかでさわやかな味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "The flagship of Orion Beer in Okinawa. Light and refreshing, it suits the hot climate.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "よなよなエール"
    ],
    "about": "長野のヤッホーブルーイングのペールエールです。柑橘のような香りとほどよい苦みがあり、日本のクラフトビールの代表格です。",
-   "howto": "冷やしすぎず、グラスに注いで香りを。"
+   "howto": "冷やしすぎず、グラスに注いで香りを。",
+   "about_en": "A pale ale from Yo-Ho Brewing in Nagano. With citrus-like aromas and moderate bitterness, it is a leading Japanese craft beer.",
+   "howto_en": "Not too cold, poured into a glass for the aroma."
   },
   {
    "keys": [
     "水曜日のネコ"
    ],
    "about": "ヤッホーブルーイングのベルジャンホワイトです。オレンジの皮とコリアンダーの香りで、苦みが少なく軽やかな味わいです。",
-   "howto": "グラスに注いで、香りを楽しんで。"
+   "howto": "グラスに注いで、香りを楽しんで。",
+   "about_en": "A Belgian-style white beer from Yo-Ho Brewing. Scented with orange peel and coriander, it is light with little bitterness.",
+   "howto_en": "Pour into a glass and enjoy the aroma."
   },
   {
    "keys": [
@@ -1581,56 +1999,72 @@
     "ヤッホーブルーイング インドの青鬼"
    ],
    "about": "ヤッホーブルーイングのIPAです。たっぷりのホップによる強い苦みと香りが特徴です。",
-   "howto": "冷やしすぎず、ゆっくりと。"
+   "howto": "冷やしすぎず、ゆっくりと。",
+   "about_en": "An IPA from Yo-Ho Brewing. Plenty of hops give it strong bitterness and aroma.",
+   "howto_en": "Not too cold, and take it slowly."
   },
   {
    "keys": [
     "東京ブラック"
    ],
    "about": "ヤッホーブルーイングの黒ビール（ポーター）です。ローストした麦芽の香ばしさがありながら、軽やかに飲めます。",
-   "howto": "少し冷やしすぎないくらいで。"
+   "howto": "少し冷やしすぎないくらいで。",
+   "about_en": "A dark beer, a porter, from Yo-Ho Brewing. It has the toastiness of roasted malt yet drinks light.",
+   "howto_en": "Not too cold."
   },
   {
    "keys": [
     "キリン 本麒麟"
    ],
    "about": "キリンの新ジャンル（第3のビール）です。手ごろな価格ながら、コクのある味わいを目指して造られています。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Kirin new-genre beer, also called third beer. Though affordable, it is made to have a full flavor.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "キリン 淡麗 グリーンラベル"
    ],
    "about": "キリンの、糖質を抑えた発泡酒です。すっきりと軽い味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A low-carb happoshu from Kirin. It is clean and light.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "キリン のどごし 生"
    ],
    "about": "キリンの新ジャンル（第3のビール）です。名前のとおり、すっきりしたのどごしが特徴です。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Kirin new-genre beer, also called third beer. True to its name, it is known for how smoothly it goes down.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ハートランド"
    ],
    "about": "緑色の瓶でおなじみの、キリンの麦芽100%のビールです。くせが少なく、すっきりとした味わいです。",
-   "howto": "瓶のまま、またはグラスで。"
+   "howto": "瓶のまま、またはグラスで。",
+   "about_en": "Kirin's all-malt beer, known for its green bottle. It is easygoing and clean.",
+   "howto_en": "From the bottle or in a glass."
   },
   {
    "keys": [
     "サッポロ クラシック"
    ],
    "about": "北海道限定で売られているサッポロのビールです。麦芽100%で、さわやかな味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Sapporo beer sold only in Hokkaido. All malt, with a refreshing taste.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "サッポロ 麦とホップ"
    ],
    "about": "サッポロの新ジャンル（第3のビール）です。ビールに近い麦のうまみを目指しています。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Sapporo new-genre beer, also called third beer. It aims for a malty flavor close to that of beer.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -1638,7 +2072,9 @@
     "サントリー 金麦 糖質75%オフ"
    ],
    "about": "サントリーの新ジャンル（第3のビール）です。麦のうまみとやさしい味わいで、家飲みの定番です。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Suntory new-genre beer, also called third beer. With barley flavor and a gentle taste, it is a staple for drinking at home.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -1647,7 +2083,9 @@
     "コエド 紅赤"
    ],
    "about": "埼玉・川越のクラフトビールです。瑠璃はすっきりしたピルスナー、紅赤は地元のさつまいもを使ったビールです。",
-   "howto": "グラスに注いで。"
+   "howto": "グラスに注いで。",
+   "about_en": "A craft beer from Kawagoe, Saitama. Ruri is a clean pilsner, and Beniaka is made with local sweet potatoes.",
+   "howto_en": "Pour into a glass."
   },
   {
    "keys": [
@@ -1655,14 +2093,18 @@
     "常陸野ネスト ホワイトエール"
    ],
    "about": "茨城の木内酒造のクラフトビールです。ふくろうのラベルが目印で、海外でも人気があります。",
-   "howto": "グラスに注いで香りを。"
+   "howto": "グラスに注いで香りを。",
+   "about_en": "A craft beer from Kiuchi Brewery in Ibaraki. Look for the owl on the label; it is popular overseas too.",
+   "howto_en": "Pour into a glass for the aroma."
   },
   {
    "keys": [
     "銀河高原ビール"
    ],
    "about": "岩手で生まれたクラフトビールです。小麦を使ったヴァイツェンで知られ、バナナのような香りがあります。",
-   "howto": "グラスに注いで。"
+   "howto": "グラスに注いで。",
+   "about_en": "A craft beer born in Iwate. It is known for its wheat-based weizen, with a banana-like aroma.",
+   "howto_en": "Pour into a glass."
   },
   {
    "keys": [
@@ -1670,14 +2112,18 @@
     "箕面ビール スタウト"
    ],
    "about": "大阪・箕面のクラフトビールです。スタウトは国際的な品評会で評価された、濃厚な黒ビールです。",
-   "howto": "冷やしすぎず、ゆっくりと。"
+   "howto": "冷やしすぎず、ゆっくりと。",
+   "about_en": "A craft beer from Minoh, Osaka. Its stout is a rich dark beer that has won recognition at international competitions.",
+   "howto_en": "Not too cold, and take it slowly."
   },
   {
    "keys": [
     "スプリングバレー 豊潤496"
    ],
    "about": "キリンのクラフトビールです。ホップの華やかな香りと、しっかりしたコクがあります。",
-   "howto": "グラスに注いで。"
+   "howto": "グラスに注いで。",
+   "about_en": "A craft beer from Kirin. It has a bright hop aroma and solid body.",
+   "howto_en": "Pour into a glass."
   },
   {
    "keys": [
@@ -1685,14 +2131,18 @@
     "ハイネケン 0.0"
    ],
    "about": "緑のボトルと赤い星でおなじみの、オランダのビールです。すっきりとした味わいで、世界中で飲まれています。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Dutch beer, known for its green bottle and red star. Clean in taste, it is enjoyed all over the world.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "コロナ"
    ],
    "about": "メキシコのビールです。軽くすっきりした味わいで、瓶の口にライムを差して飲むスタイルで知られます。",
-   "howto": "瓶の口にライムを押し込んで。"
+   "howto": "瓶の口にライムを押し込んで。",
+   "about_en": "A Mexican beer. Light and clean, it is known for being served with a lime wedge in the neck of the bottle.",
+   "howto_en": "Push a wedge of lime into the neck of the bottle."
   },
   {
    "keys": [
@@ -1700,7 +2150,9 @@
     "ギネス エクストラスタウト"
    ],
    "about": "アイルランド・ダブリンの黒ビール（スタウト）です。焙煎した大麦の香ばしさと、クリーミーな泡が特徴です。",
-   "howto": "冷やしすぎず、泡が落ち着くのを待って。"
+   "howto": "冷やしすぎず、泡が落ち着くのを待って。",
+   "about_en": "A dark beer, a stout, from Dublin, Ireland. It is known for the toastiness of roasted barley and its creamy head.",
+   "howto_en": "Not too cold. Wait for the foam to settle."
   },
   {
    "keys": [
@@ -1708,49 +2160,63 @@
     "ヒューガルデン ロゼ"
    ],
    "about": "ベルギーの小麦を使った白ビールです。オレンジの皮とコリアンダーの香りで、やわらかく飲みやすい味わいです。",
-   "howto": "専用の厚いグラスで。"
+   "howto": "専用の厚いグラスで。",
+   "about_en": "A Belgian white beer made with wheat. Scented with orange peel and coriander, it is soft and easy to drink.",
+   "howto_en": "In its own thick-walled glass."
   },
   {
    "keys": [
     "バドワイザー"
    ],
    "about": "アメリカのビールです。ブナの木のチップを使って熟成させる造りで、軽やかでさわやかな味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "An American beer. Aged with beechwood chips, it is light and refreshing.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "カールスバーグ"
    ],
    "about": "デンマークのビールです。すっきりとしたピルスナーで、世界中で飲まれています。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Danish beer. A clean pilsner enjoyed all over the world.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ステラ・アルトワ"
    ],
    "about": "ベルギー・ルーヴェンのピルスナーです。すっきりした味わいで、脚つきの専用グラスでも知られます。",
-   "howto": "グラスに注いで。"
+   "howto": "グラスに注いで。",
+   "about_en": "A pilsner from Leuven, Belgium. Clean in taste, it is also known for its stemmed chalice.",
+   "howto_en": "Pour into a glass."
   },
   {
    "keys": [
     "ブルームーン"
    ],
    "about": "アメリカの白ビールです。オレンジの皮とコリアンダーの香りがあり、オレンジを添えて飲むのが定番です。",
-   "howto": "オレンジのスライスを添えて。"
+   "howto": "オレンジのスライスを添えて。",
+   "about_en": "An American white beer. Scented with orange peel and coriander, it is classically served with an orange slice.",
+   "howto_en": "With a slice of orange."
   },
   {
    "keys": [
     "ペローニ"
    ],
    "about": "イタリアのビールです。軽やかでさわやかな味わいで、イタリア料理によく合います。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "An Italian beer. Light and refreshing, it goes well with Italian food.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "サンミゲル"
    ],
    "about": "フィリピンのビールです。軽やかで飲みやすい味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A beer from the Philippines. Light and easy to drink.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -1758,7 +2224,9 @@
     "チャーン"
    ],
    "about": "タイのビールです。暑い気候に合う、軽くすっきりした味わいです。タイ料理と一緒に。",
-   "howto": "よく冷やして、氷を入れる飲み方もあります。"
+   "howto": "よく冷やして、氷を入れる飲み方もあります。",
+   "about_en": "Beers from Thailand. Light and clean, they suit the hot climate. Enjoy them with Thai food.",
+   "howto_en": "Serve well chilled. Some people even add ice."
   },
   {
    "keys": [
@@ -1766,14 +2234,18 @@
     "タイガー ビール"
    ],
    "about": "シンガポールのビールです。軽くすっきりとした味わいで、アジア料理によく合います。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A beer from Singapore. Light and clean, it goes well with Asian food.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "青島ビール"
    ],
    "about": "中国・青島のビールです。1903年に創業した、中国を代表するビールです。",
-   "howto": "中華料理と一緒に。"
+   "howto": "中華料理と一緒に。",
+   "about_en": "A beer from Qingdao, China. Founded in 1903, it is China's signature beer.",
+   "howto_en": "With Chinese food."
   },
   {
    "keys": [
@@ -1782,14 +2254,18 @@
     "ハノイ"
    ],
    "about": "ベトナムのビールです。軽くすっきりした味わいで、氷を入れて飲むこともあります。",
-   "howto": "よく冷やして、ベトナム料理と。"
+   "howto": "よく冷やして、ベトナム料理と。",
+   "about_en": "Beers from Vietnam. Light and clean, they are sometimes drunk with ice.",
+   "howto_en": "Serve well chilled, with Vietnamese food."
   },
   {
    "keys": [
     "ビアラオ"
    ],
    "about": "ラオスのビールです。お米も使った、軽やかでやさしい味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A beer from Laos. Made partly with rice, it is light and gentle.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -1798,14 +2274,18 @@
     "ハイト"
    ],
    "about": "韓国のビールです。軽くすっきりした味わいで、焼酎（ソジュ）と混ぜて飲む「ソメク」にも使われます。",
-   "howto": "よく冷やして、韓国料理と。"
+   "howto": "よく冷やして、韓国料理と。",
+   "about_en": "Beers from Korea. Light and clean, they are also used in somaek, a mix with soju.",
+   "howto_en": "Serve well chilled, with Korean food."
   },
   {
    "keys": [
     "シメイ"
    ],
    "about": "ベルギーの修道院で造られるトラピストビールです。色の違うラベルごとに、濃厚で複雑な味わいがあります。",
-   "howto": "冷やしすぎず、脚つきのグラスで。"
+   "howto": "冷やしすぎず、脚つきのグラスで。",
+   "about_en": "A Trappist beer brewed at a monastery in Belgium. Each colored label offers its own rich, complex flavor.",
+   "howto_en": "Not too cold, in a stemmed glass."
   },
   {
    "keys": [
@@ -1814,28 +2294,36 @@
     "ウエストマール"
    ],
    "about": "ベルギーの修道院で造られるトラピストビールです。濃厚で複雑な味わいがあり、熟成によって表情が変わります。",
-   "howto": "冷やしすぎず、ゆっくりと。"
+   "howto": "冷やしすぎず、ゆっくりと。",
+   "about_en": "Trappist beers brewed at monasteries in Belgium. They are rich and complex, and their character changes with age.",
+   "howto_en": "Not too cold, and take it slowly."
   },
   {
    "keys": [
     "デュベル"
    ],
    "about": "ベルギーの、アルコールが強めのゴールデンエールです。名前は「悪魔」を意味し、華やかな香りと飲みやすさが特徴です。",
-   "howto": "専用のチューリップ型グラスで。"
+   "howto": "専用のチューリップ型グラスで。",
+   "about_en": "A strong Belgian golden ale. Its name means devil, and it is known for a bright aroma and easy drinkability.",
+   "howto_en": "In its own tulip-shaped glass."
   },
   {
    "keys": [
     "レフ"
    ],
    "about": "ベルギーの修道院の伝統を受け継ぐ「アビイビール」です。コクのある、まろやかな味わいです。",
-   "howto": "冷やしすぎずに。"
+   "howto": "冷やしすぎずに。",
+   "about_en": "A Belgian abbey beer carrying on monastic brewing traditions. It is full-bodied and mellow.",
+   "howto_en": "Not too cold."
   },
   {
    "keys": [
     "ヴァイエンシュテファン"
    ],
    "about": "ドイツ・バイエルンの、世界最古といわれる醸造所のビールです。小麦のヴァイスビールが有名で、バナナのような香りがあります。",
-   "howto": "背の高いグラスに注いで。"
+   "howto": "背の高いグラスに注いで。",
+   "about_en": "A beer from what is said to be the world's oldest brewery, in Bavaria, Germany. Famous for its wheat-based weissbier, it has a banana-like aroma.",
+   "howto_en": "Pour into a tall glass."
   },
   {
    "keys": [
@@ -1844,63 +2332,81 @@
     "エルディンガー"
    ],
    "about": "ドイツ・ミュンヘン周辺のビールです。小麦を使ったヴァイスビールなど、バイエルンの伝統的なビールで知られます。",
-   "howto": "大きめのグラスで、ソーセージと一緒に。"
+   "howto": "大きめのグラスで、ソーセージと一緒に。",
+   "about_en": "Beers from around Munich, Germany. They are known for traditional Bavarian styles such as wheat-based weissbier.",
+   "howto_en": "In a large glass, with sausages."
   },
   {
    "keys": [
     "レーベンブロイ"
    ],
    "about": "ドイツ・ミュンヘンのビールです。ライオンのマークでおなじみで、すっきりした味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A beer from Munich, Germany. Known for its lion emblem, it is clean in taste.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "キルケニー"
    ],
    "about": "アイルランドの赤いエールです。クリーミーな泡と、まろやかな麦の甘みがあります。",
-   "howto": "冷やしすぎずに。"
+   "howto": "冷やしすぎずに。",
+   "about_en": "A red ale from Ireland. It has a creamy head and a mellow malt sweetness.",
+   "howto_en": "Not too cold."
   },
   {
    "keys": [
     "ブリュードッグ パンクIPA"
    ],
    "about": "スコットランドのクラフトビールです。トロピカルフルーツのような香りと、しっかりした苦みがあります。",
-   "howto": "グラスに注いで香りを。"
+   "howto": "グラスに注いで香りを。",
+   "about_en": "A craft beer from Scotland. It has a tropical-fruit aroma and firm bitterness.",
+   "howto_en": "Pour into a glass for the aroma."
   },
   {
    "keys": [
     "ピルスナー・ウルケル"
    ],
    "about": "チェコ・プルゼニのビールです。1842年に生まれた、世界中のピルスナーの元祖です。",
-   "howto": "泡を厚めにして注いで。"
+   "howto": "泡を厚めにして注いで。",
+   "about_en": "A beer from Plzen, Czech Republic. Born in 1842, it is the original pilsner that inspired pilsners worldwide.",
+   "howto_en": "Pour with a thick head of foam."
   },
   {
    "keys": [
     "リンデマンス"
    ],
    "about": "ベルギーの、自然の酵母で発酵させるランビックに果物を加えたビールです。フランボワーズは木いちごの甘酸っぱさが特徴です。",
-   "howto": "よく冷やして、デザート感覚で。"
+   "howto": "よく冷やして、デザート感覚で。",
+   "about_en": "A Belgian beer made by adding fruit to lambic, which is fermented with wild yeast. The Framboise is known for the sweet-tartness of raspberries.",
+   "howto_en": "Serve well chilled, like a dessert."
   },
   {
    "keys": [
     "シエラネバダ ペールエール"
    ],
    "about": "アメリカのクラフトビールの先駆けです。カスケードホップによる、柑橘のような香りが特徴です。",
-   "howto": "グラスに注いで。"
+   "howto": "グラスに注いで。",
+   "about_en": "A pioneer of American craft beer. It is known for the citrus-like aroma of Cascade hops.",
+   "howto_en": "Pour into a glass."
   },
   {
    "keys": [
     "ブルックリンラガー"
    ],
    "about": "アメリカ・ニューヨークのクラフトビールです。香ばしい麦芽の風味がある、飲みごたえのあるラガーです。",
-   "howto": "グラスに注いで。"
+   "howto": "グラスに注いで。",
+   "about_en": "A craft beer from New York, USA. A satisfying lager with toasty malt flavor.",
+   "howto_en": "Pour into a glass."
   },
   {
    "keys": [
     "サミエルアダムス"
    ],
    "about": "アメリカ・ボストンのクラフトビールです。香ばしくコクのあるラガーで知られます。",
-   "howto": "グラスに注いで。"
+   "howto": "グラスに注いで。",
+   "about_en": "A craft beer from Boston, USA. It is known for a toasty, full-bodied lager.",
+   "howto_en": "Pour into a glass."
   },
   {
    "keys": [
@@ -1908,21 +2414,27 @@
     "モデロ"
    ],
    "about": "メキシコのビールです。すっきりした味わいで、メキシコ料理によく合います。",
-   "howto": "ライムを添えて。"
+   "howto": "ライムを添えて。",
+   "about_en": "Beers from Mexico. Clean in taste, they go well with Mexican food.",
+   "howto_en": "With a wedge of lime."
   },
   {
    "keys": [
     "ビンタン"
    ],
    "about": "インドネシアのビールです。軽くすっきりした味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A beer from Indonesia. Light and clean.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "台湾ビール"
    ],
    "about": "台湾を代表するビールです。お米も使った、軽くすっきりした味わいです。",
-   "howto": "よく冷やして、台湾料理と。"
+   "howto": "よく冷やして、台湾料理と。",
+   "about_en": "Taiwan's signature beer. Made partly with rice, it is light and clean.",
+   "howto_en": "Serve well chilled, with Taiwanese food."
   },
   {
    "keys": [
@@ -1931,7 +2443,9 @@
     "キリン グリーンズフリー"
    ],
    "about": "アルコール0.00%のビールテイスト飲料です。お酒を控えたい日や、運転する日でも楽しめます。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "Beer-taste drinks with 0.00 percent alcohol. You can enjoy them on days you want to cut back, or when you're driving.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -1939,21 +2453,27 @@
     "シャブリ プルミエ・クリュ"
    ],
    "about": "フランス・ブルゴーニュの北にあるシャブリ地区の白ワインです。シャルドネから造られ、キリッとした酸味とミネラル感が特徴です。",
-   "howto": "よく冷やして、牡蠣などの魚介と一緒に。"
+   "howto": "よく冷やして、牡蠣などの魚介と一緒に。",
+   "about_en": "A white wine from the Chablis area in the north of Burgundy, France. Made from Chardonnay, it is known for crisp acidity and minerality.",
+   "howto_en": "Serve well chilled, with oysters and other seafood."
   },
   {
    "keys": [
     "ボージョレ・ヌーヴォー"
    ],
    "about": "フランス・ボージョレ地区で、その年に収穫したガメイというぶどうから造る新酒の赤ワインです。毎年11月の第3木曜日に解禁されます。",
-   "howto": "少し冷やして、フレッシュなうちに。"
+   "howto": "少し冷やして、フレッシュなうちに。",
+   "about_en": "A new-vintage red wine from France's Beaujolais area, made from that year's harvest of the Gamay grape. It is released each year on the third Thursday of November.",
+   "howto_en": "Slightly chilled, while it is still fresh."
   },
   {
    "keys": [
     "キャンティ"
    ],
    "about": "イタリア・トスカーナの赤ワインです。サンジョヴェーゼというぶどうを中心に造られ、さわやかな酸味があります。",
-   "howto": "トマトを使ったイタリア料理と一緒に。"
+   "howto": "トマトを使ったイタリア料理と一緒に。",
+   "about_en": "A red wine from Tuscany, Italy. Made mainly from the Sangiovese grape, it has fresh acidity.",
+   "howto_en": "With tomato-based Italian dishes."
   },
   {
    "keys": [
@@ -1962,7 +2482,9 @@
     "モエ・エ・シャンドン ロゼ"
    ],
    "about": "1743年創業の、世界で最もよく知られるシャンパーニュのメゾンのひとつです。華やかで、果物のような明るい味わいです。",
-   "howto": "よく冷やして、フルートグラスで。"
+   "howto": "よく冷やして、フルートグラスで。",
+   "about_en": "Founded in 1743, one of the best-known Champagne houses in the world. Bright and lively, with a fruity character.",
+   "howto_en": "Serve well chilled, in a flute."
   },
   {
    "keys": [
@@ -1970,21 +2492,27 @@
     "ヴーヴ・クリコ イエローラベル"
    ],
    "about": "黄色いラベルでおなじみのシャンパーニュです。夫を亡くしたクリコ夫人（ヴーヴは未亡人の意味）が蔵を大きく育てました。しっかりしたコクがあります。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Champagne known for its yellow label. Madame Clicquot, widowed young (veuve means widow), built the house into what it is. It has a solid richness.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ドン・ペリニヨン"
    ],
    "about": "モエ・エ・シャンドンが造る最高級のシャンパーニュです。良い年のぶどうだけで造られ、修道士ドン・ペリニヨンの名を持ちます。",
-   "howto": "冷やしすぎず、香りの変化を楽しんで。"
+   "howto": "冷やしすぎず、香りの変化を楽しんで。",
+   "about_en": "Moët & Chandon's prestige Champagne. Made only from grapes of good vintages, it bears the name of the monk Dom Pérignon.",
+   "howto_en": "Don't over-chill it, and enjoy how the aroma evolves."
   },
   {
    "keys": [
     "シャトーヌフ・デュ・パプ"
    ],
    "about": "フランス・南ローヌの赤ワインです。「教皇の新しい城」という意味で、複数のぶどうを合わせた力強い味わいです。",
-   "howto": "少し温度が高めのほうが香りが開きます。"
+   "howto": "少し温度が高めのほうが香りが開きます。",
+   "about_en": "A red wine from the southern Rhône, France. Its name means the pope's new castle, and blending several grapes gives it a powerful taste.",
+   "howto_en": "A slightly warmer temperature lets the aroma open up."
   },
   {
    "keys": [
@@ -1992,42 +2520,54 @@
     "プイィ・フュメ"
    ],
    "about": "フランス・ロワール地方の白ワインです。ソーヴィニヨン・ブランから造られ、ハーブや柑橘のような爽やかな香りがあります。",
-   "howto": "よく冷やして、魚料理やヤギのチーズと。"
+   "howto": "よく冷やして、魚料理やヤギのチーズと。",
+   "about_en": "White wines from France's Loire Valley. Made from Sauvignon Blanc, they have fresh herbal and citrus aromas.",
+   "howto_en": "Serve well chilled, with fish or goat cheese."
   },
   {
    "keys": [
     "バローロ"
    ],
    "about": "イタリア・ピエモンテの赤ワインです。ネッビオーロというぶどうから造られ、「ワインの王」と呼ばれる力強さと長い熟成力があります。",
-   "howto": "大きなグラスで、時間をかけて。"
+   "howto": "大きなグラスで、時間をかけて。",
+   "about_en": "A red wine from Piedmont, Italy. Made from the Nebbiolo grape, it is called the king of wines for its power and long aging potential.",
+   "howto_en": "In a large glass, taking your time."
   },
   {
    "keys": [
     "バルバレスコ"
    ],
    "about": "イタリア・ピエモンテの赤ワインです。バローロと同じネッビオーロから造られ、「ワインの女王」と呼ばれる優雅さがあります。",
-   "howto": "大きなグラスで。"
+   "howto": "大きなグラスで。",
+   "about_en": "A red wine from Piedmont, Italy. Made from Nebbiolo like Barolo, it has an elegance that has earned it the name queen of wines.",
+   "howto_en": "In a large glass."
   },
   {
    "keys": [
     "ブルネッロ・ディ・モンタルチーノ"
    ],
    "about": "イタリア・トスカーナのモンタルチーノ村の赤ワインです。サンジョヴェーゼだけで造られ、長い熟成による深い味わいがあります。",
-   "howto": "肉料理と一緒に。"
+   "howto": "肉料理と一緒に。",
+   "about_en": "A red wine from the village of Montalcino in Tuscany, Italy. Made only from Sangiovese, it has the depth of long aging.",
+   "howto_en": "With meat dishes."
   },
   {
    "keys": [
     "アマローネ"
    ],
    "about": "イタリア・ヴェネトの赤ワインです。ぶどうを陰干しして糖分を凝縮させてから造る、濃厚で力強い味わいです。",
-   "howto": "少しずつ、チーズと一緒に。"
+   "howto": "少しずつ、チーズと一緒に。",
+   "about_en": "A red wine from Veneto, Italy. Made from grapes dried to concentrate their sugars, it is rich and powerful.",
+   "howto_en": "A little at a time, with cheese."
   },
   {
    "keys": [
     "ランブルスコ"
    ],
    "about": "イタリア・エミリア＝ロマーニャの微発泡の赤ワインです。軽やかで、ほんのり甘いものから辛口まであります。",
-   "howto": "よく冷やして、生ハムやピザと。"
+   "howto": "よく冷やして、生ハムやピザと。",
+   "about_en": "A lightly sparkling red wine from Emilia-Romagna, Italy. It is light, ranging from gently sweet to dry.",
+   "howto_en": "Serve well chilled, with cured ham or pizza."
   },
   {
    "keys": [
@@ -2035,7 +2575,9 @@
     "マルティーニ アスティ"
    ],
    "about": "イタリア・ピエモンテの甘い発泡ワインです。マスカットの華やかな香りがあり、アルコールが低めです。",
-   "howto": "よく冷やして、デザートと一緒に。"
+   "howto": "よく冷やして、デザートと一緒に。",
+   "about_en": "A sweet sparkling wine from Piedmont, Italy. It has a bright Muscat aroma and is lower in alcohol.",
+   "howto_en": "Serve well chilled, with dessert."
   },
   {
    "keys": [
@@ -2043,14 +2585,18 @@
     "リオハ・レセルバ"
    ],
    "about": "スペイン・リオハ地方の赤ワインです。テンプラニーリョというぶどうを中心に、樽で熟成させたまろやかな味わいです。",
-   "howto": "肉料理と一緒に。"
+   "howto": "肉料理と一緒に。",
+   "about_en": "Red wines from Spain's Rioja region. Made mainly from the Tempranillo grape and aged in barrels, they are mellow.",
+   "howto_en": "With meat dishes."
   },
   {
    "keys": [
     "フランチャコルタ"
    ],
    "about": "イタリア・ロンバルディアの発泡ワインです。シャンパーニュと同じく瓶の中で二度目の発酵をさせる造りです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A sparkling wine from Lombardy, Italy. Like Champagne, it undergoes a second fermentation in the bottle.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -2059,14 +2605,18 @@
     "シャトー・ムートン・ロートシルト"
    ],
    "about": "フランス・ボルドーの「5大シャトー」に数えられる最高級の赤ワインです。長い熟成に耐える、気品のある味わいです。",
-   "howto": "十分に熟成させてから、特別な日に。"
+   "howto": "十分に熟成させてから、特別な日に。",
+   "about_en": "Top red wines counted among Bordeaux's five First Growths in France. They are noble wines built to age for a long time.",
+   "howto_en": "Let them age fully, then open on a special day."
   },
   {
    "keys": [
     "オーパス・ワン"
    ],
    "about": "アメリカ・カリフォルニアのナパ・ヴァレーの最高級の赤ワインです。ロバート・モンダヴィとボルドーのムートンのロートシルト男爵が共同で生み出しました。",
-   "howto": "特別な日に、肉料理と。"
+   "howto": "特別な日に、肉料理と。",
+   "about_en": "A top red wine from Napa Valley, California, USA. It was created jointly by Robert Mondavi and Baron Philippe de Rothschild of Mouton in Bordeaux.",
+   "howto_en": "On a special day, with meat dishes."
   },
   {
    "keys": [
@@ -2074,7 +2624,9 @@
     "カッシェロ・デル・ディアブロ カベルネ・ソーヴィニヨン"
    ],
    "about": "チリのワインです。「悪魔の蔵」という名前で、蔵のワインを守るために悪魔が出るという噂を流した言い伝えがあります。手ごろで果実味豊かです。",
-   "howto": "気軽に、肉料理と一緒に。"
+   "howto": "気軽に、肉料理と一緒に。",
+   "about_en": "A wine from Chile. Its name means the devil's cellar, from the legend that a rumor of the devil was spread to protect the cellar's wine. Affordable and full of fruit.",
+   "howto_en": "Casually, with meat dishes."
   },
   {
    "keys": [
@@ -2082,7 +2634,9 @@
     "コノスル ビシクレタ"
    ],
    "about": "チリのワインです。自転車のラベルでおなじみで、手ごろな価格で果実味の豊かな味わいです。",
-   "howto": "気軽に、普段の食事と。"
+   "howto": "気軽に、普段の食事と。",
+   "about_en": "A wine from Chile. Known for its bicycle label, it is affordable and full of fruit.",
+   "howto_en": "Casually, with everyday meals."
   },
   {
    "keys": [
@@ -2090,84 +2644,108 @@
     "モンテス クラシック"
    ],
    "about": "チリのモンテスのワインです。天使のラベルが目印で、しっかりした果実味があります。",
-   "howto": "肉料理と一緒に。"
+   "howto": "肉料理と一緒に。",
+   "about_en": "Wines from Montes in Chile. Look for the angel on the label; they have solid fruit.",
+   "howto_en": "With meat dishes."
   },
   {
    "keys": [
     "イエローテイル"
    ],
    "about": "オーストラリアのワインです。ワラビーのラベルでおなじみで、果実味豊かで飲みやすい味わいです。",
-   "howto": "気軽に。"
+   "howto": "気軽に。",
+   "about_en": "A wine from Australia. Known for its wallaby label, it is fruity and easy to drink.",
+   "howto_en": "Casually."
   },
   {
    "keys": [
     "サンタ・ヘレナ アルパカ"
    ],
    "about": "チリのワインです。アルパカのラベルで知られ、手ごろな価格でスーパーやコンビニでもよく見かけます。",
-   "howto": "気軽に、普段の食事と。"
+   "howto": "気軽に、普段の食事と。",
+   "about_en": "A wine from Chile. Known for its alpaca label, it is affordable and often seen in supermarkets and convenience stores.",
+   "howto_en": "Casually, with everyday meals."
   },
   {
    "keys": [
     "フレシネ"
    ],
    "about": "スペインの発泡ワイン、カヴァです。黒いボトルの「コルドン・ネグロ」が有名で、手ごろな価格で楽しめます。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Spanish sparkling wine, a Cava. Its black-bottled Cordon Negro is famous, and it is an affordable pleasure.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "クリスタル"
    ],
    "about": "ルイ・ロデレールが造る最高級のシャンパーニュです。もとはロシア皇帝のために造られたといわれています。",
-   "howto": "特別な日に、よく冷やして。"
+   "howto": "特別な日に、よく冷やして。",
+   "about_en": "Louis Roederer's prestige Champagne. It is said to have originally been made for the Russian tsar.",
+   "howto_en": "On a special day, well chilled."
   },
   {
    "keys": [
     "ボランジェ"
    ],
    "about": "力強くコクのあるシャンパーニュです。映画「007」シリーズに登場することでも知られます。",
-   "howto": "冷やしすぎず、食事と一緒に。"
+   "howto": "冷やしすぎず、食事と一緒に。",
+   "about_en": "A powerful, full-bodied Champagne. It is also known for appearing in the James Bond films.",
+   "howto_en": "Not too cold, with a meal."
   },
   {
    "keys": [
     "ルイナール"
    ],
    "about": "1729年創業の、最も古いシャンパーニュのメゾンです。シャルドネを生かした、さわやかで上品な味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "Founded in 1729, the oldest Champagne house. It makes the most of Chardonnay for a fresh, elegant taste.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "クリュッグ"
    ],
    "about": "長い熟成を重ねた、濃厚で複雑な味わいの最高級シャンパーニュです。",
-   "howto": "冷やしすぎず、大きめのグラスで。"
+   "howto": "冷やしすぎず、大きめのグラスで。",
+   "about_en": "A prestige Champagne with long aging behind it, rich and complex.",
+   "howto_en": "Not too cold, in a larger glass."
   },
   {
    "keys": [
     "サロン"
    ],
    "about": "シャルドネだけを使い、良い年にしか造られない希少なシャンパーニュです。",
-   "howto": "特別な日に。"
+   "howto": "特別な日に。",
+   "about_en": "A rare Champagne made only from Chardonnay and only in good years.",
+   "howto_en": "For a special day."
   },
   {
    "keys": [
     "ペリエ・ジュエ"
    ],
    "about": "アネモネの花が描かれたボトルで知られるシャンパーニュです。花のように華やかで繊細な味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Champagne known for its bottle painted with anemone flowers. It is floral, bright and delicate.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ポル・ロジェ"
    ],
    "about": "イギリスのチャーチル首相が愛したことで知られるシャンパーニュです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Champagne known as a favorite of British Prime Minister Winston Churchill.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "アルマン・ド・ブリニャック"
    ],
    "about": "スペードのエースが描かれた金色のボトルで知られる、華やかなシャンパーニュです。",
-   "howto": "お祝いの席で。"
+   "howto": "お祝いの席で。",
+   "about_en": "A lavish Champagne known for its gold bottle bearing the ace of spades.",
+   "howto_en": "For celebrations."
   },
   {
    "keys": [
@@ -2175,70 +2753,90 @@
     "シャトー・メルシャン 甲州きいろ香"
    ],
    "about": "メルシャンの日本ワインのブランドです。甲州きいろ香は、日本のぶどう・甲州から柑橘のような爽やかな香りを引き出した白ワインです。",
-   "howto": "よく冷やして、和食と一緒に。"
+   "howto": "よく冷やして、和食と一緒に。",
+   "about_en": "Mercian's Japanese wine brand. Koshu Kiiroka is a white wine that draws a fresh, citrus-like aroma from Japan's Koshu grape.",
+   "howto_en": "Serve well chilled, with Japanese food."
   },
   {
    "keys": [
     "グレイスワイン"
    ],
    "about": "山梨・勝沼の中央葡萄酒のワインです。日本のぶどう・甲州の白ワインで、海外でも高く評価されています。",
-   "howto": "冷やして、和食と一緒に。"
+   "howto": "冷やして、和食と一緒に。",
+   "about_en": "Wines from Chuo Budoshu in Katsunuma, Yamanashi. Its white wines from Japan's Koshu grape are highly regarded overseas.",
+   "howto_en": "Chilled, with Japanese food."
   },
   {
    "keys": [
     "登美の丘"
    ],
    "about": "サントリーの山梨の登美の丘ワイナリーのワインです。自社の畑で育てたぶどうから造られています。",
-   "howto": "食事と一緒に。"
+   "howto": "食事と一緒に。",
+   "about_en": "Wines from Suntory's Tomi no Oka Winery in Yamanashi. They are made from grapes grown in the winery's own vineyards.",
+   "howto_en": "With a meal."
   },
   {
    "keys": [
     "サントリー 酸化防止剤無添加のおいしいワイン"
    ],
    "about": "酸化防止剤を加えずに造った、手ごろな価格のワインです。フルーティで飲みやすい味わいです。",
-   "howto": "冷やして、気軽に。"
+   "howto": "冷やして、気軽に。",
+   "about_en": "An affordable wine made without added antioxidants. It is fruity and easy to drink.",
+   "howto_en": "Chilled, casually."
   },
   {
    "keys": [
     "ペンフォールズ"
    ],
    "about": "オーストラリアを代表するワイナリーです。最高級の「グランジ」で知られます。",
-   "howto": "肉料理と一緒に。"
+   "howto": "肉料理と一緒に。",
+   "about_en": "One of Australia's leading wineries. It is known for its top wine, Grange.",
+   "howto_en": "With meat dishes."
   },
   {
    "keys": [
     "クラウディ・ベイ"
    ],
    "about": "ニュージーランド・マールボロのワイナリーです。爽やかなソーヴィニヨン・ブランで世界に知られています。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A winery in Marlborough, New Zealand. It is known worldwide for its fresh Sauvignon Blanc.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ジュヴレ・シャンベルタン"
    ],
    "about": "フランス・ブルゴーニュの村の赤ワインです。ピノ・ノワールから造られ、力強さで知られます。ナポレオンが愛したともいわれます。",
-   "howto": "少し冷やしめで、大きなグラスで。"
+   "howto": "少し冷やしめで、大きなグラスで。",
+   "about_en": "A village red wine from Burgundy, France. Made from Pinot Noir, it is known for its power. Napoleon is said to have loved it.",
+   "howto_en": "Slightly cool, in a large glass."
   },
   {
    "keys": [
     "ヴォーヌ・ロマネ"
    ],
    "about": "フランス・ブルゴーニュの村の赤ワインです。ロマネ・コンティの畑がある村として知られ、華やかで繊細な味わいです。",
-   "howto": "大きなグラスで、香りを。"
+   "howto": "大きなグラスで、香りを。",
+   "about_en": "A village red wine from Burgundy, France. Known as the village where the Romanée-Conti vineyard lies, it is bright and delicate.",
+   "howto_en": "In a large glass, for the aroma."
   },
   {
    "keys": [
     "ムルソー"
    ],
    "about": "フランス・ブルゴーニュの村の白ワインです。シャルドネから造られ、ナッツやバターのようなまろやかさがあります。",
-   "howto": "冷やしすぎずに。"
+   "howto": "冷やしすぎずに。",
+   "about_en": "A village white wine from Burgundy, France. Made from Chardonnay, it has a nutty, buttery roundness.",
+   "howto_en": "Not too cold."
   },
   {
    "keys": [
     "ソアーヴェ"
    ],
    "about": "イタリア・ヴェネトの白ワインです。軽やかでさわやかな味わいです。",
-   "howto": "よく冷やして、魚介と。"
+   "howto": "よく冷やして、魚介と。",
+   "about_en": "A white wine from Veneto, Italy. Light and refreshing.",
+   "howto_en": "Serve well chilled, with seafood."
   },
   {
    "keys": [
@@ -2246,35 +2844,45 @@
     "ティニャネロ"
    ],
    "about": "イタリア・トスカーナの「スーパータスカン」と呼ばれる赤ワインです。伝統の決まりにとらわれず、カベルネ・ソーヴィニヨンなども使って造られました。",
-   "howto": "特別な日に、肉料理と。"
+   "howto": "特別な日に、肉料理と。",
+   "about_en": "Red wines from Tuscany, Italy, known as Super Tuscans. Free from traditional rules, they were made using grapes such as Cabernet Sauvignon.",
+   "howto_en": "On a special day, with meat dishes."
   },
   {
    "keys": [
     "ヴィーニョ・ヴェルデ"
    ],
    "about": "ポルトガル北部のワインです。「緑のワイン」という意味で、若いうちに飲む、軽くほんのり発泡する白が多いです。",
-   "howto": "よく冷やして、魚介と。"
+   "howto": "よく冷やして、魚介と。",
+   "about_en": "A wine from northern Portugal. Its name means green wine, and most are light, slightly fizzy whites meant to be drunk young.",
+   "howto_en": "Serve well chilled, with seafood."
   },
   {
    "keys": [
     "トカイ"
    ],
    "about": "ハンガリーの貴腐ワインです。「王のワイン、ワインの王」と呼ばれた、濃厚な甘さがあります。",
-   "howto": "食後に、少しずつ。"
+   "howto": "食後に、少しずつ。",
+   "about_en": "A noble rot wine from Hungary. Once called the wine of kings and the king of wines, it has a rich sweetness.",
+   "howto_en": "After dinner, a little at a time."
   },
   {
    "keys": [
     "ベリンジャー"
    ],
    "about": "アメリカ・カリフォルニアのナパ・ヴァレーの歴史あるワイナリーです。",
-   "howto": "食事と一緒に。"
+   "howto": "食事と一緒に。",
+   "about_en": "A historic winery in Napa Valley, California, USA.",
+   "howto_en": "With a meal."
   },
   {
    "keys": [
     "ジョルジュ・デュブッフ"
    ],
    "about": "「ボージョレの帝王」と呼ばれた生産者のワインです。ボージョレ・ヌーヴォーでよく知られています。",
-   "howto": "少し冷やして。"
+   "howto": "少し冷やして。",
+   "about_en": "Wines from the producer once called the king of Beaujolais. It is well known for Beaujolais Nouveau.",
+   "howto_en": "Slightly chilled."
   },
   {
    "keys": [
@@ -2282,7 +2890,9 @@
     "ボンベイ・サファイア プレミアクリュ"
    ],
    "about": "青いボトルでおなじみのイギリスのジンです。ボタニカル（香りの素材）を蒸気で香りづけする造りで、軽やかで華やかです。",
-   "howto": "ジントニックで。"
+   "howto": "ジントニックで。",
+   "about_en": "A British gin known for its blue bottle. Its botanicals, the aromatic ingredients, are infused by vapor, making it light and bright.",
+   "howto_en": "In a gin and tonic."
   },
   {
    "keys": [
@@ -2290,14 +2900,18 @@
     "タンカレー No.10"
    ],
    "about": "緑のボトルのイギリスのジンです。ジュニパーベリーの香りがしっかりした、キレのある味わいです。No.10は生の柑橘を使った上位品です。",
-   "howto": "ジントニックやマティーニで。"
+   "howto": "ジントニックやマティーニで。",
+   "about_en": "A British gin in a green bottle. It has a firm juniper aroma and a crisp taste. No. TEN is a premium version made with fresh citrus.",
+   "howto_en": "In a gin and tonic or a martini."
   },
   {
    "keys": [
     "ビーフィーター"
    ],
    "about": "ロンドンの衛兵がラベルに描かれた、ロンドンで造られるジンです。柑橘とジュニパーのバランスがよい、定番の味わいです。",
-   "howto": "ジントニックで。"
+   "howto": "ジントニックで。",
+   "about_en": "A gin made in London, with a Tower of London guard on the label. A classic with a good balance of citrus and juniper.",
+   "howto_en": "In a gin and tonic."
   },
   {
    "keys": [
@@ -2305,21 +2919,27 @@
     "ゴードン ロンドンドライジン"
    ],
    "about": "1769年に生まれたイギリスのジンです。世界でよく飲まれているジンのひとつで、すっきりした味わいです。",
-   "howto": "ジントニックで。"
+   "howto": "ジントニックで。",
+   "about_en": "A British gin born in 1769. One of the most widely drunk gins in the world, it is clean and crisp.",
+   "howto_en": "In a gin and tonic."
   },
   {
    "keys": [
     "ヘンドリックス"
    ],
    "about": "スコットランドのジンです。きゅうりとバラの花びらの香りが特徴です。",
-   "howto": "ジントニックに、きゅうりのスライスを添えて。"
+   "howto": "ジントニックに、きゅうりのスライスを添えて。",
+   "about_en": "A gin from Scotland. It is known for its aromas of cucumber and rose petals.",
+   "howto_en": "In a gin and tonic, with a slice of cucumber."
   },
   {
    "keys": [
     "モンキー47"
    ],
    "about": "ドイツ・黒い森のジンです。47種類のボタニカルを使い、度数も47度。複雑で華やかな香りです。",
-   "howto": "ジントニックで、香りを楽しんで。"
+   "howto": "ジントニックで、香りを楽しんで。",
+   "about_en": "A gin from Germany's Black Forest. Made with 47 botanicals and bottled at 47 percent, it has a complex, bright aroma.",
+   "howto_en": "In a gin and tonic, to enjoy the aroma."
   },
   {
    "keys": [
@@ -2327,7 +2947,9 @@
     "季の美 勢"
    ],
    "about": "京都蒸溜所のジンです。玉露、柚子、山椒など京都らしい素材を使った、和の香りのジンです。",
-   "howto": "ソーダ割りや、ジントニックで。"
+   "howto": "ソーダ割りや、ジントニックで。",
+   "about_en": "A gin from the Kyoto Distillery. Using Kyoto-style ingredients such as gyokuro tea, yuzu and sansho pepper, it has a Japanese aroma.",
+   "howto_en": "With soda or in a gin and tonic."
   },
   {
    "keys": [
@@ -2335,7 +2957,9 @@
     "ROKU GIN"
    ],
    "about": "サントリーのジャパニーズジンです。桜花、桜葉、煎茶、玉露、山椒、柚子という6つの和の素材を使っています。",
-   "howto": "ジントニックに、生姜を添えて。"
+   "howto": "ジントニックに、生姜を添えて。",
+   "about_en": "Suntory's Japanese gin. It uses six Japanese botanicals: sakura flower, sakura leaf, sencha, gyokuro, sansho pepper and yuzu.",
+   "howto_en": "In a gin and tonic, with a slice of ginger."
   },
   {
    "keys": [
@@ -2343,21 +2967,27 @@
     "サントリー 翠ジンソーダ缶"
    ],
    "about": "サントリーのジンです。柚子、緑茶、生姜の和の素材を使い、食事に合わせやすいすっきりした味わいです。",
-   "howto": "ソーダで割って。"
+   "howto": "ソーダで割って。",
+   "about_en": "A gin from Suntory. Made with Japanese ingredients, yuzu, green tea and ginger, it is clean and easy to pair with food.",
+   "howto_en": "Top with soda."
   },
   {
    "keys": [
     "ニッカ カフェジン"
    ],
    "about": "ニッカのカフェスチルで造るジンです。山椒や柚子などの和の柑橘を使った、やわらかな香りです。",
-   "howto": "ソーダ割りで。"
+   "howto": "ソーダ割りで。",
+   "about_en": "A gin made in Nikka's Coffey still. Using Japanese citrus such as yuzu along with sansho pepper, it has a soft aroma.",
+   "howto_en": "With soda."
   },
   {
    "keys": [
     "ザ・ボタニスト"
    ],
    "about": "スコットランド・アイラ島のブルックラディ蒸溜所のジンです。島で摘んだ植物を含む22種類のボタニカルを使っています。",
-   "howto": "ジントニックで。"
+   "howto": "ジントニックで。",
+   "about_en": "A gin from the Bruichladdich distillery on Islay, Scotland. It uses 22 botanicals, including plants foraged on the island.",
+   "howto_en": "In a gin and tonic."
   },
   {
    "keys": [
@@ -2365,21 +2995,27 @@
     "シップスミス ロンドンドライジン"
    ],
    "about": "ロンドンのジンです。ロンドンで久しぶりに銅製の蒸溜器を使って造られた、伝統的な味わいのジンです。",
-   "howto": "ジントニックやマティーニで。"
+   "howto": "ジントニックやマティーニで。",
+   "about_en": "A gin from London. Made in the first copper still used in London in a long time, it has a traditional taste.",
+   "howto_en": "In a gin and tonic or a martini."
   },
   {
    "keys": [
     "プリマス"
    ],
    "about": "イギリス南西部の港町プリマスで造られるジンです。やわらかでまろやかな味わいです。",
-   "howto": "マティーニやジントニックで。"
+   "howto": "マティーニやジントニックで。",
+   "about_en": "A gin made in the port town of Plymouth in southwest England. It is soft and mellow.",
+   "howto_en": "In a martini or a gin and tonic."
   },
   {
    "keys": [
     "ジンマーレ"
    ],
    "about": "スペインのジンです。オリーブやローズマリーなど、地中海の素材を使っています。",
-   "howto": "ジントニックに、ローズマリーを添えて。"
+   "howto": "ジントニックに、ローズマリーを添えて。",
+   "about_en": "A gin from Spain. It uses Mediterranean ingredients such as olive and rosemary.",
+   "howto_en": "In a gin and tonic, with a sprig of rosemary."
   },
   {
    "keys": [
@@ -2387,7 +3023,9 @@
     "桜尾ジン オリジナル"
    ],
    "about": "広島・廿日市の桜尾蒸留所のジンです。広島の柑橘などのボタニカルを使っています。",
-   "howto": "ソーダ割りで。"
+   "howto": "ソーダ割りで。",
+   "about_en": "A gin from the Sakurao Distillery in Hatsukaichi, Hiroshima. It uses botanicals such as Hiroshima citrus.",
+   "howto_en": "With soda."
   },
   {
    "keys": [
@@ -2396,21 +3034,27 @@
     "バカルディ ブラック"
    ],
    "about": "コウモリのマークでおなじみのラムです。1862年にキューバで生まれ、軽やかでカクテルによく使われます。",
-   "howto": "モヒートやラムコークで。"
+   "howto": "モヒートやラムコークで。",
+   "about_en": "A rum known for its bat emblem. Born in Cuba in 1862, it is light and often used in cocktails.",
+   "howto_en": "In a mojito or a rum and cola."
   },
   {
    "keys": [
     "キャプテン・モルガン"
    ],
    "about": "スパイスを効かせたスパイスドラムです。バニラのような甘い香りがあります。",
-   "howto": "コーラで割って。"
+   "howto": "コーラで割って。",
+   "about_en": "A spiced rum. It has a sweet, vanilla-like aroma.",
+   "howto_en": "Mixed with cola."
   },
   {
    "keys": [
     "マイヤーズ"
    ],
    "about": "ジャマイカのダークラムです。濃い色と、黒糖のような深い甘い香りがあります。",
-   "howto": "コーラ割りや、お菓子づくりにも。"
+   "howto": "コーラ割りや、お菓子づくりにも。",
+   "about_en": "A dark rum from Jamaica. It has a deep color and a rich, sweet aroma like brown sugar.",
+   "howto_en": "With cola, or even in baking."
   },
   {
    "keys": [
@@ -2418,7 +3062,9 @@
     "ロン・サカパ 23"
    ],
    "about": "グアテマラのラムです。標高の高い場所で、ソレラシステムという方法で熟成させた、濃厚で甘い味わいです。",
-   "howto": "ストレートかロックで、ゆっくりと。"
+   "howto": "ストレートかロックで、ゆっくりと。",
+   "about_en": "A rum from Guatemala. Aged at high altitude using the solera system, it is rich and sweet.",
+   "howto_en": "Neat or on the rocks, slowly."
   },
   {
    "keys": [
@@ -2426,7 +3072,9 @@
     "ハバナクラブ 7年"
    ],
    "about": "キューバのラムです。軽やかなものはモヒートやダイキリに、熟成したものはストレートで楽しめます。",
-   "howto": "モヒートで。"
+   "howto": "モヒートで。",
+   "about_en": "A rum from Cuba. The lighter ones suit mojitos and daiquiris; the aged ones are lovely neat.",
+   "howto_en": "In a mojito."
   },
   {
    "keys": [
@@ -2434,28 +3082,36 @@
     "ディプロマティコ レゼルバ エクスクルーシバ"
    ],
    "about": "ベネズエラのラムです。キャラメルやドライフルーツのような、濃く甘い味わいです。",
-   "howto": "ストレートかロックで。"
+   "howto": "ストレートかロックで。",
+   "about_en": "A rum from Venezuela. It is rich and sweet, like caramel and dried fruit.",
+   "howto_en": "Neat or on the rocks."
   },
   {
    "keys": [
     "ゴスリング"
    ],
    "about": "イギリス領バミューダのダークラムです。ジンジャービアで割るカクテル「ダーク・アンド・ストーミー」で知られます。",
-   "howto": "ジンジャービアで割って。"
+   "howto": "ジンジャービアで割って。",
+   "about_en": "A dark rum from the British territory of Bermuda. It is known for the Dark 'n' Stormy, a cocktail mixed with ginger beer.",
+   "howto_en": "Mixed with ginger beer."
   },
   {
    "keys": [
     "マウントゲイ"
    ],
    "about": "カリブ海のバルバドスのラムです。現存する最古のラム蒸溜所のひとつといわれます。",
-   "howto": "ソーダ割りやロックで。"
+   "howto": "ソーダ割りやロックで。",
+   "about_en": "A rum from Barbados in the Caribbean. It is said to be one of the oldest rum distilleries still operating.",
+   "howto_en": "With soda or on the rocks."
   },
   {
    "keys": [
     "クラーケン"
    ],
    "about": "海の怪物クラーケンのラベルの、黒いスパイスドラムです。スパイスとカラメルの甘い香りがあります。",
-   "howto": "コーラで割って。"
+   "howto": "コーラで割って。",
+   "about_en": "A black spiced rum with the sea monster Kraken on its label. It has a sweet aroma of spice and caramel.",
+   "howto_en": "Mixed with cola."
   },
   {
    "keys": [
@@ -2463,7 +3119,9 @@
     "スミノフ アイス"
    ],
    "about": "世界でよく飲まれているウォッカです。くせがなくすっきりしていて、カクテルのベースによく使われます。",
-   "howto": "モスコミュールやスクリュードライバーで。"
+   "howto": "モスコミュールやスクリュードライバーで。",
+   "about_en": "A vodka enjoyed all over the world. Neutral and clean, it is a popular cocktail base.",
+   "howto_en": "In a Moscow Mule or a Screwdriver."
   },
   {
    "keys": [
@@ -2471,14 +3129,18 @@
     "グレイグース ラ・ポワール"
    ],
    "about": "フランスで造られるプレミアムウォッカです。小麦から造られ、なめらかでやわらかな味わいです。",
-   "howto": "冷凍庫で冷やしてストレートか、マティーニで。"
+   "howto": "冷凍庫で冷やしてストレートか、マティーニで。",
+   "about_en": "A premium vodka made in France. Made from wheat, it is smooth and soft.",
+   "howto_en": "Neat from the freezer, or in a martini."
   },
   {
    "keys": [
     "ベルヴェデール"
    ],
    "about": "ポーランドのプレミアムウォッカです。ライ麦から造られています。",
-   "howto": "よく冷やしてストレートで。"
+   "howto": "よく冷やしてストレートで。",
+   "about_en": "A premium vodka from Poland. It is made from rye.",
+   "howto_en": "Neat, well chilled."
   },
   {
    "keys": [
@@ -2486,35 +3148,45 @@
     "ズブロッカ ビゾン グラス"
    ],
    "about": "ポーランドのウォッカです。瓶の中に「バイソングラス」という草が入っていて、桜餅のような甘い香りがあります。",
-   "howto": "りんごジュースで割るのが定番です。"
+   "howto": "りんごジュースで割るのが定番です。",
+   "about_en": "A vodka from Poland. A blade of bison grass in the bottle gives it a sweet aroma reminiscent of sakura mochi.",
+   "howto_en": "Mixing it with apple juice is the classic."
   },
   {
    "keys": [
     "アブソルート"
    ],
    "about": "スウェーデンのウォッカです。昔の薬瓶をモチーフにした透明なボトルが特徴です。",
-   "howto": "カクテルのベースに。"
+   "howto": "カクテルのベースに。",
+   "about_en": "A vodka from Sweden. Its clear bottle is inspired by an old medicine bottle.",
+   "howto_en": "As a cocktail base."
   },
   {
    "keys": [
     "スピリタス"
    ],
    "about": "ポーランドのウォッカです。96度という、世界で最も強いお酒のひとつです。",
-   "howto": "そのままは飲まず、果実酒づくりなどに。"
+   "howto": "そのままは飲まず、果実酒づくりなどに。",
+   "about_en": "A vodka from Poland. At 96 percent, it is one of the strongest spirits in the world.",
+   "howto_en": "Not for drinking straight; use it for making fruit liqueurs and the like."
   },
   {
    "keys": [
     "フィンランディア"
    ],
    "about": "フィンランドのウォッカです。氷河の水を使った、すっきりした味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A vodka from Finland. Made with glacial water, it is clean and crisp.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ティトーズ"
    ],
    "about": "アメリカ・テキサスのウォッカです。とうもろこしから造られています。",
-   "howto": "ソーダ割りやカクテルで。"
+   "howto": "ソーダ割りやカクテルで。",
+   "about_en": "A vodka from Texas, USA. It is made from corn.",
+   "howto_en": "With soda or in cocktails."
   },
   {
    "keys": [
@@ -2522,7 +3194,9 @@
     "クエルボ・エスペシャル"
    ],
    "about": "1795年創業の、最も古いテキーラメーカーのひとつです。世界でよく飲まれているテキーラです。",
-   "howto": "ショットで、塩とライムと一緒に。"
+   "howto": "ショットで、塩とライムと一緒に。",
+   "about_en": "Founded in 1795, one of the oldest tequila makers. A tequila enjoyed all over the world.",
+   "howto_en": "As a shot, with salt and lime."
   },
   {
    "keys": [
@@ -2530,7 +3204,9 @@
     "パトロン シルバー"
    ],
    "about": "原料にアガベ100%を使ったプレミアムテキーラです。手作りのガラスのボトルでも知られます。",
-   "howto": "ストレートか、マルガリータで。"
+   "howto": "ストレートか、マルガリータで。",
+   "about_en": "A premium tequila made from 100 percent agave. It is also known for its handmade glass bottle.",
+   "howto_en": "Neat, or in a margarita."
   },
   {
    "keys": [
@@ -2538,7 +3214,9 @@
     "ドン・フリオ 1942"
    ],
    "about": "アガベ100%のプレミアムテキーラです。1942は創業者が造り始めた年にちなんだ、熟成タイプの上位品です。",
-   "howto": "ストレートで、ゆっくりと。"
+   "howto": "ストレートで、ゆっくりと。",
+   "about_en": "A premium 100 percent agave tequila. The 1942 is an aged premium expression named for the year the founder began making tequila.",
+   "howto_en": "Neat, slowly."
   },
   {
    "keys": [
@@ -2546,14 +3224,18 @@
     "サウザ ブルー"
    ],
    "about": "テキーラの産地、メキシコ・ハリスコ州のテキーラです。",
-   "howto": "ショットやカクテルで。"
+   "howto": "ショットやカクテルで。",
+   "about_en": "A tequila from Jalisco, Mexico, the home of tequila.",
+   "howto_en": "As a shot or in cocktails."
   },
   {
    "keys": [
     "カサミゴス"
    ],
    "about": "俳優ジョージ・クルーニーらが立ち上げたテキーラです。なめらかで飲みやすい味わいです。",
-   "howto": "ロックで。"
+   "howto": "ロックで。",
+   "about_en": "A tequila founded by actor George Clooney and partners. It is smooth and easy to drink.",
+   "howto_en": "On the rocks."
   },
   {
    "keys": [
@@ -2562,7 +3244,9 @@
     "ヘネシー XO"
    ],
    "about": "1765年創業の、コニャックを代表するメゾンです。XOは長く熟成させた、濃厚で深い味わいです。",
-   "howto": "ブランデーグラスで、手で温めながら。"
+   "howto": "ブランデーグラスで、手で温めながら。",
+   "about_en": "Founded in 1765, a leading Cognac house. The XO is long-aged, rich and deep.",
+   "howto_en": "In a brandy snifter, warmed in your hand."
   },
   {
    "keys": [
@@ -2571,7 +3255,9 @@
     "レミーマルタン XO"
    ],
    "about": "コニャックの中でも上質な地区のぶどうだけを使うメゾンです。ケンタウロスのマークが目印です。",
-   "howto": "ストレートで、香りを楽しんで。"
+   "howto": "ストレートで、香りを楽しんで。",
+   "about_en": "A Cognac house that uses only grapes from Cognac's finest areas. Look for the centaur emblem.",
+   "howto_en": "Neat, to enjoy the aroma."
   },
   {
    "keys": [
@@ -2579,91 +3265,117 @@
     "マーテル コルドンブルー"
    ],
    "about": "1715年創業の、大手のコニャックの中で最も古いメゾンです。コルドンブルーは代表的な上位品です。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "Founded in 1715, the oldest of the major Cognac houses. Cordon Bleu is its signature premium expression.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
     "クルボアジェ"
    ],
    "about": "ナポレオンゆかりのコニャックとして知られるメゾンです。",
-   "howto": "ストレートか、ソーダ割りで。"
+   "howto": "ストレートか、ソーダ割りで。",
+   "about_en": "A Cognac house known for its connection to Napoleon.",
+   "howto_en": "Neat or with soda."
   },
   {
    "keys": [
     "カミュ"
    ],
    "about": "家族経営のコニャックのメゾンです。",
-   "howto": "ストレートで。"
+   "howto": "ストレートで。",
+   "about_en": "A family-owned Cognac house.",
+   "howto_en": "Neat."
   },
   {
    "keys": [
     "カンパリ"
    ],
    "about": "イタリア・ミラノ生まれの、赤いほろ苦いリキュールです。ハーブや果皮の苦みと甘みがあります。",
-   "howto": "ソーダやオレンジジュースで割って。"
+   "howto": "ソーダやオレンジジュースで割って。",
+   "about_en": "A red, bittersweet liqueur born in Milan, Italy. It has the bitterness and sweetness of herbs and citrus peel.",
+   "howto_en": "Mixed with soda or orange juice."
   },
   {
    "keys": [
     "アペロール"
    ],
    "about": "イタリアのオレンジ色のリキュールです。カンパリより甘く、苦みがやわらかいです。",
-   "howto": "アペロール・スプリッツで。"
+   "howto": "アペロール・スプリッツで。",
+   "about_en": "An orange-colored Italian liqueur. It is sweeter than Campari, with a softer bitterness.",
+   "howto_en": "In an Aperol Spritz."
   },
   {
    "keys": [
     "カルーア"
    ],
    "about": "メキシコ生まれのコーヒーリキュールです。甘く香ばしいコーヒーの味わいです。",
-   "howto": "牛乳で割ったカルーアミルクで。"
+   "howto": "牛乳で割ったカルーアミルクで。",
+   "about_en": "A coffee liqueur born in Mexico. It has a sweet, roasty coffee flavor.",
+   "howto_en": "Mixed with milk, as a Kahlúa and milk."
   },
   {
    "keys": [
     "ベイリーズ"
    ],
    "about": "アイルランドのクリームリキュールです。アイリッシュウイスキーとクリームを合わせた、甘くなめらかな味わいです。",
-   "howto": "ロックや牛乳割りで。"
+   "howto": "ロックや牛乳割りで。",
+   "about_en": "A cream liqueur from Ireland. Combining Irish whiskey and cream, it is sweet and smooth.",
+   "howto_en": "On the rocks or mixed with milk."
   },
   {
    "keys": [
     "コアントロー"
    ],
    "about": "フランスのオレンジリキュールです。たくさんのカクテルに使われる、華やかなオレンジの香りがあります。",
-   "howto": "マルガリータやサイドカーで。"
+   "howto": "マルガリータやサイドカーで。",
+   "about_en": "An orange liqueur from France. Its bright orange aroma appears in countless cocktails.",
+   "howto_en": "In a margarita or a sidecar."
   },
   {
    "keys": [
     "シャルトリューズ"
    ],
    "about": "フランスの修道院で生まれたハーブのリキュールです。多くの薬草を使い、製法は修道士だけが知るといわれます。",
-   "howto": "少量をストレートか、カクテルで。"
+   "howto": "少量をストレートか、カクテルで。",
+   "about_en": "An herbal liqueur born in a French monastery. Made with many medicinal herbs, its recipe is said to be known only to the monks.",
+   "howto_en": "A small pour neat, or in cocktails."
   },
   {
    "keys": [
     "イエーガーマイスター"
    ],
    "about": "ドイツのハーブのリキュールです。鹿のマークでおなじみで、ほろ苦く甘い味わいです。",
-   "howto": "よく冷やしてショットで。"
+   "howto": "よく冷やしてショットで。",
+   "about_en": "An herbal liqueur from Germany. Known for its stag emblem, it is bittersweet.",
+   "howto_en": "As a shot, well chilled."
   },
   {
    "keys": [
     "ディサローノ"
    ],
    "about": "イタリアのリキュールです。杏の種などから造る、アーモンドのような甘い香りがあります。",
-   "howto": "ロックか、アマレット・サワーで。"
+   "howto": "ロックか、アマレット・サワーで。",
+   "about_en": "An Italian liqueur made from apricot kernels and other ingredients. It has a sweet, almond-like aroma.",
+   "howto_en": "On the rocks, or in an Amaretto Sour."
   },
   {
    "keys": [
     "ディタ"
    ],
    "about": "ライチのリキュールです。甘く華やかな香りで、カクテルによく使われます。",
-   "howto": "グレープフルーツジュースで割って（ディタモーニ）。"
+   "howto": "グレープフルーツジュースで割って（ディタモーニ）。",
+   "about_en": "A lychee liqueur. With its sweet, bright aroma, it is often used in cocktails.",
+   "howto_en": "Mixed with grapefruit juice, known in Japan as a Dita Moni."
   },
   {
    "keys": [
     "ルジェ クレーム・ド・カシス"
    ],
    "about": "黒すぐり（カシス）のリキュールです。濃い甘酸っぱさがあります。",
-   "howto": "オレンジジュースやソーダ、白ワインで割って。"
+   "howto": "オレンジジュースやソーダ、白ワインで割って。",
+   "about_en": "A blackcurrant, or cassis, liqueur. It is deeply sweet and tart.",
+   "howto_en": "Mixed with orange juice, soda or white wine."
   },
   {
    "keys": [
@@ -2671,21 +3383,27 @@
     "マリブ ココナッツ"
    ],
    "about": "ココナッツのリキュールです。ラムをベースにした、甘い南国の香りがあります。",
-   "howto": "パイナップルジュースやミルクで割って。"
+   "howto": "パイナップルジュースやミルクで割って。",
+   "about_en": "A coconut liqueur. Made on a rum base, it has a sweet, tropical aroma.",
+   "howto_en": "Mixed with pineapple juice or milk."
   },
   {
    "keys": [
     "グラン・マルニエ"
    ],
    "about": "コニャックにオレンジの香りを加えたフランスのリキュールです。",
-   "howto": "ストレートか、お菓子づくりにも。"
+   "howto": "ストレートか、お菓子づくりにも。",
+   "about_en": "A French liqueur of Cognac flavored with orange.",
+   "howto_en": "Neat, or even in baking."
   },
   {
    "keys": [
     "ドランブイ"
    ],
    "about": "スコッチウイスキーにはちみつやハーブを加えたリキュールです。",
-   "howto": "ウイスキーと合わせたラスティ・ネイルで。"
+   "howto": "ウイスキーと合わせたラスティ・ネイルで。",
+   "about_en": "A liqueur of Scotch whisky with honey and herbs added.",
+   "howto_en": "In a Rusty Nail, combined with whisky."
   },
   {
    "keys": [
@@ -2693,21 +3411,27 @@
     "リカール"
    ],
    "about": "フランスのアニスのリキュールです。水を加えると白くにごるのが特徴です。",
-   "howto": "水で割って。"
+   "howto": "水で割って。",
+   "about_en": "Anise liqueurs from France. They are known for turning cloudy white when water is added.",
+   "howto_en": "Mixed with water."
   },
   {
    "keys": [
     "ミドリ"
    ],
    "about": "サントリーのメロンのリキュールです。鮮やかな緑色と甘いメロンの香りがあります。",
-   "howto": "ソーダで割って。"
+   "howto": "ソーダで割って。",
+   "about_en": "A melon liqueur from Suntory. It has a vivid green color and a sweet melon aroma.",
+   "howto_en": "Mixed with soda."
   },
   {
    "keys": [
     "サンジェルマン"
    ],
    "about": "エルダーフラワー（西洋ニワトコの花）のリキュールです。華やかでやさしい花の香りがあります。",
-   "howto": "白ワインやソーダで割って。"
+   "howto": "白ワインやソーダで割って。",
+   "about_en": "An elderflower liqueur. It has a bright, gentle floral aroma.",
+   "howto_en": "Mixed with white wine or soda."
   },
   {
    "keys": [
@@ -2716,7 +3440,9 @@
     "チョーヤ ウメッシュ"
    ],
    "about": "大阪・羽曳野のチョーヤの梅酒です。紀州産の南高梅を使った、甘酸っぱい梅の香りがあります。",
-   "howto": "ロックかソーダ割りで。"
+   "howto": "ロックかソーダ割りで。",
+   "about_en": "Umeshu from Choya in Habikino, Osaka. Made with Nanko ume from Kishu, it has a sweet-tart plum aroma.",
+   "howto_en": "On the rocks or with soda."
   },
   {
    "keys": [
@@ -2724,14 +3450,18 @@
     "さらりとした梅酒 ソーダ"
    ],
    "about": "チョーヤの、甘さを抑えたさらりとした口当たりの梅酒です。",
-   "howto": "ロックかソーダ割りで。"
+   "howto": "ロックかソーダ割りで。",
+   "about_en": "An umeshu from Choya with restrained sweetness and a light, smooth texture.",
+   "howto_en": "On the rocks or with soda."
   },
   {
    "keys": [
     "杏露酒"
    ],
    "about": "杏を使った中国のリキュールです。甘くやさしい杏の香りがあります。",
-   "howto": "ロックかソーダ割りで。"
+   "howto": "ロックかソーダ割りで。",
+   "about_en": "A Chinese liqueur made with apricots. It has a sweet, gentle apricot aroma.",
+   "howto_en": "On the rocks or with soda."
   },
   {
    "keys": [
@@ -2739,14 +3469,18 @@
     "ソジュ チャミスル フレッシュ"
    ],
    "about": "韓国の焼酎（ソジュ）です。竹炭でろ過した、くせの少ないすっきりした味わいです。",
-   "howto": "よく冷やしてストレートか、ビールと混ぜて。"
+   "howto": "よく冷やしてストレートか、ビールと混ぜて。",
+   "about_en": "A Korean soju. Filtered through bamboo charcoal, it is clean and easygoing.",
+   "howto_en": "Neat and well chilled, or mixed with beer."
   },
   {
    "keys": [
     "JINRO"
    ],
    "about": "韓国の焼酎です。すっきりとした味わいで、日本でも長く親しまれています。",
-   "howto": "水割りやソーダ割りで。"
+   "howto": "水割りやソーダ割りで。",
+   "about_en": "A Korean soju. Clean in taste, it has long been popular in Japan too.",
+   "howto_en": "Mizuwari or with soda."
   },
   {
    "keys": [
@@ -2754,7 +3488,9 @@
     "鏡月 グリーン"
    ],
    "about": "韓国生まれの焼酎です。すっきりと軽い味わいです。",
-   "howto": "水割りや緑茶割りで。"
+   "howto": "水割りや緑茶割りで。",
+   "about_en": "A soju born in Korea. It is clean and light.",
+   "howto_en": "Mizuwari or mixed with green tea."
   },
   {
    "keys": [
@@ -2762,14 +3498,18 @@
     "白酒 茅台"
    ],
    "about": "中国・貴州省の白酒（バイジュウ）です。中国を代表するお酒で、独特の濃い香りがあります。度数が高いお酒です。",
-   "howto": "小さなグラスで少しずつ。"
+   "howto": "小さなグラスで少しずつ。",
+   "about_en": "A baijiu from Guizhou Province, China. China's signature spirit, it has a distinctive, intense aroma. It is high in alcohol.",
+   "howto_en": "In a small glass, a little at a time."
   },
   {
    "keys": [
     "紹興酒 古越龍山"
    ],
    "about": "中国・紹興の紹興酒です。もち米を発酵させて長く寝かせた、まろやかで深い味わいです。",
-   "howto": "常温か温めて、中華料理と。"
+   "howto": "常温か温めて、中華料理と。",
+   "about_en": "A Shaoxing wine from Shaoxing, China. Made by fermenting glutinous rice and aging it for a long time, it is mellow and deep.",
+   "howto_en": "At room temperature or warmed, with Chinese food."
   },
   {
    "keys": [
@@ -2779,7 +3519,9 @@
     "檸檬堂 塩レモン"
    ],
    "about": "コカ・コーラ社が日本で出した缶のレモンサワーです。レモンを丸ごとすりおろして漬け込む「前割り」の造りで、果実感が強い味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A canned lemon sour launched in Japan by Coca-Cola. Made by steeping whole grated lemons in the spirit beforehand, it has a strong fruit character.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -2789,7 +3531,9 @@
     "キリン 氷結 無糖レモン"
    ],
    "about": "キリンの缶チューハイです。凍らせた果汁を使い、果物のみずみずしさを生かした味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "Kirin's canned chuhai. Made with frozen fruit juice, it brings out the freshness of the fruit.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -2798,7 +3542,9 @@
     "サントリー -196 ストロングゼロ ダブルレモン"
    ],
    "about": "サントリーの缶チューハイです。果物を-196℃で凍らせて丸ごと砕いたものを使い、果実感の強い味わいです。アルコールが高めのものが多いので注意して。",
-   "howto": "よく冷やして、ゆっくりと。"
+   "howto": "よく冷やして、ゆっくりと。",
+   "about_en": "Suntory's canned chuhai. Made with whole fruit frozen at minus 196 degrees Celsius and crushed, it has a strong fruit character. Many are higher in alcohol, so take care.",
+   "howto_en": "Well chilled, and take it slowly."
   },
   {
    "keys": [
@@ -2807,7 +3553,9 @@
     "サントリー ほろよい もも"
    ],
    "about": "サントリーの缶チューハイです。アルコール度数が低めで、甘く飲みやすい味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "Suntory's canned chuhai. Lower in alcohol, it is sweet and easy to drink.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -2816,7 +3564,9 @@
     "キリン 本搾り グレープフルーツ"
    ],
    "about": "キリンの缶チューハイです。果汁とお酒だけで造り、香料や糖類を使わないのが特徴です。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "Kirin's canned chuhai. Made only from fruit juice and spirit, it uses no flavorings or added sugars.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
@@ -2824,28 +3574,36 @@
     "サントリー こだわり酒場のレモンサワー 濃いめ"
    ],
    "about": "サントリーの缶のレモンサワーです。居酒屋で飲むレモンサワーの味わいを目指しています。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "Suntory's canned lemon sour. It aims for the taste of a lemon sour at an izakaya.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ホッピー"
    ],
    "about": "ビールのような味わいのノンアルコール飲料です。焼酎で割って飲むのが定番で、東京の下町の酒場で親しまれています。",
-   "howto": "よく冷やした焼酎とジョッキで。"
+   "howto": "よく冷やした焼酎とジョッキで。",
+   "about_en": "A non-alcoholic, beer-flavored drink. It is classically mixed with shochu and loved in the bars of Tokyo's old downtown.",
+   "howto_en": "In a mug with well-chilled shochu."
   },
   {
    "keys": [
     "ジントニック"
    ],
    "about": "ジンをトニックウォーターで割り、ライムを添えたカクテルです。ジンの香りとほろ苦さが爽やかで、ジンの個性がいちばん分かりやすい飲み方です。",
-   "howto": "最初の一杯に。ジンの銘柄を変えて飲み比べても楽しめます。"
+   "howto": "最初の一杯に。ジンの銘柄を変えて飲み比べても楽しめます。",
+   "about_en": "A cocktail of gin and tonic water with a wedge of lime. Fresh with the gin's aroma and a gentle bitterness, it is the clearest way to taste a gin's character.",
+   "howto_en": "A great first drink. Try comparing different gins."
   },
   {
    "keys": [
     "ハイボール"
    ],
    "about": "ウイスキーをソーダで割ったカクテルです。日本では食事と一緒に飲む定番で、ウイスキーの香りを軽やかに楽しめます。",
-   "howto": "氷をたっぷり入れ、ソーダは静かに注いで炭酸を逃がさないように。"
+   "howto": "氷をたっぷり入れ、ソーダは静かに注いで炭酸を逃がさないように。",
+   "about_en": "A cocktail of whisky and soda. In Japan it is the classic drink with meals, letting you enjoy the whisky's aroma lightly.",
+   "howto_en": "Fill the glass with ice and pour the soda gently so the fizz stays."
   },
   {
    "keys": [
@@ -2854,315 +3612,405 @@
     "サントリー 角ハイボール 濃いめ"
    ],
    "about": "サントリーの角瓶をソーダで割ったハイボールです。レモンを添えた、すっきりとした味わいで、ハイボールブームのきっかけになりました。",
-   "howto": "よく冷やして、唐揚げなどの揚げ物と。"
+   "howto": "よく冷やして、唐揚げなどの揚げ物と。",
+   "about_en": "A highball of Suntory Kakubin and soda. Served with lemon, it is clean and crisp, and it set off Japan's highball boom.",
+   "howto_en": "Serve well chilled, with fried food such as karaage."
   },
   {
    "keys": [
     "モヒート"
    ],
    "about": "キューバ生まれのカクテルです。ホワイトラムにミントとライム、砂糖、ソーダを合わせた、すっきりと爽やかな味わいです。",
-   "howto": "暑い日の一杯に。"
+   "howto": "暑い日の一杯に。",
+   "about_en": "A cocktail born in Cuba. White rum with mint, lime, sugar and soda makes it clean and refreshing.",
+   "howto_en": "A drink for a hot day."
   },
   {
    "keys": [
     "マティーニ"
    ],
    "about": "ジンとドライベルモットを混ぜ、オリーブを添えたカクテルです。「カクテルの王様」と呼ばれ、店ごとに配合のこだわりがあります。",
-   "howto": "よく冷えたグラスで、冷たいうちに。"
+   "howto": "よく冷えたグラスで、冷たいうちに。",
+   "about_en": "A cocktail of gin and dry vermouth, garnished with an olive. Called the king of cocktails, every bar has its own preferred ratio.",
+   "howto_en": "In a well-chilled glass, while it is still cold."
   },
   {
    "keys": [
     "ネグローニ"
    ],
    "about": "ジン、カンパリ、スイートベルモットを同じ量ずつ合わせた、イタリア生まれのカクテルです。ほろ苦さと甘さのバランスが特徴です。",
-   "howto": "食前酒として。"
+   "howto": "食前酒として。",
+   "about_en": "An Italian-born cocktail of equal parts gin, Campari and sweet vermouth. It is known for its balance of bitter and sweet.",
+   "howto_en": "As an aperitif."
   },
   {
    "keys": [
     "マンハッタン"
    ],
    "about": "ウイスキーとスイートベルモットに、ビターズを加えたカクテルです。チェリーを添え、「カクテルの女王」と呼ばれます。",
-   "howto": "冷えたグラスで、ゆっくりと。"
+   "howto": "冷えたグラスで、ゆっくりと。",
+   "about_en": "A cocktail of whisky and sweet vermouth with bitters. Garnished with a cherry, it is called the queen of cocktails.",
+   "howto_en": "In a chilled glass, slowly."
   },
   {
    "keys": [
     "オールド・ファッションド"
    ],
    "about": "ウイスキーに角砂糖とビターズを加え、オレンジの皮で香りづけしたカクテルです。最も古いカクテルのひとつといわれます。",
-   "howto": "砂糖を少しずつ溶かしながら。"
+   "howto": "砂糖を少しずつ溶かしながら。",
+   "about_en": "A cocktail of whisky with a sugar cube and bitters, scented with orange peel. It is said to be one of the oldest cocktails.",
+   "howto_en": "Let the sugar dissolve little by little as you sip."
   },
   {
    "keys": [
     "モスコミュール"
    ],
    "about": "ウォッカをジンジャービア（またはジンジャーエール）で割り、ライムを加えたカクテルです。銅のマグで出されることでも知られます。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of vodka and ginger beer, or ginger ale, with lime. It is also known for being served in a copper mug.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ギムレット"
    ],
    "about": "ジンとライムジュースを合わせたカクテルです。すっきりとした酸味があります。小説の「ギムレットには早すぎる」というせりふでも知られます。",
-   "howto": "冷えたグラスで。"
+   "howto": "冷えたグラスで。",
+   "about_en": "A cocktail of gin and lime juice. It has a clean acidity. It is also known from a famous line in a novel about it being too early for a gimlet.",
+   "howto_en": "In a chilled glass."
   },
   {
    "keys": [
     "カシスオレンジ"
    ],
    "about": "カシスリキュールをオレンジジュースで割った、甘酸っぱく飲みやすいカクテルです。",
-   "howto": "お酒が強くない人にも。"
+   "howto": "お酒が強くない人にも。",
+   "about_en": "A sweet-tart, easy-drinking cocktail of cassis liqueur and orange juice.",
+   "howto_en": "Good for those who are not big drinkers."
   },
   {
    "keys": [
     "カシスソーダ"
    ],
    "about": "カシスリキュールをソーダで割ったカクテルです。甘酸っぱく爽やかな味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of cassis liqueur and soda. Sweet-tart and refreshing.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ファジーネーブル"
    ],
    "about": "ピーチリキュールをオレンジジュースで割ったカクテルです。桃の甘い香りで飲みやすい味わいです。",
-   "howto": "お酒が強くない人にも。"
+   "howto": "お酒が強くない人にも。",
+   "about_en": "A cocktail of peach liqueur and orange juice. The sweet peach aroma makes it easy to drink.",
+   "howto_en": "Good for those who are not big drinkers."
   },
   {
    "keys": [
     "スクリュードライバー"
    ],
    "about": "ウォッカをオレンジジュースで割ったカクテルです。ジュースのように飲みやすいので、飲みすぎに注意。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of vodka and orange juice. It drinks as easily as juice, so take care not to overdo it.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ソルティドッグ"
    ],
    "about": "ウォッカをグレープフルーツジュースで割り、グラスのふちに塩をつけたカクテルです。",
-   "howto": "塩をなめながら、少しずつ。"
+   "howto": "塩をなめながら、少しずつ。",
+   "about_en": "A cocktail of vodka and grapefruit juice, served with salt on the rim of the glass.",
+   "howto_en": "Sip slowly, with a taste of the salt."
   },
   {
    "keys": [
     "マルガリータ"
    ],
    "about": "テキーラ、オレンジリキュール、ライムジュースを合わせ、グラスのふちに塩をつけたカクテルです。",
-   "howto": "メキシコ料理と一緒に。"
+   "howto": "メキシコ料理と一緒に。",
+   "about_en": "A cocktail of tequila, orange liqueur and lime juice, served with salt on the rim of the glass.",
+   "howto_en": "With Mexican food."
   },
   {
    "keys": [
     "ダイキリ"
    ],
    "about": "ホワイトラム、ライムジュース、砂糖を合わせたキューバ生まれのカクテルです。文豪ヘミングウェイが愛したことで知られます。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A Cuban-born cocktail of white rum, lime juice and sugar. It is known as a favorite of the writer Ernest Hemingway.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "カンパリソーダ"
    ],
    "about": "カンパリをソーダで割ったカクテルです。ほろ苦さと爽やかさがあり、食前酒として親しまれています。",
-   "howto": "オレンジのスライスを添えて。"
+   "howto": "オレンジのスライスを添えて。",
+   "about_en": "A cocktail of Campari and soda. Bittersweet and refreshing, it is a popular aperitif.",
+   "howto_en": "With a slice of orange."
   },
   {
    "keys": [
     "カンパリオレンジ"
    ],
    "about": "カンパリをオレンジジュースで割ったカクテルです。ほろ苦さとオレンジの甘さが合います。",
-   "howto": "食前に。"
+   "howto": "食前に。",
+   "about_en": "A cocktail of Campari and orange juice. The bitterness pairs nicely with the orange's sweetness.",
+   "howto_en": "Before a meal."
   },
   {
    "keys": [
     "スプモーニ"
    ],
    "about": "カンパリをグレープフルーツジュースとトニックウォーターで割ったカクテルです。ほろ苦く爽やかな味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of Campari with grapefruit juice and tonic water. It is bittersweet and refreshing.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ピニャ・コラーダ"
    ],
    "about": "ラム、パイナップルジュース、ココナッツミルクを合わせた、南国らしい甘いカクテルです。",
-   "howto": "デザート感覚で。"
+   "howto": "デザート感覚で。",
+   "about_en": "A sweet, tropical cocktail of rum, pineapple juice and coconut milk.",
+   "howto_en": "Enjoy it like a dessert."
   },
   {
    "keys": [
     "ブラッディ・メアリー"
    ],
    "about": "ウォッカをトマトジュースで割り、塩、こしょう、ウスターソースなどで味を整えたカクテルです。",
-   "howto": "セロリを添えて、昼の一杯に。"
+   "howto": "セロリを添えて、昼の一杯に。",
+   "about_en": "A cocktail of vodka and tomato juice, seasoned with salt, pepper, Worcestershire sauce and more.",
+   "howto_en": "With a stick of celery, as a daytime drink."
   },
   {
    "keys": [
     "コスモポリタン"
    ],
    "about": "ウォッカ、オレンジリキュール、クランベリージュース、ライムを合わせた、ピンク色のカクテルです。ドラマ「セックス・アンド・ザ・シティ」で人気になりました。",
-   "howto": "冷えたグラスで。"
+   "howto": "冷えたグラスで。",
+   "about_en": "A pink cocktail of vodka, orange liqueur, cranberry juice and lime. It became popular through the TV series Sex and the City.",
+   "howto_en": "In a chilled glass."
   },
   {
    "keys": [
     "サイドカー"
    ],
    "about": "ブランデー、オレンジリキュール、レモンジュースを合わせたカクテルです。甘酸っぱく、しっかりした味わいです。",
-   "howto": "食後に。"
+   "howto": "食後に。",
+   "about_en": "A cocktail of brandy, orange liqueur and lemon juice. Sweet-tart, with a solid body.",
+   "howto_en": "After dinner."
   },
   {
    "keys": [
     "アペロール・スプリッツ"
    ],
    "about": "アペロールをプロセッコ（イタリアの発泡ワイン）とソーダで割った、オレンジ色のカクテルです。イタリアの食前酒の定番です。",
-   "howto": "オレンジのスライスを添えて、夕方に。"
+   "howto": "オレンジのスライスを添えて、夕方に。",
+   "about_en": "An orange cocktail of Aperol with Prosecco, an Italian sparkling wine, and soda. It is the classic Italian aperitif.",
+   "howto_en": "With a slice of orange, in the early evening."
   },
   {
    "keys": [
     "エスプレッソ・マティーニ"
    ],
    "about": "ウォッカ、コーヒーリキュール、エスプレッソを合わせたカクテルです。コーヒーの香ばしさと甘さがあります。",
-   "howto": "食後に、デザートと。"
+   "howto": "食後に、デザートと。",
+   "about_en": "A cocktail of vodka, coffee liqueur and espresso. It has the roasty aroma and sweetness of coffee.",
+   "howto_en": "After dinner, with dessert."
   },
   {
    "keys": [
     "ジンバック"
    ],
    "about": "ジンをジンジャーエールで割り、レモンを加えたカクテルです。すっきりと飲みやすい味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of gin and ginger ale with lemon. Clean and easy to drink.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ジンリッキー"
    ],
    "about": "ジンにライムを搾り、ソーダで割ったカクテルです。甘さがなく、すっきりしています。",
-   "howto": "ライムをつぶしながら。"
+   "howto": "ライムをつぶしながら。",
+   "about_en": "A cocktail of gin with a squeeze of lime, topped with soda. It has no sweetness and is clean and crisp.",
+   "howto_en": "Press the lime as you drink."
   },
   {
    "keys": [
     "ラムコーク"
    ],
    "about": "ラムをコーラで割ったカクテルです。ライムを加えると「キューバ・リブレ」と呼ばれます。",
-   "howto": "ライムを搾って。"
+   "howto": "ライムを搾って。",
+   "about_en": "A cocktail of rum and cola. With lime added, it is called a Cuba Libre.",
+   "howto_en": "With a squeeze of lime."
   },
   {
    "keys": [
     "テキーラサンライズ"
    ],
    "about": "テキーラをオレンジジュースで割り、グレナデンシロップを沈めたカクテルです。朝焼けのような色のグラデーションが特徴です。",
-   "howto": "混ぜる前の色を楽しんで。"
+   "howto": "混ぜる前の色を楽しんで。",
+   "about_en": "A cocktail of tequila and orange juice with grenadine syrup sunk to the bottom. It is known for its sunrise-like color gradient.",
+   "howto_en": "Enjoy the colors before you stir."
   },
   {
    "keys": [
     "ミモザ"
    ],
    "about": "シャンパーニュ（発泡ワイン）をオレンジジュースで割ったカクテルです。花のミモザのような色をしています。",
-   "howto": "朝食やブランチに。"
+   "howto": "朝食やブランチに。",
+   "about_en": "A cocktail of Champagne, or sparkling wine, and orange juice. It is the color of mimosa flowers.",
+   "howto_en": "For breakfast or brunch."
   },
   {
    "keys": [
     "キール"
    ],
    "about": "白ワインにカシスリキュールを加えたカクテルです。フランス・ブルゴーニュ生まれの食前酒です。",
-   "howto": "冷やした白ワインで。"
+   "howto": "冷やした白ワインで。",
+   "about_en": "A cocktail of white wine with cassis liqueur. It is an aperitif born in Burgundy, France.",
+   "howto_en": "Made with chilled white wine."
   },
   {
    "keys": [
     "キール・ロワイヤル"
    ],
    "about": "シャンパーニュにカシスリキュールを加えたカクテルです。キールを華やかにした、お祝い向けの一杯です。",
-   "howto": "乾杯に。"
+   "howto": "乾杯に。",
+   "about_en": "A cocktail of Champagne with cassis liqueur. A more glamorous Kir, it is a drink for celebrations.",
+   "howto_en": "For a toast."
   },
   {
    "keys": [
     "ベリーニ"
    ],
    "about": "発泡ワインに白桃のピューレを合わせた、イタリア・ヴェネツィア生まれのカクテルです。",
-   "howto": "食前に。"
+   "howto": "食前に。",
+   "about_en": "A cocktail of sparkling wine and white peach puree, born in Venice, Italy.",
+   "howto_en": "Before a meal."
   },
   {
    "keys": [
     "ゴッドファーザー"
    ],
    "about": "ウイスキーにアマレットを加えたカクテルです。映画「ゴッドファーザー」にちなんだ名前で、アーモンドの甘い香りがあります。",
-   "howto": "食後に、ロックで。"
+   "howto": "食後に、ロックで。",
+   "about_en": "A cocktail of whisky with amaretto. Named after the film The Godfather, it has a sweet almond aroma.",
+   "howto_en": "After dinner, on the rocks."
   },
   {
    "keys": [
     "カルーアミルク"
    ],
    "about": "コーヒーリキュールのカルーアを牛乳で割った、甘いカクテルです。コーヒー牛乳のように飲みやすい味わいです。",
-   "howto": "デザート感覚で。"
+   "howto": "デザート感覚で。",
+   "about_en": "A sweet cocktail of Kahlúa coffee liqueur and milk. It is as easy to drink as coffee milk.",
+   "howto_en": "Enjoy it like a dessert."
   },
   {
    "keys": [
     "ピーチウーロン"
    ],
    "about": "ピーチリキュールをウーロン茶で割ったカクテルです。桃の甘い香りとお茶のすっきりさがあります。",
-   "howto": "食事と一緒に。"
+   "howto": "食事と一緒に。",
+   "about_en": "A cocktail of peach liqueur and oolong tea. It combines the sweet aroma of peach with the clean taste of tea.",
+   "howto_en": "With a meal."
   },
   {
    "keys": [
     "レッドアイ"
    ],
    "about": "ビールをトマトジュースで割ったカクテルです。さっぱりとしていて、アルコールも軽めです。",
-   "howto": "お好みで塩やこしょうを。"
+   "howto": "お好みで塩やこしょうを。",
+   "about_en": "A cocktail of beer and tomato juice. It is refreshing and light in alcohol.",
+   "howto_en": "Add salt or pepper to taste."
   },
   {
    "keys": [
     "シャンディガフ"
    ],
    "about": "ビールをジンジャーエールで割ったカクテルです。苦みがやわらぎ、生姜の爽やかさが加わります。",
-   "howto": "ビールが苦手な人にも。"
+   "howto": "ビールが苦手な人にも。",
+   "about_en": "A cocktail of beer and ginger ale. The bitterness softens and ginger adds freshness.",
+   "howto_en": "Good even for those who don't care for beer."
   },
   {
    "keys": [
     "ジンフィズ"
    ],
    "about": "ジン、レモンジュース、砂糖をシェイクし、ソーダで割ったカクテルです。甘酸っぱく爽やかな味わいです。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of gin, lemon juice and sugar, shaken and topped with soda. It is sweet-tart and refreshing.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "トムコリンズ"
    ],
    "about": "ジン、レモンジュース、砂糖をソーダで割った、背の高いグラスのカクテルです。",
-   "howto": "暑い日に。"
+   "howto": "暑い日に。",
+   "about_en": "A cocktail of gin, lemon juice and sugar topped with soda, served in a tall glass.",
+   "howto_en": "For a hot day."
   },
   {
    "keys": [
     "フレンチ75"
    ],
    "about": "ジン、レモンジュース、砂糖を合わせ、シャンパーニュで満たしたカクテルです。第一次世界大戦の大砲にちなんだ名前です。",
-   "howto": "お祝いの席で。"
+   "howto": "お祝いの席で。",
+   "about_en": "A cocktail of gin, lemon juice and sugar, topped up with Champagne. It is named after a World War I artillery gun.",
+   "howto_en": "For celebrations."
   },
   {
    "keys": [
     "ブールヴァルディエ"
    ],
    "about": "ネグローニのジンをバーボンに替えたカクテルです。ネグローニより甘く、深みのある味わいです。",
-   "howto": "食後に。"
+   "howto": "食後に。",
+   "about_en": "A Negroni with bourbon in place of the gin. It is sweeter and deeper than a Negroni.",
+   "howto_en": "After dinner."
   },
   {
    "keys": [
     "アメリカーノ"
    ],
    "about": "カンパリとスイートベルモットをソーダで割ったカクテルです。ネグローニの原型といわれる、軽めの食前酒です。",
-   "howto": "食前に。"
+   "howto": "食前に。",
+   "about_en": "A cocktail of Campari and sweet vermouth topped with soda. Said to be the forerunner of the Negroni, it is a lighter aperitif.",
+   "howto_en": "Before a meal."
   },
   {
    "keys": [
     "マイタイ"
    ],
    "about": "ラム、オレンジリキュール、ライム、アーモンドシロップを合わせた、南国のカクテルです。",
-   "howto": "トロピカルな気分で。"
+   "howto": "トロピカルな気分で。",
+   "about_en": "A tropical cocktail of rum, orange liqueur, lime and almond syrup.",
+   "howto_en": "When you're in a tropical mood."
   },
   {
    "keys": [
     "XYZ"
    ],
    "about": "ラム、オレンジリキュール、レモンジュースを合わせたカクテルです。アルファベットの最後の文字から「これ以上ない最高のカクテル」という意味が込められています。",
-   "howto": "締めの一杯に。"
+   "howto": "締めの一杯に。",
+   "about_en": "A cocktail of rum, orange liqueur and lemon juice. Named for the last letters of the alphabet, it carries the meaning of a cocktail that cannot be bettered.",
+   "howto_en": "As the last drink of the night."
   },
   {
    "keys": [
     "ブルー・ハワイ"
    ],
    "about": "ラム、ブルーキュラソー、パイナップルジュースなどを合わせた、青い南国のカクテルです。",
-   "howto": "見た目も楽しんで。"
+   "howto": "見た目も楽しんで。",
+   "about_en": "A blue tropical cocktail of rum, blue curaçao, pineapple juice and more.",
+   "howto_en": "Enjoy the look of it, too."
   },
   {
    "keys": [
@@ -3170,126 +4018,162 @@
     "ブラック・ルシアン"
    ],
    "about": "ウォッカとコーヒーリキュールを合わせたカクテルです。生クリームを浮かべるとホワイト・ルシアンになります。",
-   "howto": "食後に。"
+   "howto": "食後に。",
+   "about_en": "A cocktail of vodka and coffee liqueur. Float fresh cream on top and it becomes a White Russian.",
+   "howto_en": "After dinner."
   },
   {
    "keys": [
     "カミカゼ"
    ],
    "about": "ウォッカ、オレンジリキュール、ライムジュースを合わせた、すっきりと強めのカクテルです。",
-   "howto": "冷えたグラスで。"
+   "howto": "冷えたグラスで。",
+   "about_en": "A clean, fairly strong cocktail of vodka, orange liqueur and lime juice.",
+   "howto_en": "In a chilled glass."
   },
   {
    "keys": [
     "ブルドッグ"
    ],
    "about": "ウォッカをグレープフルーツジュースで割ったカクテルです。ソルティドッグから塩を除いたもので、「ソルティドッグのテールレス（しっぽなし）」とも呼ばれます。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of vodka and grapefruit juice. It is a Salty Dog without the salt, also called a tailless Salty Dog.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ヴェスパー"
    ],
    "about": "ジン、ウォッカ、リレを合わせたカクテルです。小説「007 カジノ・ロワイヤル」でジェームズ・ボンドが考案した一杯です。",
-   "howto": "冷えたグラスで、レモンの皮を添えて。"
+   "howto": "冷えたグラスで、レモンの皮を添えて。",
+   "about_en": "A cocktail of gin, vodka and Lillet. It was devised by James Bond in the novel Casino Royale.",
+   "howto_en": "In a chilled glass, with a twist of lemon peel."
   },
   {
    "keys": [
     "レゲエパンチ"
    ],
    "about": "ピーチリキュールをウーロン茶で割ったカクテルです。ピーチウーロンとも呼ばれます。",
-   "howto": "食事と一緒に。"
+   "howto": "食事と一緒に。",
+   "about_en": "A cocktail of peach liqueur and oolong tea. It is also called a peach oolong.",
+   "howto_en": "With a meal."
   },
   {
    "keys": [
     "ウイスキー・サワー"
    ],
    "about": "ウイスキー、レモンジュース、砂糖を合わせた甘酸っぱいカクテルです。卵白を加えてなめらかにすることもあります。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A sweet-tart cocktail of whisky, lemon juice and sugar. Sometimes egg white is added for smoothness.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "ミント・ジュレップ"
    ],
    "about": "バーボンにミントと砂糖を合わせ、砕いた氷で冷やしたカクテルです。アメリカの競馬「ケンタッキーダービー」の名物です。",
-   "howto": "砕いた氷でよく冷やして。"
+   "howto": "砕いた氷でよく冷やして。",
+   "about_en": "A cocktail of bourbon with mint and sugar, chilled with crushed ice. It is the signature drink of the Kentucky Derby horse race in the US.",
+   "howto_en": "Chill it well with crushed ice."
   },
   {
    "keys": [
     "ラスティ・ネイル"
    ],
    "about": "スコッチウイスキーにドランブイを加えたカクテルです。はちみつとハーブの甘い香りがあります。",
-   "howto": "食後に、ロックで。"
+   "howto": "食後に、ロックで。",
+   "about_en": "A cocktail of Scotch whisky with Drambuie. It has a sweet aroma of honey and herbs.",
+   "howto_en": "After dinner, on the rocks."
   },
   {
    "keys": [
     "アイリッシュ・コーヒー"
    ],
    "about": "アイリッシュウイスキーと砂糖を入れた熱いコーヒーに、生クリームを浮かべたカクテルです。",
-   "howto": "寒い日に、温かいうちに。"
+   "howto": "寒い日に、温かいうちに。",
+   "about_en": "A cocktail of hot coffee with Irish whiskey and sugar, topped with a float of fresh cream.",
+   "howto_en": "On a cold day, while it is still warm."
   },
   {
    "keys": [
     "ペニシリン"
    ],
    "about": "スコッチウイスキー、レモン、はちみつ、生姜を合わせ、スモーキーなウイスキーを浮かべた現代のカクテルです。",
-   "howto": "冷えたグラスで。"
+   "howto": "冷えたグラスで。",
+   "about_en": "A modern cocktail of Scotch whisky, lemon, honey and ginger, with smoky whisky floated on top.",
+   "howto_en": "In a chilled glass."
   },
   {
    "keys": [
     "パロマ"
    ],
    "about": "テキーラをグレープフルーツソーダで割ったカクテルです。メキシコで親しまれている爽やかな一杯です。",
-   "howto": "グラスのふちに塩をつけて。"
+   "howto": "グラスのふちに塩をつけて。",
+   "about_en": "A cocktail of tequila and grapefruit soda. A refreshing drink loved in Mexico.",
+   "howto_en": "With salt on the rim of the glass."
   },
   {
    "keys": [
     "ダーク・アンド・ストーミー"
    ],
    "about": "ダークラムをジンジャービアで割り、ライムを添えたカクテルです。嵐の空のような色から名付けられました。",
-   "howto": "よく冷やして。"
+   "howto": "よく冷やして。",
+   "about_en": "A cocktail of dark rum and ginger beer with lime. It is named for its color, like a stormy sky.",
+   "howto_en": "Serve well chilled."
   },
   {
    "keys": [
     "雪国"
    ],
    "about": "ウォッカ、ホワイトキュラソー、ライムを合わせ、グラスのふちに砂糖をつけてミントチェリーを沈めたカクテルです。日本のバーテンダーが考案しました。",
-   "howto": "冷えたグラスで。"
+   "howto": "冷えたグラスで。",
+   "about_en": "A cocktail of vodka, white curaçao and lime, with a sugar rim and a mint cherry sunk in the glass. It was created by a Japanese bartender.",
+   "howto_en": "In a chilled glass."
   },
   {
    "keys": [
     "チャイナブルー"
    ],
    "about": "ライチリキュールにグレープフルーツジュースとブルーキュラソーを合わせた、青いカクテルです。",
-   "howto": "見た目も楽しんで。"
+   "howto": "見た目も楽しんで。",
+   "about_en": "A blue cocktail of lychee liqueur with grapefruit juice and blue curaçao.",
+   "howto_en": "Enjoy the look of it, too."
   },
   {
    "keys": [
     "レモンサワー"
    ],
    "about": "焼酎などのお酒にレモン果汁とソーダを合わせた、居酒屋の定番です。すっきりと爽やかで、どんな料理にも合わせやすい一杯です。",
-   "howto": "唐揚げや焼き鳥と一緒に。"
+   "howto": "唐揚げや焼き鳥と一緒に。",
+   "about_en": "An izakaya staple of shochu or another spirit with lemon juice and soda. Clean and refreshing, it pairs easily with any dish.",
+   "howto_en": "With karaage or yakitori."
   },
   {
    "keys": [
     "ウーロンハイ"
    ],
    "about": "焼酎をウーロン茶で割ったものです。甘さがなく、すっきりしていて食事に合わせやすい一杯です。",
-   "howto": "脂っこい料理と一緒に。"
+   "howto": "脂っこい料理と一緒に。",
+   "about_en": "Shochu mixed with oolong tea. With no sweetness and a clean taste, it pairs easily with food.",
+   "howto_en": "With rich, oily dishes."
   },
   {
    "keys": [
     "緑茶ハイ"
    ],
    "about": "焼酎を緑茶で割ったものです。お茶の香りとすっきりした後味があります。",
-   "howto": "食事と一緒に。"
+   "howto": "食事と一緒に。",
+   "about_en": "Shochu mixed with green tea. It has the aroma of tea and a clean finish.",
+   "howto_en": "With a meal."
   },
   {
    "keys": [
     "静岡割り"
    ],
    "about": "焼酎を静岡の緑茶で割ったもので、静岡の居酒屋で親しまれている飲み方です。",
-   "howto": "静岡おでんと一緒に。"
+   "howto": "静岡おでんと一緒に。",
+   "about_en": "Shochu mixed with Shizuoka green tea, a popular way of drinking at izakaya in Shizuoka.",
+   "howto_en": "With Shizuoka-style oden."
   },
   {
    "keys": [
@@ -3298,7 +4182,9 @@
     "バスカー シングルポットスチル"
    ],
    "about": "アイルランド南東部カーロウのロイヤルオーク蒸溜所が造るアイリッシュウイスキーです。グレーン・モルト・ポットスチルの原酒を、バーボン樽やシェリー樽などで熟成させた、なめらかで甘い味わいです。",
-   "howto": "ハイボールやロックで気軽に。"
+   "howto": "ハイボールやロックで気軽に。",
+   "about_en": "An Irish whiskey from the Royal Oak distillery in Carlow, in southeast Ireland. Grain, malt and pot still whiskeys are aged in casks such as bourbon and sherry casks, making it smooth and sweet.",
+   "howto_en": "Casually, as a highball or on the rocks."
   }
  ],
  "types": [
@@ -3308,7 +4194,13 @@
     "大吟醸"
    ],
    "about": "米を半分以下まで磨くなど、手間をかけて低い温度でじっくり造る日本酒です。果物のような華やかな香り（吟醸香）が特徴です。",
-   "howto": "香りを楽しむため、冷やしてワイングラスで飲むのもおすすめです。"
+   "howto": "香りを楽しむため、冷やしてワイングラスで飲むのもおすすめです。",
+   "about_en": "A sake made with great care, such as polishing the rice to less than half its size and brewing slowly at low temperatures. It is known for its bright, fruity aroma, called ginjo aroma.",
+   "howto_en": "To enjoy the aroma, try it chilled in a wine glass.",
+   "keys_en": [
+    "Junmai Daiginjo",
+    "Daiginjo"
+   ]
   },
   {
    "keys": [
@@ -3316,7 +4208,13 @@
     "吟醸"
    ],
    "about": "米をよく磨いて低い温度で造る日本酒です。すっきりした味わいに、ほどよい華やかな香りがあります。",
-   "howto": "冷やしても、少しぬるめに温めてもおいしく飲めます。"
+   "howto": "冷やしても、少しぬるめに温めてもおいしく飲めます。",
+   "about_en": "A sake brewed at low temperatures from well-polished rice. It is clean on the palate, with a pleasantly bright aroma.",
+   "howto_en": "Good chilled, and just as nice gently warmed.",
+   "keys_en": [
+    "Junmai Ginjo",
+    "Ginjo"
+   ]
   },
   {
    "keys": [
@@ -3324,7 +4222,13 @@
     "特別純米"
    ],
    "about": "米と米こうじと水だけで造る日本酒です。米のうまみやコクをしっかり感じられます。",
-   "howto": "常温やぬる燗にすると、米のうまみがふくらみます。"
+   "howto": "常温やぬる燗にすると、米のうまみがふくらみます。",
+   "about_en": "A sake made only from rice, rice koji and water. You can really taste the savory depth and richness of the rice.",
+   "howto_en": "At room temperature or gently warmed, the rice flavor opens up.",
+   "keys_en": [
+    "Junmai",
+    "Tokubetsu Junmai"
+   ]
   },
   {
    "keys": [
@@ -3333,7 +4237,14 @@
     "普通酒"
    ],
    "about": "少量の醸造アルコールを加えて造る日本酒です。すっきり軽やかで、毎日の食事に合わせやすい味わいです。",
-   "howto": "熱燗にすると、キレのある味わいが料理によく合います。"
+   "howto": "熱燗にすると、キレのある味わいが料理によく合います。",
+   "about_en": "A sake made with a small addition of brewer's alcohol. Clean and light, it pairs easily with everyday meals.",
+   "howto_en": "Served hot as atsukan, its crisp finish goes well with food.",
+   "keys_en": [
+    "Honjozo",
+    "Tokubetsu Honjozo",
+    "Futsushu"
+   ]
   },
   {
    "keys": [
@@ -3341,7 +4252,14 @@
     "どぶろく"
    ],
    "about": "もろみを粗くこしたり、こさずに残したりした白くにごった日本酒です。米の甘みと、とろりとした口あたりが特徴です。",
-   "howto": "飲む前に瓶をやさしく傾けて、おりを混ぜてから注ぎます。"
+   "howto": "飲む前に瓶をやさしく傾けて、おりを混ぜてから注ぎます。",
+   "about_en": "A cloudy white sake, coarsely filtered or left unfiltered so the moromi remains. It has the sweetness of rice and a thick, creamy texture.",
+   "howto_en": "Gently tilt the bottle to mix in the sediment before pouring.",
+   "keys_en": [
+    "Nigori",
+    "Nigorizake",
+    "Doburoku"
+   ]
   },
   {
    "keys": [
@@ -3350,14 +4268,26 @@
     "原酒"
    ],
    "about": "火入れ（加熱殺菌）をしていない、または加水していない日本酒です。しぼりたてのフレッシュな香りや力強さがあります。",
-   "howto": "よく冷やして、早めに飲みきるのがおすすめです。"
+   "howto": "よく冷やして、早めに飲みきるのがおすすめです。",
+   "about_en": "A sake that is unpasteurized, or undiluted with water. It has the fresh aroma and bold strength of sake straight from the press.",
+   "howto_en": "Serve well chilled and finish it fairly soon after opening.",
+   "keys_en": [
+    "Namazake",
+    "Nama Genshu",
+    "Genshu"
+   ]
   },
   {
    "keys": [
     "ひやおろし"
    ],
    "about": "冬に造って春夏の間ひと夏寝かせ、秋に出荷する日本酒です。熟成によって味わいがまろやかになっています。",
-   "howto": "常温やぬる燗で、秋の味覚と一緒にどうぞ。"
+   "howto": "常温やぬる燗で、秋の味覚と一緒にどうぞ。",
+   "about_en": "A sake brewed in winter, rested through spring and summer, and released in autumn. The aging gives it a mellow, rounded flavor.",
+   "howto_en": "Enjoy at room temperature or gently warmed, with autumn dishes.",
+   "keys_en": [
+    "Hiyaoroshi"
+   ]
   },
   {
    "keys": [
@@ -3365,7 +4295,14 @@
     "熟成酒"
    ],
    "about": "長い期間寝かせた日本酒です。色が琥珀色になり、カラメルやナッツのような香りが出てきます。",
-   "howto": "常温で少しずつ。チーズなどにも合います。"
+   "howto": "常温で少しずつ。チーズなどにも合います。",
+   "about_en": "A sake aged for a long time. It turns amber in color and develops aromas of caramel and nuts.",
+   "howto_en": "Sip slowly at room temperature. It also goes well with cheese.",
+   "keys_en": [
+    "Aged Sake",
+    "Jukuseishu",
+    "Koshu Sake"
+   ]
   },
   {
    "keys": [
@@ -3373,14 +4310,25 @@
     "生酛"
    ],
    "about": "昔ながらの手間のかかる方法で酒母（お酒のもと）を育てて造る日本酒です。しっかりした酸味とコクがあります。",
-   "howto": "燗にすると、うまみと酸味のバランスがよく感じられます。"
+   "howto": "燗にすると、うまみと酸味のバランスがよく感じられます。",
+   "about_en": "A sake made by raising the shubo, or yeast starter, in a traditional, labor-intensive way. It has firm acidity and rich depth.",
+   "howto_en": "Warmed, its savoriness and acidity come into fine balance.",
+   "keys_en": [
+    "Yamahai",
+    "Kimoto"
+   ]
   },
   {
    "keys": [
     "スパークリング日本酒"
    ],
    "about": "炭酸ガスを含んだ、しゅわっとした日本酒です。軽やかで、乾杯の一杯にもぴったりです。",
-   "howto": "よく冷やして、シャンパングラスなどで。"
+   "howto": "よく冷やして、シャンパングラスなどで。",
+   "about_en": "A fizzy sake with natural bubbles. Light and lively, it is perfect for a toast.",
+   "howto_en": "Serve well chilled, in a Champagne flute or similar glass.",
+   "keys_en": [
+    "Sparkling Sake"
+   ]
   },
   {
    "keys": [
@@ -3388,21 +4336,41 @@
     "燗酒"
    ],
    "about": "日本酒を温めて飲むことです。温度によって「ぬる燗」「上燗」「熱燗」などと呼び分けます。",
-   "howto": "温めるとうまみがふくらみ、香りもやわらかくなります。"
+   "howto": "温めるとうまみがふくらみ、香りもやわらかくなります。",
+   "about_en": "This means drinking sake warm. Depending on the temperature, it is called nurukan, jokan, atsukan and so on.",
+   "howto_en": "Warming brings out the savoriness and softens the aroma.",
+   "keys_en": [
+    "Atsukan",
+    "Kanzake",
+    "Hot Sake",
+    "Warm Sake"
+   ]
   },
   {
    "keys": [
     "芋焼酎"
    ],
    "about": "さつまいもからつくる焼酎です。芋ならではの甘く豊かな香りが特徴です。",
-   "howto": "お湯割りにすると、芋の甘い香りがいっそう引き立ちます。"
+   "howto": "お湯割りにすると、芋の甘い香りがいっそう引き立ちます。",
+   "about_en": "A shochu made from sweet potatoes. It is known for a rich, sweet aroma that only sweet potato can give.",
+   "howto_en": "Oyuwari, with hot water, brings out the sweet potato aroma even more.",
+   "keys_en": [
+    "Imo Shochu",
+    "Sweet Potato Shochu"
+   ]
   },
   {
    "keys": [
     "麦焼酎"
    ],
    "about": "大麦からつくる焼酎です。すっきりと軽やかで、香ばしさを感じるものもあります。",
-   "howto": "水割りやソーダ割りで、食事と一緒に。"
+   "howto": "水割りやソーダ割りで、食事と一緒に。",
+   "about_en": "A shochu made from barley. It is clean and light, and some have a toasty note.",
+   "howto_en": "Mizuwari or with soda, alongside a meal.",
+   "keys_en": [
+    "Mugi Shochu",
+    "Barley Shochu"
+   ]
   },
   {
    "keys": [
@@ -3410,21 +4378,40 @@
     "球磨焼酎"
    ],
    "about": "米からつくる焼酎です。日本酒にも通じる、やわらかな甘みと香りがあります。",
-   "howto": "ロックや水割りで、米の香りを楽しんでください。"
+   "howto": "ロックや水割りで、米の香りを楽しんでください。",
+   "about_en": "A shochu made from rice. It has a soft sweetness and aroma, much like sake.",
+   "howto_en": "On the rocks or mizuwari, to enjoy the aroma of the rice.",
+   "keys_en": [
+    "Kome Shochu",
+    "Rice Shochu",
+    "Kuma Shochu"
+   ]
   },
   {
    "keys": [
     "黒糖焼酎"
    ],
    "about": "奄美群島でつくられる、黒糖と米こうじを原料にした焼酎です。ほんのり甘い香りがあります。",
-   "howto": "ロックやソーダ割りがおすすめです。"
+   "howto": "ロックやソーダ割りがおすすめです。",
+   "about_en": "A shochu made in the Amami Islands from brown sugar and rice koji. It has a gently sweet aroma.",
+   "howto_en": "On the rocks or with soda is recommended.",
+   "keys_en": [
+    "Kokuto Shochu",
+    "Brown Sugar Shochu"
+   ]
   },
   {
    "keys": [
     "泡盛"
    ],
    "about": "沖縄でつくられる、黒こうじ菌を使った米の蒸留酒です。3年以上寝かせたものは「古酒（クース）」と呼ばれます。",
-   "howto": "水割りが定番。古酒はストレートで香りを楽しむのもおすすめです。"
+   "howto": "水割りが定番。古酒はストレートで香りを楽しむのもおすすめです。",
+   "about_en": "A rice spirit from Okinawa, made with black koji mold. Awamori aged for three years or more is called kusu.",
+   "howto_en": "Mizuwari is the classic way. Kusu is also lovely neat, for its aroma.",
+   "keys_en": [
+    "Awamori",
+    "Kusu"
+   ]
   },
   {
    "keys": [
@@ -3432,7 +4419,13 @@
     "インディア・ペールエール"
    ],
    "about": "ホップをたっぷり使った、香りと苦みのしっかりしたビールです。柑橘や松のような香りを感じるものが多くあります。",
-   "howto": "冷やしすぎず、香りが立つ少し高めの温度で。"
+   "howto": "冷やしすぎず、香りが立つ少し高めの温度で。",
+   "about_en": "A beer made with plenty of hops, with a pronounced aroma and bitterness. Many have citrus or pine-like aromas.",
+   "howto_en": "Don't over-chill it; a slightly warmer temperature lets the aroma rise.",
+   "keys_en": [
+    "IPA",
+    "India Pale Ale"
+   ]
   },
   {
    "keys": [
@@ -3440,7 +4433,12 @@
     "エール"
    ],
    "about": "上面発酵の酵母でつくる、香り豊かなビールです。果実のような香りとしっかりした味わいがあります。",
-   "howto": "グラスに注いで、香りを楽しみながら。"
+   "howto": "グラスに注いで、香りを楽しみながら。",
+   "about_en": "An aromatic beer brewed with top-fermenting yeast. It has fruity aromas and a full flavor.",
+   "howto_en": "Pour it into a glass and enjoy the aroma as you drink.",
+   "keys_en": [
+    "Pale Ale"
+   ]
   },
   {
    "keys": [
@@ -3449,7 +4447,17 @@
     "白ビール"
    ],
    "about": "小麦を使ってつくる、白くにごったビールです。バナナやクローブのようなやさしい香りがあります。",
-   "howto": "背の高いグラスに、泡ごとゆっくり注ぐのがおすすめです。"
+   "howto": "背の高いグラスに、泡ごとゆっくり注ぐのがおすすめです。",
+   "about_en": "A cloudy white beer brewed with wheat. It has gentle aromas of banana and clove.",
+   "howto_en": "Pour it slowly into a tall glass, foam and all.",
+   "keys_en": [
+    "Weizen",
+    "Hefeweizen",
+    "Witbier",
+    "Belgian White",
+    "White Beer",
+    "Wheat Beer"
+   ]
   },
   {
    "keys": [
@@ -3458,7 +4466,15 @@
     "ポーター"
    ],
    "about": "よく焙煎した麦芽を使った、黒いビールです。コーヒーやチョコレートのような香ばしさがあります。",
-   "howto": "少し温度を上げると、香ばしさとコクがよくわかります。"
+   "howto": "少し温度を上げると、香ばしさとコクがよくわかります。",
+   "about_en": "A dark beer made with deeply roasted malt. It has a toasty character reminiscent of coffee and chocolate.",
+   "howto_en": "Let it warm up a little to taste its roastiness and depth.",
+   "keys_en": [
+    "Stout",
+    "Porter",
+    "Black Beer",
+    "Dark Beer"
+   ]
   },
   {
    "keys": [
@@ -3466,7 +4482,14 @@
     "ラガー"
    ],
    "about": "下面発酵の酵母でつくる、すっきりしたビールです。日本でよく飲まれているビールの多くがこのタイプです。",
-   "howto": "よく冷やして、のどごしを楽しんでください。"
+   "howto": "よく冷やして、のどごしを楽しんでください。",
+   "about_en": "A crisp beer brewed with bottom-fermenting yeast. Most of the beer commonly drunk in Japan is this type.",
+   "howto_en": "Serve well chilled and enjoy how smoothly it goes down.",
+   "keys_en": [
+    "Pilsner",
+    "Pils",
+    "Lager"
+   ]
   },
   {
    "keys": [
@@ -3474,7 +4497,12 @@
     "シャンパーニュ"
    ],
    "about": "フランスのシャンパーニュ地方で、決められた方法で造られたスパークリングワインだけがこう名乗れます。細かい泡と、パンのような香りが特徴です。",
-   "howto": "よく冷やして、細長いグラスで泡の立ちのぼる様子も楽しんでください。"
+   "howto": "よく冷やして、細長いグラスで泡の立ちのぼる様子も楽しんでください。",
+   "about_en": "Only sparkling wine made in France's Champagne region by the prescribed method may use this name. It is known for fine bubbles and a bready aroma.",
+   "howto_en": "Serve well chilled in a tall flute, and watch the bubbles rise.",
+   "keys_en": [
+    "Champagne"
+   ]
   },
   {
    "keys": [
@@ -3485,112 +4513,212 @@
     "スプマンテ"
    ],
    "about": "炭酸ガスを含んだワインです。国や地域によって、造り方や呼び名が変わります。",
-   "howto": "よく冷やして、乾杯や前菜と一緒に。"
+   "howto": "よく冷やして、乾杯や前菜と一緒に。",
+   "about_en": "A wine with carbonation. Methods and names vary by country and region.",
+   "howto_en": "Serve well chilled, for a toast or with appetizers.",
+   "keys_en": [
+    "Sparkling Wine",
+    "Cava",
+    "Prosecco",
+    "Crémant",
+    "Cremant",
+    "Spumante"
+   ]
   },
   {
    "keys": [
     "カベルネ・ソーヴィニヨン"
    ],
    "about": "世界中で育てられている、赤ワインの代表的なぶどう品種です。しっかりした渋みと、カシスのような香りがあります。",
-   "howto": "グラスに注いで少し時間をおくと、味わいがまろやかになります。"
+   "howto": "グラスに注いで少し時間をおくと、味わいがまろやかになります。",
+   "about_en": "One of the classic red wine grapes, grown all over the world. It has firm tannins and a blackcurrant-like aroma.",
+   "howto_en": "Let it sit in the glass for a while and it becomes rounder.",
+   "keys_en": [
+    "Cabernet Sauvignon"
+   ]
   },
   {
    "keys": [
     "ピノ・ノワール"
    ],
    "about": "繊細な味わいの赤ワインになるぶどう品種です。さくらんぼやいちごのような香りと、やわらかな渋みが特徴です。",
-   "howto": "やや低めの温度で、香りを楽しみながら。"
+   "howto": "やや低めの温度で、香りを楽しみながら。",
+   "about_en": "A grape that makes delicate red wines. It is known for cherry and strawberry aromas and soft tannins.",
+   "howto_en": "Serve slightly cool and enjoy the aroma.",
+   "keys_en": [
+    "Pinot Noir"
+   ]
   },
   {
    "keys": [
     "シャルドネ"
    ],
    "about": "白ワインの代表的なぶどう品種です。産地や造り方によって、すっきりしたものから樽の香りのするコクのあるものまで幅があります。",
-   "howto": "すっきり系はよく冷やして、コクのあるものは少し温度を上げて。"
+   "howto": "すっきり系はよく冷やして、コクのあるものは少し温度を上げて。",
+   "about_en": "One of the classic white wine grapes. Depending on where and how it is made, it ranges from crisp to rich and oaky.",
+   "howto_en": "Chill the crisp ones well; serve the richer ones a little warmer.",
+   "keys_en": [
+    "Chardonnay"
+   ]
   },
   {
    "keys": [
     "甲州"
    ],
    "about": "日本で古くから育てられてきた、白ワイン用のぶどう品種です。やさしい香りとすっきりした味わいで、和食によく合います。",
-   "howto": "冷やして、和食と一緒にどうぞ。"
+   "howto": "冷やして、和食と一緒にどうぞ。",
+   "about_en": "A white wine grape grown in Japan since long ago. Its gentle aroma and crisp taste go well with Japanese food.",
+   "howto_en": "Chilled, with Japanese dishes.",
+   "keys_en": [
+    "Koshu"
+   ]
   },
   {
    "keys": [
     "ハイボール"
    ],
    "about": "ウイスキーをソーダで割った飲み物です。食事と一緒に楽しみやすい、すっきりした味わいです。",
-   "howto": "グラスとウイスキーを冷やしておき、ソーダは氷に当てずにそっと注ぐと炭酸が長持ちします。"
+   "howto": "グラスとウイスキーを冷やしておき、ソーダは氷に当てずにそっと注ぐと炭酸が長持ちします。",
+   "about_en": "Whisky topped up with soda. Its clean, refreshing taste makes it easy to enjoy with food.",
+   "howto_en": "Chill the glass and whisky first, then pour the soda gently, not onto the ice, to keep the fizz longer.",
+   "keys_en": [
+    "Highball"
+   ]
   },
   {
    "keys": [
     "ジントニック"
    ],
    "about": "ジンをトニックウォーターで割った定番のカクテルです。ジンの香りとほろ苦さが楽しめます。",
-   "howto": "ライムを搾ると香りが引き立ちます。"
+   "howto": "ライムを搾ると香りが引き立ちます。",
+   "about_en": "A classic cocktail of gin and tonic water. You can enjoy the gin's aroma and a gentle bitterness.",
+   "howto_en": "A squeeze of lime lifts the aroma.",
+   "keys_en": [
+    "Gin and Tonic",
+    "Gin & Tonic",
+    "Gin Tonic"
+   ]
   },
   {
    "keys": [
     "レモンサワー"
    ],
    "about": "焼酎などをレモン果汁とソーダで割った飲み物です。さっぱりして、どんな料理にも合わせやすい一杯です。",
-   "howto": "生のレモンを搾ると、香りがぐっとよくなります。"
+   "howto": "生のレモンを搾ると、香りがぐっとよくなります。",
+   "about_en": "Shochu or a similar spirit mixed with lemon juice and soda. Light and refreshing, it goes with almost any dish.",
+   "howto_en": "Squeezing in fresh lemon makes the aroma much better.",
+   "keys_en": [
+    "Lemon Sour"
+   ]
   },
   {
    "keys": [
     "シェリー酒"
    ],
    "about": "スペイン・アンダルシアのヘレス周辺で造られる、アルコールを加えたワインです。辛口から極甘口まで幅広いタイプがあります。",
-   "howto": "辛口は冷やして、生ハムやナッツと。"
+   "howto": "辛口は冷やして、生ハムやナッツと。",
+   "about_en": "A fortified wine made around Jerez in Andalusia, Spain. Styles range widely from dry to intensely sweet.",
+   "howto_en": "Serve the dry styles chilled, with cured ham or nuts.",
+   "keys_en": [
+    "Sherry Wine",
+    "Jerez",
+    "Fino",
+    "Manzanilla",
+    "Amontillado"
+   ]
   },
   {
    "keys": [
     "ポートワイン"
    ],
    "about": "ポルトガルのドウロ川流域で造られる、アルコールを加えた甘口のワインです。濃厚な甘さがあります。",
-   "howto": "食後に、チーズやチョコレートと。"
+   "howto": "食後に、チーズやチョコレートと。",
+   "about_en": "A sweet fortified wine made along the Douro River in Portugal. It has a rich, deep sweetness.",
+   "howto_en": "After dinner, with cheese or chocolate.",
+   "keys_en": [
+    "Port Wine",
+    "Porto",
+    "Tawny Port",
+    "Ruby Port"
+   ]
   },
   {
    "keys": [
     "アマレット"
    ],
    "about": "イタリアのリキュールです。杏の種などから造る、アーモンドのような甘い香りがあります。",
-   "howto": "ロックか、アマレット・サワーで。"
+   "howto": "ロックか、アマレット・サワーで。",
+   "about_en": "An Italian liqueur made from apricot kernels and other ingredients. It has a sweet, almond-like aroma.",
+   "howto_en": "On the rocks, or in an Amaretto Sour.",
+   "keys_en": [
+    "Amaretto"
+   ]
   },
   {
    "keys": [
     "リモンチェッロ"
    ],
    "about": "イタリア南部の、レモンの皮から造るリキュールです。甘くさわやかなレモンの香りがあります。",
-   "howto": "冷凍庫で冷やして、食後に。"
+   "howto": "冷凍庫で冷やして、食後に。",
+   "about_en": "A liqueur from southern Italy made from lemon peel. It has a sweet, fresh lemon aroma.",
+   "howto_en": "Chill it in the freezer and serve after dinner.",
+   "keys_en": [
+    "Limoncello"
+   ]
   },
   {
    "keys": [
     "クレーム・ド・カシス"
    ],
    "about": "黒すぐり（カシス）のリキュールです。濃い甘酸っぱさがあります。",
-   "howto": "オレンジジュースやソーダ、白ワインで割って。"
+   "howto": "オレンジジュースやソーダ、白ワインで割って。",
+   "about_en": "A liqueur made from blackcurrants, or cassis. It is deeply sweet and tart.",
+   "howto_en": "Mix with orange juice, soda or white wine.",
+   "keys_en": [
+    "Crème de Cassis",
+    "Creme de Cassis",
+    "Cassis"
+   ]
   },
   {
    "keys": [
     "アブサン"
    ],
    "about": "ニガヨモギなどのハーブを使った、緑色の強いリキュールです。19世紀のパリで芸術家に愛されました。",
-   "howto": "水を少しずつ加えて。"
+   "howto": "水を少しずつ加えて。",
+   "about_en": "A strong green liqueur made with wormwood and other herbs. It was loved by artists in 19th-century Paris.",
+   "howto_en": "Add water a little at a time.",
+   "keys_en": [
+    "Absinthe"
+   ]
   },
   {
    "keys": [
     "桂花陳酒"
    ],
    "about": "白ワインに金木犀の花を漬けた中国のお酒です。甘く華やかな香りがあります。",
-   "howto": "ロックかソーダ割りで。"
+   "howto": "ロックかソーダ割りで。",
+   "about_en": "A Chinese liqueur made by steeping osmanthus flowers in white wine. It has a sweet, floral aroma.",
+   "howto_en": "On the rocks or with soda.",
+   "keys_en": [
+    "Osmanthus Wine",
+    "Kwei Hua Chen Chiew",
+    "Guihua Chenjiu"
+   ]
   },
   {
    "keys": [
     "ウイスキー水割り"
    ],
    "about": "ウイスキーを水で割った、日本で親しまれてきた飲み方です。香りがやわらかく開き、食事にも合わせやすくなります。",
-   "howto": "ウイスキー1に水2〜2.5くらいが目安です。"
+   "howto": "ウイスキー1に水2〜2.5くらいが目安です。",
+   "about_en": "Whisky diluted with water, a long-loved way of drinking in Japan. The aroma opens softly and it pairs more easily with food.",
+   "howto_en": "About 1 part whisky to 2 to 2.5 parts water is a good guide.",
+   "keys_en": [
+    "Mizuwari",
+    "Whisky and Water",
+    "Whiskey and Water"
+   ]
   }
  ]
 }
